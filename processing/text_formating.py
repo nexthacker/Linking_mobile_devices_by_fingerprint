@@ -18,5 +18,3 @@ def text_processing(num_coletas):
             new_file.write("{} {} \n".format(value[0], value[1]))
         
         new_file.close()
-
-text_processing(4)
