@@ -1,7 +1,8 @@
-from sqlalchemy import Column, String, ForeignKey, Date, Interval, create_engine, Integer, Float
+from sqlalchemy import create_engine, Column, Integer, String, Boolean, ForeignKey
 from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy.orm import sessionmaker, relationship
+from sqlalchemy.orm import sessionmaker
 from sqlalchemy_utils import database_exists, create_database
+
 
 Base = declarative_base()
 
@@ -18,17 +19,23 @@ class Ssid(Base):
 class Mac_ssid(Base):
     __tablename__ = 'ssid_mac'
     id = Column("id", Integer, primary_key=True)
-    mac_adress = Colum("mac_id", Integer, foreng_key(mac.id))
-    ssid = Colum("ssid_id", Integer, foreng_key(ssid.id))
+    mac_adress = Column("mac_id", String(32))
+    ssid = Column("ssid_id", String(32))
 
 class Link(Base):
     __tablename__ = 'links'
     id = Column("id", Integer, primary_key=True)
-    mac_id = Colum("device1_id", Integer, foreng_key(mac.id))
-    mac2_id = Colum("device2_id", Integer, foreng_key(mac.id))
+    mac_id = Column("device1_id", String(32))
+    mac2_id = Column("device2_id", String(32))
 
 def get_engine():
-    engine = create_engine(DATABASE_URI)
+    user = "root"
+    password = ""
+    address = "localhost"
+    database_name = "ssid_mac"
+    engine = create_engine('mysql+pymysql://%s:%s@%s/%s' % (user, password, address, database_name), echo=True)
+    # engine = create_engine('mysql+pymysql://%s:%s@%s:3000/%s' %(user, password, address, database_name), echo=True)
+
     return engine
 
 

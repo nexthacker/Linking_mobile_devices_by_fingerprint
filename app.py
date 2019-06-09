@@ -1,14 +1,17 @@
-from text_formating import text_processing
-from db_helper import init
+from processing import text_formating as tf 
+from processing import processamento as pro
+from db import db_helper as dbh
 
-
+num_colestas = 4
 if __name__ == "__main__":
     print('Iniciando tabelas...')
-    init()
+    dbh.init()
     print('Pronto!')
     print("processando coletas...")
-    text_processing(5)
+    tf.text_processing(num_colestas)
+    pro.process_entry(num_colestas)
     print("Analizando dados...")
+    
 
 
     while True:

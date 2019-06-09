@@ -1,3 +1,3 @@
-import text_formating
-import processamento 
-import applicatoin_objects
+import processing.text_formating
+import processing.processamento 
+import processing.application_objects

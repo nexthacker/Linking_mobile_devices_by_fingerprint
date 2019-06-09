@@ -1,5 +1,5 @@
-from coletas.db_helper import get_session, Mac, Ssid, Link, Mac_ssid
-from coletas.application_objects import *
+from db.db_helper import get_session, Mac, Ssid, Link, Mac_ssid
+from processing.application_objects import *
 
 
 def add_mac(mac):
@@ -55,6 +55,17 @@ def search_ssid_by_mac(mac):
         for returned_ssids in ssid_query:
             list_ssid.append(returned_ssids.ssid)
     return list_ssid
+
+def search_mac_by_ssid(siid):
+    list_macs = []
+    session = get_session()
+    session = session()
+    mac_query = session.query(Mac_ssid).filter(Mac_ssid.ssid == ssid)
+    if mac_query:
+        for returned_macs in mac_query:
+            list_macs.append(returned_macs.ssid)
+    return list_macs
+
         
 
 def rank_ssid_by_apearences():
