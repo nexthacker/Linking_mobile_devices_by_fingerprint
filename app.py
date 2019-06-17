@@ -11,8 +11,6 @@ if __name__ == "__main__":
     tf.text_processing(num_colestas)
     pro.process_entry(num_colestas)
     print("Analizando dados...")
-    
-
 
     while True:
         pass

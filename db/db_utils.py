@@ -62,7 +62,6 @@ def search_all_ssid_macs(ssid):
         return None
 
 
-
 def get_all_macs():
     session = get_session()
     session = session()

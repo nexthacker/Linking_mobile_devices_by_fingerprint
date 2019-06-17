@@ -15,6 +15,7 @@ class Mac:
     def get_adress(self):
         return self.mac_adress
 
+
 class Ssid:
     def __init__(self):
         self.nome = None
