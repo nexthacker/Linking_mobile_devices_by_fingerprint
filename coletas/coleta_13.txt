@@ -1,0 +1,5952 @@
+RSSI: -86 Ch: 3 Peer MAC: d4:63:c6:82:14:fe SEQ: 201 EID: 0 SSID:  
+
+Count: 1
+RSSI: -84 Ch: 3 Peer MAC: d4:63:c6:82:14:fe SEQ: 201 EID: 0 SSID:  
+
+Count: 2
+RSSI: -86 Ch: 3 Peer MAC: d4:63:c6:82:14:fe SEQ: 201 EID: 0 SSID:  
+
+Count: 3
+RSSI: -85 Ch: 9 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 248 EID: 0 SSID:  
+
+Count: 4
+RSSI: -77 Ch: 9 Peer MAC: ec:88:92:45:82:e3 SEQ: 207 EID: 0 SSID:  
+
+Count: 5
+RSSI: -78 Ch: 9 Peer MAC: ec:88:92:45:82:e3 SEQ: 207 EID: 0 SSID:  
+
+Count: 6
+RSSI: -76 Ch: 9 Peer MAC: ec:88:92:45:82:e3 SEQ: 207 EID: 0 SSID:  
+
+Count: 7
+RSSI: -76 Ch: 9 Peer MAC: ec:88:92:45:82:e3 SEQ: 207 EID: 0 SSID:  
+
+Count: 8
+RSSI: -75 Ch: 9 Peer MAC: ec:88:92:45:82:e3 SEQ: 207 EID: 0 SSID:  
+
+Count: 9
+RSSI: -79 Ch: 9 Peer MAC: ec:88:92:45:82:e3 SEQ: 207 EID: 0 SSID:  
+
+Count: 10
+RSSI: -75 Ch: 9 Peer MAC: ec:88:92:45:82:e3 SEQ: 207 EID: 0 SSID:  
+
+Count: 11
+RSSI: -76 Ch: 9 Peer MAC: ec:88:92:45:82:e3 SEQ: 207 EID: 0 SSID:  
+
+Count: 12
+RSSI: -85 Ch: 12 Peer MAC: 10:f1:f2:52:43:6c SEQ: 71 EID: 0 SSID:  
+
+Count: 13
+RSSI: -82 Ch: 12 Peer MAC: 10:f1:f2:52:43:6c SEQ: 71 EID: 0 SSID:  
+
+Count: 14
+RSSI: -82 Ch: 12 Peer MAC: 10:f1:f2:52:43:6c SEQ: 71 EID: 0 SSID:  
+
+Count: 15
+RSSI: -76 Ch: 13 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 67 EID: 0 SSID:  
+
+Count: 16
+RSSI: -83 Ch: 9 Peer MAC: 78:88:6d:62:c0:6b SEQ: 205 EID: 0 SSID: e04c5a 
+
+Count: 17
+RSSI: -87 Ch: 10 Peer MAC: 5c:c9:d3:1f:a8:e8 SEQ: 109 EID: 0 SSID: GVT-4793 
+
+Count: 18
+RSSI: -84 Ch: 11 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 250 EID: 0 SSID:  
+
+Count: 19
+RSSI: -88 Ch: 11 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 250 EID: 0 SSID:  
+
+Count: 20
+RSSI: -39 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 30 EID: 0 SSID: VIVO-3734 
+
+Count: 21
+RSSI: -79 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 30 EID: 0 SSID: VIVO-3734 
+
+Count: 22
+RSSI: -82 Ch: 5 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 30 EID: 0 SSID: VIVO-3734 
+
+Count: 23
+RSSI: -43 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 31 EID: 0 SSID: VIVO-3734 
+
+Count: 24
+RSSI: -44 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 31 EID: 0 SSID: VIVO-3734 
+
+Count: 25
+RSSI: -31 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 31 EID: 0 SSID: VIVO-3734 
+
+Count: 26
+RSSI: -32 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 32 EID: 0 SSID: VIVO-3734 
+
+Count: 27
+RSSI: -77 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 33 EID: 0 SSID: VIVO-3734 
+
+Count: 28
+RSSI: -72 Ch: 12 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 70 EID: 0 SSID:  
+
+Count: 29
+RSSI: -70 Ch: 12 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 70 EID: 0 SSID:  
+
+Count: 30
+RSSI: -47 Ch: 12 Peer MAC: 50:92:b9:a4:21:0a SEQ: 123 EID: 0 SSID:  
+
+Count: 31
+RSSI: -48 Ch: 12 Peer MAC: 50:92:b9:a4:21:0a SEQ: 123 EID: 0 SSID:  
+
+Count: 32
+RSSI: -48 Ch: 12 Peer MAC: 50:92:b9:a4:21:0a SEQ: 123 EID: 0 SSID:  
+
+Count: 33
+RSSI: -50 Ch: 12 Peer MAC: 50:92:b9:a4:21:0a SEQ: 123 EID: 0 SSID:  
+
+Count: 34
+RSSI: -49 Ch: 12 Peer MAC: 50:92:b9:a4:21:0a SEQ: 123 EID: 0 SSID:  
+
+Count: 35
+RSSI: -84 Ch: 13 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 252 EID: 0 SSID:  
+
+Count: 36
+RSSI: -86 Ch: 4 Peer MAC: d4:63:c6:82:14:fe SEQ: 206 EID: 0 SSID:  
+
+Count: 37
+RSSI: -85 Ch: 5 Peer MAC: d4:63:c6:82:14:fe SEQ: 206 EID: 0 SSID:  
+
+Count: 38
+RSSI: -91 Ch: 6 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 252 EID: 0 SSID:  
+
+Count: 39
+RSSI: -87 Ch: 3 Peer MAC: dc:53:60:0d:19:2a SEQ: 56 EID: 0 SSID:  
+
+Count: 40
+RSSI: -48 Ch: 1 Peer MAC: 50:92:b9:a4:21:0a SEQ: 130 EID: 0 SSID:  
+
+Count: 41
+RSSI: -47 Ch: 1 Peer MAC: 50:92:b9:a4:21:0a SEQ: 130 EID: 0 SSID:  
+
+Count: 42
+RSSI: -50 Ch: 1 Peer MAC: 50:92:b9:a4:21:0a SEQ: 130 EID: 0 SSID:  
+
+Count: 43
+RSSI: -54 Ch: 1 Peer MAC: 50:92:b9:a4:21:0a SEQ: 130 EID: 0 SSID:  
+
+Count: 44
+RSSI: -85 Ch: 3 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 171 EID: 0 SSID:  
+
+Count: 45
+RSSI: -86 Ch: 3 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 171 EID: 0 SSID:  
+
+Count: 46
+RSSI: -85 Ch: 3 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 171 EID: 0 SSID:  
+
+Count: 47
+RSSI: -77 Ch: 3 Peer MAC: ec:88:92:45:82:e3 SEQ: 209 EID: 0 SSID:  
+
+Count: 48
+RSSI: -78 Ch: 3 Peer MAC: ec:88:92:45:82:e3 SEQ: 209 EID: 0 SSID:  
+
+Count: 49
+RSSI: -76 Ch: 3 Peer MAC: ec:88:92:45:82:e3 SEQ: 209 EID: 0 SSID:  
+
+Count: 50
+RSSI: -75 Ch: 3 Peer MAC: ec:88:92:45:82:e3 SEQ: 209 EID: 0 SSID:  
+
+Count: 51
+RSSI: -72 Ch: 3 Peer MAC: ec:88:92:45:82:e3 SEQ: 209 EID: 0 SSID:  
+
+Count: 52
+RSSI: -73 Ch: 3 Peer MAC: ec:88:92:45:82:e3 SEQ: 209 EID: 0 SSID:  
+
+Count: 53
+RSSI: -73 Ch: 4 Peer MAC: ec:88:92:45:82:e3 SEQ: 209 EID: 0 SSID:  
+
+Count: 54
+RSSI: -74 Ch: 4 Peer MAC: ec:88:92:45:82:e3 SEQ: 209 EID: 0 SSID:  
+
+Count: 55
+RSSI: -76 Ch: 4 Peer MAC: ec:88:92:45:82:e3 SEQ: 209 EID: 0 SSID:  
+
+Count: 56
+RSSI: -75 Ch: 4 Peer MAC: ec:88:92:45:82:e3 SEQ: 209 EID: 0 SSID:  
+
+Count: 57
+RSSI: -77 Ch: 4 Peer MAC: ec:88:92:45:82:e3 SEQ: 209 EID: 0 SSID:  
+
+Count: 58
+RSSI: -85 Ch: 5 Peer MAC: d4:63:c6:82:14:fe SEQ: 216 EID: 0 SSID:  
+
+Count: 59
+RSSI: -85 Ch: 11 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 0 EID: 0 SSID:  
+
+Count: 60
+RSSI: -67 Ch: 2 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 75 EID: 0 SSID:  
+
+Count: 61
+RSSI: -68 Ch: 2 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 75 EID: 0 SSID:  
+
+Count: 62
+RSSI: -88 Ch: 7 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 0 EID: 0 SSID: netvirtua 224 104 
+
+Count: 63
+RSSI: -79 Ch: 10 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 3 EID: 0 SSID:  
+
+Count: 64
+RSSI: -79 Ch: 10 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 3 EID: 0 SSID:  
+
+Count: 65
+RSSI: -81 Ch: 10 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 3 EID: 0 SSID:  
+
+Count: 66
+RSSI: -79 Ch: 10 Peer MAC: ec:88:92:45:82:e3 SEQ: 211 EID: 0 SSID:  
+
+Count: 67
+RSSI: -79 Ch: 10 Peer MAC: ec:88:92:45:82:e3 SEQ: 211 EID: 0 SSID:  
+
+Count: 68
+RSSI: -79 Ch: 2 Peer MAC: ec:88:92:45:82:e3 SEQ: 211 EID: 0 SSID:  
+
+Count: 69
+RSSI: -79 Ch: 2 Peer MAC: ec:88:92:45:82:e3 SEQ: 211 EID: 0 SSID:  
+
+Count: 70
+RSSI: -74 Ch: 2 Peer MAC: ec:88:92:45:82:e3 SEQ: 211 EID: 0 SSID:  
+
+Count: 71
+RSSI: -73 Ch: 2 Peer MAC: ec:88:92:45:82:e3 SEQ: 211 EID: 0 SSID:  
+
+Count: 72
+RSSI: -79 Ch: 2 Peer MAC: ec:88:92:45:82:e3 SEQ: 212 EID: 0 SSID:  
+
+Count: 73
+RSSI: -32 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 33 EID: 0 SSID: VIVO-3734 
+
+Count: 74
+RSSI: -32 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 33 EID: 0 SSID: VIVO-3734 
+
+Count: 75
+RSSI: -43 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 33 EID: 0 SSID: VIVO-3734 
+
+Count: 76
+RSSI: -39 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 34 EID: 0 SSID: VIVO-3734 
+
+Count: 77
+RSSI: -63 Ch: 13 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 35 EID: 0 SSID: VIVO-3734 
+
+Count: 78
+RSSI: -63 Ch: 13 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 35 EID: 0 SSID: VIVO-3734 
+
+Count: 79
+RSSI: -61 Ch: 13 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 35 EID: 0 SSID: VIVO-3734 
+
+Count: 80
+RSSI: -89 Ch: 4 Peer MAC: 38:9a:f6:1a:3f:33 SEQ: 53 EID: 0 SSID:  
+
+Count: 81
+RSSI: -85 Ch: 9 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 4 EID: 0 SSID:  
+
+Count: 82
+RSSI: -55 Ch: 13 Peer MAC: 50:92:b9:a4:21:0a SEQ: 141 EID: 0 SSID:  
+
+Count: 83
+RSSI: -55 Ch: 13 Peer MAC: 50:92:b9:a4:21:0a SEQ: 141 EID: 0 SSID:  
+
+Count: 84
+RSSI: -52 Ch: 13 Peer MAC: 50:92:b9:a4:21:0a SEQ: 141 EID: 0 SSID:  
+
+Count: 85
+RSSI: -53 Ch: 13 Peer MAC: 50:92:b9:a4:21:0a SEQ: 141 EID: 0 SSID:  
+
+Count: 86
+RSSI: -91 Ch: 3 Peer MAC: dc:53:60:0d:19:2a SEQ: 58 EID: 0 SSID: dlink-4690-5GHz 
+
+Count: 87
+RSSI: -88 Ch: 3 Peer MAC: dc:53:60:0d:19:2a SEQ: 58 EID: 0 SSID:  
+
+Count: 88
+RSSI: -79 Ch: 8 Peer MAC: 04:1b:6d:ee:e3:71 SEQ: 143 EID: 0 SSID:  
+
+Count: 89
+RSSI: -81 Ch: 9 Peer MAC: 04:1b:6d:ee:e3:71 SEQ: 143 EID: 0 SSID:  
+
+Count: 90
+RSSI: -81 Ch: 9 Peer MAC: 04:1b:6d:ee:e3:71 SEQ: 143 EID: 0 SSID:  
+
+Count: 91
+RSSI: -85 Ch: 11 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 6 EID: 0 SSID:  
+
+Count: 92
+RSSI: -84 Ch: 12 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 6 EID: 0 SSID:  
+
+Count: 93
+RSSI: -85 Ch: 12 Peer MAC: b6:43:0d:ab:24:8b SEQ: 190 EID: 0 SSID:  
+
+Count: 94
+RSSI: -87 Ch: 12 Peer MAC: b6:43:0d:ab:24:8b SEQ: 190 EID: 0 SSID:  
+
+Count: 95
+RSSI: -47 Ch: 1 Peer MAC: 50:92:b9:a4:21:0a SEQ: 146 EID: 0 SSID:  
+
+Count: 96
+RSSI: -51 Ch: 1 Peer MAC: 50:92:b9:a4:21:0a SEQ: 146 EID: 0 SSID:  
+
+Count: 97
+RSSI: -52 Ch: 1 Peer MAC: 50:92:b9:a4:21:0a SEQ: 146 EID: 0 SSID:  
+
+Count: 98
+RSSI: -53 Ch: 1 Peer MAC: 50:92:b9:a4:21:0a SEQ: 146 EID: 0 SSID:  
+
+Count: 99
+RSSI: -72 Ch: 2 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 81 EID: 0 SSID:  
+
+Count: 100
+RSSI: -73 Ch: 2 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 81 EID: 0 SSID:  
+
+Count: 101
+RSSI: -67 Ch: 2 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 81 EID: 0 SSID:  
+
+Count: 102
+RSSI: -69 Ch: 2 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 81 EID: 0 SSID:  
+
+Count: 103
+RSSI: -66 Ch: 2 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 81 EID: 0 SSID:  
+
+Count: 104
+RSSI: -68 Ch: 2 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 82 EID: 0 SSID:  
+
+Count: 105
+RSSI: -87 Ch: 7 Peer MAC: 78:88:6d:62:c0:6b SEQ: 226 EID: 0 SSID: e04c5a 
+
+Count: 106
+RSSI: -53 Ch: 11 Peer MAC: 50:92:b9:a4:21:0a SEQ: 155 EID: 0 SSID:  
+
+Count: 107
+RSSI: -54 Ch: 11 Peer MAC: 50:92:b9:a4:21:0a SEQ: 155 EID: 0 SSID:  
+
+Count: 108
+RSSI: -51 Ch: 11 Peer MAC: 50:92:b9:a4:21:0a SEQ: 155 EID: 0 SSID:  
+
+Count: 109
+RSSI: -51 Ch: 11 Peer MAC: 50:92:b9:a4:21:0a SEQ: 155 EID: 0 SSID:  
+
+Count: 110
+RSSI: -54 Ch: 11 Peer MAC: 50:92:b9:a4:21:0a SEQ: 155 EID: 0 SSID:  
+
+Count: 111
+RSSI: -54 Ch: 11 Peer MAC: 50:92:b9:a4:21:0a SEQ: 155 EID: 0 SSID:  
+
+Count: 112
+RSSI: -78 Ch: 5 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 177 EID: 0 SSID:  
+
+Count: 113
+RSSI: -78 Ch: 5 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 177 EID: 0 SSID:  
+
+Count: 114
+RSSI: -80 Ch: 5 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 177 EID: 0 SSID:  
+
+Count: 115
+RSSI: -79 Ch: 12 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 182 EID: 0 SSID:  
+
+Count: 116
+RSSI: -81 Ch: 12 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 183 EID: 0 SSID:  
+
+Count: 117
+RSSI: -88 Ch: 1 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 9 EID: 0 SSID:  
+
+Count: 118
+RSSI: -88 Ch: 6 Peer MAC: ec:88:92:45:82:e3 SEQ: 214 EID: 0 SSID:  
+
+Count: 119
+RSSI: -86 Ch: 6 Peer MAC: ec:88:92:45:82:e3 SEQ: 214 EID: 0 SSID:  
+
+Count: 120
+RSSI: -87 Ch: 6 Peer MAC: ec:88:92:45:82:e3 SEQ: 214 EID: 0 SSID:  
+
+Count: 121
+RSSI: -85 Ch: 6 Peer MAC: ec:88:92:45:82:e3 SEQ: 214 EID: 0 SSID:  
+
+Count: 122
+RSSI: -83 Ch: 6 Peer MAC: ec:88:92:45:82:e3 SEQ: 215 EID: 0 SSID:  
+
+Count: 123
+RSSI: -83 Ch: 6 Peer MAC: ec:88:92:45:82:e3 SEQ: 215 EID: 0 SSID:  
+
+Count: 124
+RSSI: -82 Ch: 6 Peer MAC: ec:88:92:45:82:e3 SEQ: 215 EID: 0 SSID:  
+
+Count: 125
+RSSI: -82 Ch: 6 Peer MAC: ec:88:92:45:82:e3 SEQ: 215 EID: 0 SSID:  
+
+Count: 126
+RSSI: -83 Ch: 7 Peer MAC: d4:63:c6:82:14:fe SEQ: 222 EID: 0 SSID:  
+
+Count: 127
+RSSI: -83 Ch: 7 Peer MAC: d4:63:c6:82:14:fe SEQ: 222 EID: 0 SSID:  
+
+Count: 128
+RSSI: -84 Ch: 7 Peer MAC: d4:63:c6:82:14:fe SEQ: 222 EID: 0 SSID:  
+
+Count: 129
+RSSI: -82 Ch: 7 Peer MAC: d4:63:c6:82:14:fe SEQ: 222 EID: 0 SSID:  
+
+Count: 130
+RSSI: -82 Ch: 7 Peer MAC: d4:63:c6:82:14:fe SEQ: 222 EID: 0 SSID:  
+
+Count: 131
+RSSI: -82 Ch: 9 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 10 EID: 0 SSID:  
+
+Count: 132
+RSSI: -85 Ch: 10 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 11 EID: 0 SSID:  
+
+Count: 133
+RSSI: -74 Ch: 13 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 36 EID: 0 SSID: VIVO-3734 
+
+Count: 134
+RSSI: -35 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 37 EID: 0 SSID: VIVO-3734 
+
+Count: 135
+RSSI: -34 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 37 EID: 0 SSID: VIVO-3734 
+
+Count: 136
+RSSI: -36 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 38 EID: 0 SSID: VIVO-3734 
+
+Count: 137
+RSSI: -36 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 38 EID: 0 SSID: VIVO-3734 
+
+Count: 138
+RSSI: -41 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 38 EID: 0 SSID: VIVO-3734 
+
+Count: 139
+RSSI: -63 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 39 EID: 0 SSID: VIVO-3734 
+
+Count: 140
+RSSI: -66 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 39 EID: 0 SSID: VIVO-3734 
+
+Count: 141
+RSSI: -82 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 39 EID: 0 SSID: VIVO-3734 
+
+Count: 142
+RSSI: -84 Ch: 12 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 12 EID: 0 SSID:  
+
+Count: 143
+RSSI: -82 Ch: 12 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 12 EID: 0 SSID:  
+
+Count: 144
+RSSI: -91 Ch: 1 Peer MAC: d4:63:c6:82:14:fe SEQ: 225 EID: 0 SSID:  
+
+Count: 145
+RSSI: -94 Ch: 1 Peer MAC: d4:63:c6:82:14:fe SEQ: 225 EID: 0 SSID:  
+
+Count: 146
+RSSI: -86 Ch: 5 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 13 EID: 0 SSID:  
+
+Count: 147
+RSSI: -83 Ch: 12 Peer MAC: fc:64:3a:50:0d:72 SEQ: 14 EID: 0 SSID: GVT-8E73 
+
+Count: 148
+RSSI: -89 Ch: 13 Peer MAC: fc:64:3a:50:0d:72 SEQ: 14 EID: 0 SSID:  
+
+Count: 149
+RSSI: -74 Ch: 7 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 87 EID: 0 SSID:  
+
+Count: 150
+RSSI: -77 Ch: 7 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 87 EID: 0 SSID:  
+
+Count: 151
+RSSI: -77 Ch: 8 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 87 EID: 0 SSID:  
+
+Count: 152
+RSSI: -74 Ch: 8 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 87 EID: 0 SSID:  
+
+Count: 153
+RSSI: -74 Ch: 8 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 87 EID: 0 SSID:  
+
+Count: 154
+RSSI: -76 Ch: 8 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 87 EID: 0 SSID:  
+
+Count: 155
+RSSI: -74 Ch: 8 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 87 EID: 0 SSID:  
+
+Count: 156
+RSSI: -85 Ch: 9 Peer MAC: 9a:ef:b0:15:3b:f9 SEQ: 192 EID: 0 SSID:  
+
+Count: 157
+RSSI: -88 Ch: 11 Peer MAC: 5c:c9:d3:1f:a8:e8 SEQ: 113 EID: 0 SSID: GVT-4793 
+
+Count: 158
+RSSI: -82 Ch: 13 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 7 EID: 0 SSID:  
+
+Count: 159
+RSSI: -83 Ch: 13 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 7 EID: 0 SSID:  
+
+Count: 160
+RSSI: -83 Ch: 13 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 8 EID: 0 SSID:  
+
+Count: 161
+RSSI: -93 Ch: 1 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 15 EID: 0 SSID:  
+
+Count: 162
+RSSI: -90 Ch: 1 Peer MAC: fc:64:3a:50:0d:72 SEQ: 16 EID: 0 SSID: GVT-8E73 
+
+Count: 163
+RSSI: -86 Ch: 1 Peer MAC: fc:64:3a:50:0d:72 SEQ: 16 EID: 0 SSID:  
+
+Count: 164
+RSSI: -90 Ch: 2 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 189 EID: 0 SSID:  
+
+Count: 165
+RSSI: -89 Ch: 2 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 189 EID: 0 SSID:  
+
+Count: 166
+RSSI: -83 Ch: 10 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 17 EID: 0 SSID:  
+
+Count: 167
+RSSI: -74 Ch: 1 Peer MAC: ec:88:92:45:82:e3 SEQ: 216 EID: 0 SSID:  
+
+Count: 168
+RSSI: -77 Ch: 1 Peer MAC: ec:88:92:45:82:e3 SEQ: 216 EID: 0 SSID:  
+
+Count: 169
+RSSI: -77 Ch: 1 Peer MAC: ec:88:92:45:82:e3 SEQ: 216 EID: 0 SSID:  
+
+Count: 170
+RSSI: -77 Ch: 1 Peer MAC: ec:88:92:45:82:e3 SEQ: 216 EID: 0 SSID:  
+
+Count: 171
+RSSI: -80 Ch: 1 Peer MAC: ec:88:92:45:82:e3 SEQ: 216 EID: 0 SSID:  
+
+Count: 172
+RSSI: -82 Ch: 1 Peer MAC: ec:88:92:45:82:e3 SEQ: 216 EID: 0 SSID:  
+
+Count: 173
+RSSI: -84 Ch: 12 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 18 EID: 0 SSID:  
+
+Count: 174
+RSSI: -78 Ch: 13 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 92 EID: 0 SSID:  
+
+Count: 175
+RSSI: -78 Ch: 13 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 92 EID: 0 SSID:  
+
+Count: 176
+RSSI: -72 Ch: 13 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 92 EID: 0 SSID:  
+
+Count: 177
+RSSI: -71 Ch: 13 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 92 EID: 0 SSID:  
+
+Count: 178
+RSSI: -71 Ch: 1 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 40 EID: 0 SSID: VIVO-3734 
+
+Count: 179
+RSSI: -72 Ch: 1 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 40 EID: 0 SSID: VIVO-3734 
+
+Count: 180
+RSSI: -36 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 41 EID: 0 SSID: VIVO-3734 
+
+Count: 181
+RSSI: -35 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 41 EID: 0 SSID: VIVO-3734 
+
+Count: 182
+RSSI: -33 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 41 EID: 0 SSID: VIVO-3734 
+
+Count: 183
+RSSI: -35 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 41 EID: 0 SSID: VIVO-3734 
+
+Count: 184
+RSSI: -32 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 41 EID: 0 SSID: VIVO-3734 
+
+Count: 185
+RSSI: -33 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 41 EID: 0 SSID: VIVO-3734 
+
+Count: 186
+RSSI: -34 Ch: 5 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 41 EID: 0 SSID: VIVO-3734 
+
+Count: 187
+RSSI: -32 Ch: 5 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 41 EID: 0 SSID: VIVO-3734 
+
+Count: 188
+RSSI: -70 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 42 EID: 0 SSID: VIVO-3734 
+
+Count: 189
+RSSI: -86 Ch: 6 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 8 EID: 0 SSID:  
+
+Count: 190
+RSSI: -80 Ch: 7 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 9 EID: 0 SSID:  
+
+Count: 191
+RSSI: -81 Ch: 7 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 9 EID: 0 SSID:  
+
+Count: 192
+RSSI: -79 Ch: 7 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 9 EID: 0 SSID:  
+
+Count: 193
+RSSI: -81 Ch: 7 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 9 EID: 0 SSID:  
+
+Count: 194
+RSSI: -81 Ch: 7 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 9 EID: 0 SSID:  
+
+Count: 195
+RSSI: -64 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 42 EID: 0 SSID: VIVO-3734 
+
+Count: 196
+RSSI: -82 Ch: 8 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 193 EID: 0 SSID:  
+
+Count: 197
+RSSI: -84 Ch: 8 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 193 EID: 0 SSID:  
+
+Count: 198
+RSSI: -83 Ch: 13 Peer MAC: d0:77:14:69:09:9b SEQ: 70 EID: 0 SSID:  
+
+Count: 199
+RSSI: -86 Ch: 13 Peer MAC: d0:77:14:69:09:9b SEQ: 70 EID: 0 SSID:  
+
+Count: 200
+RSSI: -92 Ch: 1 Peer MAC: 04:1b:6d:ee:e3:71 SEQ: 149 EID: 0 SSID:  
+
+Count: 201
+RSSI: -90 Ch: 1 Peer MAC: 04:1b:6d:ee:e3:71 SEQ: 149 EID: 0 SSID:  
+
+Count: 202
+RSSI: -89 Ch: 3 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 11 EID: 0 SSID:  
+
+Count: 203
+RSSI: -86 Ch: 3 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 11 EID: 0 SSID:  
+
+Count: 204
+RSSI: -86 Ch: 10 Peer MAC: 10:f1:f2:52:43:6c SEQ: 87 EID: 0 SSID:  
+
+Count: 205
+RSSI: -81 Ch: 13 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 17 EID: 0 SSID:  
+
+Count: 206
+RSSI: -80 Ch: 13 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 17 EID: 0 SSID:  
+
+Count: 207
+RSSI: -80 Ch: 13 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 17 EID: 0 SSID:  
+
+Count: 208
+RSSI: -92 Ch: 1 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 21 EID: 0 SSID:  
+
+Count: 209
+RSSI: -84 Ch: 7 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 18 EID: 0 SSID:  
+
+Count: 210
+RSSI: -88 Ch: 7 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 18 EID: 0 SSID:  
+
+Count: 211
+RSSI: -84 Ch: 7 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 19 EID: 0 SSID:  
+
+Count: 212
+RSSI: -86 Ch: 7 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 19 EID: 0 SSID:  
+
+Count: 213
+RSSI: -85 Ch: 10 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 23 EID: 0 SSID:  
+
+Count: 214
+RSSI: -82 Ch: 8 Peer MAC: d4:63:c6:82:14:fe SEQ: 1 EID: 0 SSID:  
+
+Count: 215
+RSSI: -81 Ch: 8 Peer MAC: d4:63:c6:82:14:fe SEQ: 1 EID: 0 SSID:  
+
+Count: 216
+RSSI: -81 Ch: 8 Peer MAC: d4:63:c6:82:14:fe SEQ: 1 EID: 0 SSID:  
+
+Count: 217
+RSSI: -80 Ch: 8 Peer MAC: d4:63:c6:82:14:fe SEQ: 1 EID: 0 SSID:  
+
+Count: 218
+RSSI: -81 Ch: 8 Peer MAC: d4:63:c6:82:14:fe SEQ: 1 EID: 0 SSID:  
+
+Count: 219
+RSSI: -79 Ch: 11 Peer MAC: ec:88:92:45:82:e3 SEQ: 220 EID: 0 SSID:  
+
+Count: 220
+RSSI: -79 Ch: 11 Peer MAC: ec:88:92:45:82:e3 SEQ: 220 EID: 0 SSID:  
+
+Count: 221
+RSSI: -81 Ch: 11 Peer MAC: ec:88:92:45:82:e3 SEQ: 220 EID: 0 SSID:  
+
+Count: 222
+RSSI: -74 Ch: 11 Peer MAC: ec:88:92:45:82:e3 SEQ: 220 EID: 0 SSID:  
+
+Count: 223
+RSSI: -74 Ch: 11 Peer MAC: ec:88:92:45:82:e3 SEQ: 220 EID: 0 SSID:  
+
+Count: 224
+RSSI: -81 Ch: 11 Peer MAC: ec:88:92:45:82:e3 SEQ: 220 EID: 0 SSID:  
+
+Count: 225
+RSSI: -79 Ch: 11 Peer MAC: ec:88:92:45:82:e3 SEQ: 220 EID: 0 SSID:  
+
+Count: 226
+RSSI: -80 Ch: 11 Peer MAC: ec:88:92:45:82:e3 SEQ: 220 EID: 0 SSID:  
+
+Count: 227
+RSSI: -74 Ch: 11 Peer MAC: ec:88:92:45:82:e3 SEQ: 220 EID: 0 SSID:  
+
+Count: 228
+RSSI: -81 Ch: 11 Peer MAC: ec:88:92:45:82:e3 SEQ: 220 EID: 0 SSID:  
+
+Count: 229
+RSSI: -80 Ch: 12 Peer MAC: ec:88:92:45:82:e3 SEQ: 220 EID: 0 SSID:  
+
+Count: 230
+RSSI: -80 Ch: 12 Peer MAC: ec:88:92:45:82:e3 SEQ: 220 EID: 0 SSID:  
+
+Count: 231
+RSSI: -83 Ch: 12 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 25 EID: 0 SSID:  
+
+Count: 232
+RSSI: -86 Ch: 13 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 25 EID: 0 SSID:  
+
+Count: 233
+RSSI: -85 Ch: 13 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 25 EID: 0 SSID:  
+
+Count: 234
+RSSI: -73 Ch: 6 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 96 EID: 0 SSID:  
+
+Count: 235
+RSSI: -74 Ch: 6 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 96 EID: 0 SSID:  
+
+Count: 236
+RSSI: -69 Ch: 6 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 96 EID: 0 SSID:  
+
+Count: 237
+RSSI: -72 Ch: 6 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 96 EID: 0 SSID:  
+
+Count: 238
+RSSI: -69 Ch: 7 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 96 EID: 0 SSID:  
+
+Count: 239
+RSSI: -68 Ch: 7 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 96 EID: 0 SSID:  
+
+Count: 240
+RSSI: -71 Ch: 7 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 97 EID: 0 SSID:  
+
+Count: 241
+RSSI: -79 Ch: 7 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 97 EID: 0 SSID:  
+
+Count: 242
+RSSI: -83 Ch: 1 Peer MAC: d4:63:c6:82:14:fe SEQ: 9 EID: 0 SSID:  
+
+Count: 243
+RSSI: -84 Ch: 1 Peer MAC: d4:63:c6:82:14:fe SEQ: 9 EID: 0 SSID:  
+
+Count: 244
+RSSI: -84 Ch: 1 Peer MAC: d4:63:c6:82:14:fe SEQ: 9 EID: 0 SSID:  
+
+Count: 245
+RSSI: -84 Ch: 2 Peer MAC: d4:63:c6:82:14:fe SEQ: 9 EID: 0 SSID:  
+
+Count: 246
+RSSI: -38 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 43 EID: 0 SSID: VIVO-3734 
+
+Count: 247
+RSSI: -38 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 43 EID: 0 SSID: VIVO-3734 
+
+Count: 248
+RSSI: -66 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 43 EID: 0 SSID: VIVO-3734 
+
+Count: 249
+RSSI: -59 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 43 EID: 0 SSID: VIVO-3734 
+
+Count: 250
+RSSI: -34 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 44 EID: 0 SSID: VIVO-3734 
+
+Count: 251
+RSSI: -34 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 44 EID: 0 SSID: VIVO-3734 
+
+Count: 252
+RSSI: -33 Ch: 5 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 44 EID: 0 SSID: VIVO-3734 
+
+Count: 253
+RSSI: -34 Ch: 5 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 44 EID: 0 SSID: VIVO-3734 
+
+Count: 254
+RSSI: -31 Ch: 5 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 45 EID: 0 SSID: VIVO-3734 
+
+Count: 255
+RSSI: -33 Ch: 5 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 45 EID: 0 SSID: VIVO-3734 
+
+Count: 256
+RSSI: -85 Ch: 10 Peer MAC: 04:1b:6d:ee:e3:71 SEQ: 154 EID: 0 SSID:  
+
+Count: 257
+RSSI: -89 Ch: 2 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 27 EID: 0 SSID:  
+
+Count: 258
+RSSI: -85 Ch: 10 Peer MAC: dc:53:60:0d:19:2a SEQ: 64 EID: 0 SSID: dlink-4690-5GHz 
+
+Count: 259
+RSSI: -83 Ch: 11 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 29 EID: 0 SSID:  
+
+Count: 260
+RSSI: -86 Ch: 7 Peer MAC: ec:f4:51:05:7b:a5 SEQ: 43 EID: 0 SSID:  
+
+Count: 261
+RSSI: -84 Ch: 13 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 31 EID: 0 SSID:  
+
+Count: 262
+RSSI: -84 Ch: 1 Peer MAC: d4:63:c6:82:14:fe SEQ: 14 EID: 0 SSID:  
+
+Count: 263
+RSSI: -84 Ch: 1 Peer MAC: d4:63:c6:82:14:fe SEQ: 14 EID: 0 SSID:  
+
+Count: 264
+RSSI: -85 Ch: 1 Peer MAC: d4:63:c6:82:14:fe SEQ: 14 EID: 0 SSID:  
+
+Count: 265
+RSSI: -85 Ch: 1 Peer MAC: d4:63:c6:82:14:fe SEQ: 14 EID: 0 SSID:  
+
+Count: 266
+RSSI: -96 Ch: 1 Peer MAC: fc:64:3a:50:0d:72 SEQ: 37 EID: 0 SSID: GVT-8E73 
+
+Count: 267
+RSSI: -78 Ch: 7 Peer MAC: ec:88:92:45:82:e3 SEQ: 221 EID: 0 SSID:  
+
+Count: 268
+RSSI: -77 Ch: 7 Peer MAC: ec:88:92:45:82:e3 SEQ: 222 EID: 0 SSID:  
+
+Count: 269
+RSSI: -77 Ch: 7 Peer MAC: ec:88:92:45:82:e3 SEQ: 222 EID: 0 SSID:  
+
+Count: 270
+RSSI: -78 Ch: 7 Peer MAC: ec:88:92:45:82:e3 SEQ: 222 EID: 0 SSID:  
+
+Count: 271
+RSSI: -72 Ch: 7 Peer MAC: ec:88:92:45:82:e3 SEQ: 222 EID: 0 SSID:  
+
+Count: 272
+RSSI: -79 Ch: 7 Peer MAC: ec:88:92:45:82:e3 SEQ: 222 EID: 0 SSID:  
+
+Count: 273
+RSSI: -82 Ch: 7 Peer MAC: ec:88:92:45:82:e3 SEQ: 222 EID: 0 SSID:  
+
+Count: 274
+RSSI: -78 Ch: 6 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 101 EID: 0 SSID:  
+
+Count: 275
+RSSI: -74 Ch: 6 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 101 EID: 0 SSID:  
+
+Count: 276
+RSSI: -74 Ch: 6 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 101 EID: 0 SSID:  
+
+Count: 277
+RSSI: -78 Ch: 6 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 101 EID: 0 SSID:  
+
+Count: 278
+RSSI: -78 Ch: 6 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 101 EID: 0 SSID:  
+
+Count: 279
+RSSI: -87 Ch: 9 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 33 EID: 0 SSID:  
+
+Count: 280
+RSSI: -37 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 46 EID: 0 SSID: VIVO-3734 
+
+Count: 281
+RSSI: -35 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 46 EID: 0 SSID: VIVO-3734 
+
+Count: 282
+RSSI: -64 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 46 EID: 0 SSID: VIVO-3734 
+
+Count: 283
+RSSI: -56 Ch: 2 Peer MAC: 50:92:b9:a4:21:0a SEQ: 169 EID: 0 SSID:  
+
+Count: 284
+RSSI: -55 Ch: 2 Peer MAC: 50:92:b9:a4:21:0a SEQ: 169 EID: 0 SSID:  
+
+Count: 285
+RSSI: -49 Ch: 2 Peer MAC: 50:92:b9:a4:21:0a SEQ: 170 EID: 0 SSID:  
+
+Count: 286
+RSSI: -54 Ch: 2 Peer MAC: 50:92:b9:a4:21:0a SEQ: 170 EID: 0 SSID:  
+
+Count: 287
+RSSI: -54 Ch: 2 Peer MAC: 50:92:b9:a4:21:0a SEQ: 170 EID: 0 SSID:  
+
+Count: 288
+RSSI: -36 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 47 EID: 0 SSID: VIVO-3734 
+
+Count: 289
+RSSI: -36 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 47 EID: 0 SSID: VIVO-3734 
+
+Count: 290
+RSSI: -36 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 47 EID: 0 SSID: VIVO-3734 
+
+Count: 291
+RSSI: -36 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 47 EID: 0 SSID: VIVO-3734 
+
+Count: 292
+RSSI: -33 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 48 EID: 0 SSID: VIVO-3734 
+
+Count: 293
+RSSI: -33 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 48 EID: 0 SSID: VIVO-3734 
+
+Count: 294
+RSSI: -34 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 48 EID: 0 SSID: VIVO-3734 
+
+Count: 295
+RSSI: -34 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 48 EID: 0 SSID: VIVO-3734 
+
+Count: 296
+RSSI: -32 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 48 EID: 0 SSID: VIVO-3734 
+
+Count: 297
+RSSI: -34 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 48 EID: 0 SSID: VIVO-3734 
+
+Count: 298
+RSSI: -43 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 48 EID: 0 SSID: VIVO-3734 
+
+Count: 299
+RSSI: -84 Ch: 11 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 35 EID: 0 SSID:  
+
+Count: 300
+RSSI: -84 Ch: 13 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 37 EID: 0 SSID:  
+
+Count: 301
+RSSI: -89 Ch: 3 Peer MAC: 5c:c9:d3:1f:a8:e8 SEQ: 120 EID: 0 SSID: GVT-4793 
+
+Count: 302
+RSSI: -92 Ch: 4 Peer MAC: 5c:c9:d3:1f:a8:e8 SEQ: 120 EID: 0 SSID: GVT-4793 
+
+Count: 303
+RSSI: -90 Ch: 6 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 37 EID: 0 SSID:  
+
+Count: 304
+RSSI: -83 Ch: 7 Peer MAC: d4:63:c6:3a:4e:da SEQ: 19 EID: 0 SSID:  
+
+Count: 305
+RSSI: -91 Ch: 7 Peer MAC: d4:63:c6:3a:4e:da SEQ: 19 EID: 0 SSID:  
+
+Count: 306
+RSSI: -80 Ch: 9 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 208 EID: 0 SSID:  
+
+Count: 307
+RSSI: -79 Ch: 9 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 209 EID: 0 SSID:  
+
+Count: 308
+RSSI: -76 Ch: 3 Peer MAC: ec:88:92:45:82:e3 SEQ: 223 EID: 0 SSID:  
+
+Count: 309
+RSSI: -75 Ch: 3 Peer MAC: ec:88:92:45:82:e3 SEQ: 223 EID: 0 SSID:  
+
+Count: 310
+RSSI: -75 Ch: 3 Peer MAC: ec:88:92:45:82:e3 SEQ: 223 EID: 0 SSID:  
+
+Count: 311
+RSSI: -75 Ch: 3 Peer MAC: ec:88:92:45:82:e3 SEQ: 223 EID: 0 SSID:  
+
+Count: 312
+RSSI: -80 Ch: 3 Peer MAC: ec:88:92:45:82:e3 SEQ: 223 EID: 0 SSID:  
+
+Count: 313
+RSSI: -80 Ch: 3 Peer MAC: ec:88:92:45:82:e3 SEQ: 224 EID: 0 SSID:  
+
+Count: 314
+RSSI: -84 Ch: 9 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 39 EID: 0 SSID:  
+
+Count: 315
+RSSI: -57 Ch: 1 Peer MAC: 50:92:b9:a4:21:0a SEQ: 179 EID: 0 SSID:  
+
+Count: 316
+RSSI: -57 Ch: 1 Peer MAC: 50:92:b9:a4:21:0a SEQ: 179 EID: 0 SSID:  
+
+Count: 317
+RSSI: -58 Ch: 1 Peer MAC: 50:92:b9:a4:21:0a SEQ: 179 EID: 0 SSID:  
+
+Count: 318
+RSSI: -60 Ch: 1 Peer MAC: 50:92:b9:a4:21:0a SEQ: 179 EID: 0 SSID:  
+
+Count: 319
+RSSI: -77 Ch: 1 Peer MAC: 50:92:b9:a4:21:0a SEQ: 179 EID: 0 SSID:  
+
+Count: 320
+RSSI: -79 Ch: 1 Peer MAC: 50:92:b9:a4:21:0a SEQ: 179 EID: 0 SSID:  
+
+Count: 321
+RSSI: -90 Ch: 2 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 40 EID: 0 SSID:  
+
+Count: 322
+RSSI: -85 Ch: 11 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 41 EID: 0 SSID:  
+
+Count: 323
+RSSI: -32 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 49 EID: 0 SSID: VIVO-3734 
+
+Count: 324
+RSSI: -31 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 50 EID: 0 SSID: VIVO-3734 
+
+Count: 325
+RSSI: -63 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 50 EID: 0 SSID: VIVO-3734 
+
+Count: 326
+RSSI: -62 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 50 EID: 0 SSID: VIVO-3734 
+
+Count: 327
+RSSI: -31 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 50 EID: 0 SSID: VIVO-3734 
+
+Count: 328
+RSSI: -31 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 50 EID: 0 SSID: VIVO-3734 
+
+Count: 329
+RSSI: -76 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 50 EID: 0 SSID: VIVO-3734 
+
+Count: 330
+RSSI: -66 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 50 EID: 0 SSID: VIVO-3734 
+
+Count: 331
+RSSI: -63 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 50 EID: 0 SSID: VIVO-3734 
+
+Count: 332
+RSSI: -66 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 51 EID: 0 SSID: VIVO-3734 
+
+Count: 333
+RSSI: -62 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 51 EID: 0 SSID: VIVO-3734 
+
+Count: 334
+RSSI: -64 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 51 EID: 0 SSID: VIVO-3734 
+
+Count: 335
+RSSI: -62 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 51 EID: 0 SSID: VIVO-3734 
+
+Count: 336
+RSSI: -32 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 51 EID: 0 SSID: VIVO-3734 
+
+Count: 337
+RSSI: -33 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 52 EID: 0 SSID: VIVO-3734 
+
+Count: 338
+RSSI: -31 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 52 EID: 0 SSID: VIVO-3734 
+
+Count: 339
+RSSI: -33 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 52 EID: 0 SSID: VIVO-3734 
+
+Count: 340
+RSSI: -31 Ch: 10 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 52 EID: 0 SSID: VIVO-3734 
+
+Count: 341
+RSSI: -33 Ch: 10 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 52 EID: 0 SSID: VIVO-3734 
+
+Count: 342
+RSSI: -84 Ch: 9 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 45 EID: 0 SSID:  
+
+Count: 343
+RSSI: -87 Ch: 10 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 83 EID: 0 SSID:  
+
+Count: 344
+RSSI: -80 Ch: 12 Peer MAC: ec:88:92:45:82:e3 SEQ: 226 EID: 0 SSID:  
+
+Count: 345
+RSSI: -74 Ch: 12 Peer MAC: ec:88:92:45:82:e3 SEQ: 227 EID: 0 SSID:  
+
+Count: 346
+RSSI: -76 Ch: 12 Peer MAC: ec:88:92:45:82:e3 SEQ: 227 EID: 0 SSID:  
+
+Count: 347
+RSSI: -73 Ch: 12 Peer MAC: ec:88:92:45:82:e3 SEQ: 227 EID: 0 SSID:  
+
+Count: 348
+RSSI: -76 Ch: 12 Peer MAC: ec:88:92:45:82:e3 SEQ: 227 EID: 0 SSID:  
+
+Count: 349
+RSSI: -78 Ch: 9 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 110 EID: 0 SSID:  
+
+Count: 350
+RSSI: -73 Ch: 9 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 110 EID: 0 SSID:  
+
+Count: 351
+RSSI: -73 Ch: 9 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 110 EID: 0 SSID:  
+
+Count: 352
+RSSI: -71 Ch: 10 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 110 EID: 0 SSID:  
+
+Count: 353
+RSSI: -71 Ch: 10 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 110 EID: 0 SSID:  
+
+Count: 354
+RSSI: -68 Ch: 10 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 111 EID: 0 SSID:  
+
+Count: 355
+RSSI: -68 Ch: 10 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 111 EID: 0 SSID:  
+
+Count: 356
+RSSI: -71 Ch: 10 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 111 EID: 0 SSID:  
+
+Count: 357
+RSSI: -71 Ch: 10 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 111 EID: 0 SSID:  
+
+Count: 358
+RSSI: -86 Ch: 11 Peer MAC: b2:bf:ee:54:2f:3e SEQ: 28 EID: 0 SSID:  
+
+Count: 359
+RSSI: -82 Ch: 12 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 47 EID: 0 SSID:  
+
+Count: 360
+RSSI: -83 Ch: 12 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 47 EID: 0 SSID:  
+
+Count: 361
+RSSI: -80 Ch: 7 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 85 EID: 0 SSID:  
+
+Count: 362
+RSSI: -77 Ch: 7 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 85 EID: 0 SSID:  
+
+Count: 363
+RSSI: -78 Ch: 7 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 85 EID: 0 SSID:  
+
+Count: 364
+RSSI: -79 Ch: 7 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 85 EID: 0 SSID:  
+
+Count: 365
+RSSI: -82 Ch: 7 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 85 EID: 0 SSID:  
+
+Count: 366
+RSSI: -84 Ch: 11 Peer MAC: da:a1:19:ff:2f:46 SEQ: 244 EID: 0 SSID:  
+
+Count: 367
+RSSI: -85 Ch: 11 Peer MAC: da:a1:19:ff:2f:46 SEQ: 244 EID: 0 SSID:  
+
+Count: 368
+RSSI: -86 Ch: 6 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 216 EID: 0 SSID:  
+
+Count: 369
+RSSI: -82 Ch: 6 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 217 EID: 0 SSID:  
+
+Count: 370
+RSSI: -87 Ch: 6 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 217 EID: 0 SSID:  
+
+Count: 371
+RSSI: -76 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 52 EID: 0 SSID: VIVO-3734 
+
+Count: 372
+RSSI: -68 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 53 EID: 0 SSID: VIVO-3734 
+
+Count: 373
+RSSI: -35 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 53 EID: 0 SSID: VIVO-3734 
+
+Count: 374
+RSSI: -36 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 53 EID: 0 SSID: VIVO-3734 
+
+Count: 375
+RSSI: -74 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 53 EID: 0 SSID: VIVO-3734 
+
+Count: 376
+RSSI: -66 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 54 EID: 0 SSID: VIVO-3734 
+
+Count: 377
+RSSI: -63 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 54 EID: 0 SSID: VIVO-3734 
+
+Count: 378
+RSSI: -65 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 54 EID: 0 SSID: VIVO-3734 
+
+Count: 379
+RSSI: -66 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 54 EID: 0 SSID: VIVO-3734 
+
+Count: 380
+RSSI: -63 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 55 EID: 0 SSID: VIVO-3734 
+
+Count: 381
+RSSI: -40 Ch: 10 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 55 EID: 0 SSID: VIVO-3734 
+
+Count: 382
+RSSI: -49 Ch: 10 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 55 EID: 0 SSID: VIVO-3734 
+
+Count: 383
+RSSI: -34 Ch: 10 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 55 EID: 0 SSID: VIVO-3734 
+
+Count: 384
+RSSI: -31 Ch: 10 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 55 EID: 0 SSID: VIVO-3734 
+
+Count: 385
+RSSI: -31 Ch: 10 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 55 EID: 0 SSID: VIVO-3734 
+
+Count: 386
+RSSI: -80 Ch: 6 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 89 EID: 0 SSID:  
+
+Count: 387
+RSSI: -81 Ch: 6 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 89 EID: 0 SSID:  
+
+Count: 388
+RSSI: -83 Ch: 6 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 90 EID: 0 SSID:  
+
+Count: 389
+RSSI: -84 Ch: 10 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 52 EID: 0 SSID:  
+
+Count: 390
+RSSI: -88 Ch: 1 Peer MAC: dc:53:60:0d:19:2a SEQ: 68 EID: 0 SSID:  
+
+Count: 391
+RSSI: -76 Ch: 9 Peer MAC: ec:88:92:45:82:e3 SEQ: 228 EID: 0 SSID:  
+
+Count: 392
+RSSI: -75 Ch: 9 Peer MAC: ec:88:92:45:82:e3 SEQ: 228 EID: 0 SSID:  
+
+Count: 393
+RSSI: -77 Ch: 9 Peer MAC: ec:88:92:45:82:e3 SEQ: 228 EID: 0 SSID:  
+
+Count: 394
+RSSI: -74 Ch: 9 Peer MAC: ec:88:92:45:82:e3 SEQ: 228 EID: 0 SSID:  
+
+Count: 395
+RSSI: -76 Ch: 9 Peer MAC: ec:88:92:45:82:e3 SEQ: 229 EID: 0 SSID:  
+
+Count: 396
+RSSI: -73 Ch: 9 Peer MAC: ec:88:92:45:82:e3 SEQ: 229 EID: 0 SSID:  
+
+Count: 397
+RSSI: -86 Ch: 9 Peer MAC: ec:88:92:45:82:e3 SEQ: 229 EID: 0 SSID:  
+
+Count: 398
+RSSI: -85 Ch: 12 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 53 EID: 0 SSID:  
+
+Count: 399
+RSSI: -83 Ch: 12 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 53 EID: 0 SSID:  
+
+Count: 400
+RSSI: -83 Ch: 5 Peer MAC: d4:63:c6:55:0d:73 SEQ: 22 EID: 0 SSID:  
+
+Count: 401
+RSSI: -85 Ch: 6 Peer MAC: d4:63:c6:63:54:a0 SEQ: 22 EID: 0 SSID:  
+
+Count: 402
+RSSI: -89 Ch: 6 Peer MAC: d4:63:c6:63:54:a0 SEQ: 23 EID: 0 SSID:  
+
+Count: 403
+RSSI: -85 Ch: 11 Peer MAC: dc:53:60:0d:19:2a SEQ: 70 EID: 0 SSID:  
+
+Count: 404
+RSSI: -79 Ch: 12 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 34 EID: 0 SSID:  
+
+Count: 405
+RSSI: -79 Ch: 12 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 34 EID: 0 SSID:  
+
+Count: 406
+RSSI: -80 Ch: 12 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 34 EID: 0 SSID:  
+
+Count: 407
+RSSI: -83 Ch: 12 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 34 EID: 0 SSID:  
+
+Count: 408
+RSSI: -81 Ch: 12 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 34 EID: 0 SSID:  
+
+Count: 409
+RSSI: -82 Ch: 9 Peer MAC: 04:1b:6d:ee:e3:71 SEQ: 167 EID: 0 SSID:  
+
+Count: 410
+RSSI: -82 Ch: 10 Peer MAC: 04:1b:6d:ee:e3:71 SEQ: 168 EID: 0 SSID:  
+
+Count: 411
+RSSI: -95 Ch: 1 Peer MAC: 78:88:6d:62:c0:6b SEQ: 37 EID: 0 SSID: e04c5a 
+
+Count: 412
+RSSI: -91 Ch: 1 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 56 EID: 0 SSID:  
+
+Count: 413
+RSSI: -34 Ch: 5 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 56 EID: 0 SSID: VIVO-3734 
+
+Count: 414
+RSSI: -34 Ch: 5 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 56 EID: 0 SSID: VIVO-3734 
+
+Count: 415
+RSSI: -34 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 57 EID: 0 SSID: VIVO-3734 
+
+Count: 416
+RSSI: -87 Ch: 6 Peer MAC: 10:f1:f2:52:43:6c SEQ: 105 EID: 0 SSID:  
+
+Count: 417
+RSSI: -64 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 57 EID: 0 SSID: VIVO-3734 
+
+Count: 418
+RSSI: -67 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 57 EID: 0 SSID: VIVO-3734 
+
+Count: 419
+RSSI: -66 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 57 EID: 0 SSID: VIVO-3734 
+
+Count: 420
+RSSI: -64 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 57 EID: 0 SSID: VIVO-3734 
+
+Count: 421
+RSSI: -62 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 58 EID: 0 SSID: VIVO-3734 
+
+Count: 422
+RSSI: -60 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 58 EID: 0 SSID: VIVO-3734 
+
+Count: 423
+RSSI: -34 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 58 EID: 0 SSID: VIVO-3734 
+
+Count: 424
+RSSI: -35 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 58 EID: 0 SSID: VIVO-3734 
+
+Count: 425
+RSSI: -32 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 58 EID: 0 SSID: VIVO-3734 
+
+Count: 426
+RSSI: -32 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 58 EID: 0 SSID: VIVO-3734 
+
+Count: 427
+RSSI: -32 Ch: 10 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 59 EID: 0 SSID: VIVO-3734 
+
+Count: 428
+RSSI: -32 Ch: 10 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 59 EID: 0 SSID: VIVO-3734 
+
+Count: 429
+RSSI: -81 Ch: 10 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 58 EID: 0 SSID:  
+
+Count: 430
+RSSI: -84 Ch: 10 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 58 EID: 0 SSID:  
+
+Count: 431
+RSSI: -35 Ch: 11 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 59 EID: 0 SSID: VIVO-3734 
+
+Count: 432
+RSSI: -34 Ch: 11 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 59 EID: 0 SSID: VIVO-3734 
+
+Count: 433
+RSSI: -83 Ch: 7 Peer MAC: 50:92:b9:a4:21:0a SEQ: 197 EID: 0 SSID:  
+
+Count: 434
+RSSI: -45 Ch: 8 Peer MAC: 50:92:b9:a4:21:0a SEQ: 198 EID: 0 SSID:  
+
+Count: 435
+RSSI: -47 Ch: 8 Peer MAC: 50:92:b9:a4:21:0a SEQ: 198 EID: 0 SSID:  
+
+Count: 436
+RSSI: -45 Ch: 8 Peer MAC: 50:92:b9:a4:21:0a SEQ: 198 EID: 0 SSID:  
+
+Count: 437
+RSSI: -44 Ch: 8 Peer MAC: 50:92:b9:a4:21:0a SEQ: 198 EID: 0 SSID:  
+
+Count: 438
+RSSI: -45 Ch: 8 Peer MAC: 50:92:b9:a4:21:0a SEQ: 198 EID: 0 SSID:  
+
+Count: 439
+RSSI: -47 Ch: 8 Peer MAC: 50:92:b9:a4:21:0a SEQ: 198 EID: 0 SSID:  
+
+Count: 440
+RSSI: -56 Ch: 8 Peer MAC: 50:92:b9:a4:21:0a SEQ: 198 EID: 0 SSID:  
+
+Count: 441
+RSSI: -57 Ch: 8 Peer MAC: 50:92:b9:a4:21:0a SEQ: 198 EID: 0 SSID:  
+
+Count: 442
+RSSI: -79 Ch: 8 Peer MAC: 50:92:b9:a4:21:0a SEQ: 199 EID: 0 SSID:  
+
+Count: 443
+RSSI: -83 Ch: 12 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 60 EID: 0 SSID:  
+
+Count: 444
+RSSI: -90 Ch: 6 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 60 EID: 0 SSID:  
+
+Count: 445
+RSSI: -72 Ch: 7 Peer MAC: ec:88:92:45:82:e3 SEQ: 230 EID: 0 SSID:  
+
+Count: 446
+RSSI: -74 Ch: 7 Peer MAC: ec:88:92:45:82:e3 SEQ: 230 EID: 0 SSID:  
+
+Count: 447
+RSSI: -77 Ch: 7 Peer MAC: ec:88:92:45:82:e3 SEQ: 230 EID: 0 SSID:  
+
+Count: 448
+RSSI: -85 Ch: 5 Peer MAC: cc:61:e5:6b:33:13 SEQ: 45 EID: 0 SSID:  
+
+Count: 449
+RSSI: -84 Ch: 5 Peer MAC: cc:61:e5:6b:33:13 SEQ: 46 EID: 0 SSID:  
+
+Count: 450
+RSSI: -81 Ch: 10 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 64 EID: 0 SSID:  
+
+Count: 451
+RSSI: -83 Ch: 11 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 64 EID: 0 SSID:  
+
+Count: 452
+RSSI: -83 Ch: 11 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 64 EID: 0 SSID:  
+
+Count: 453
+RSSI: -84 Ch: 11 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 37 EID: 0 SSID:  
+
+Count: 454
+RSSI: -83 Ch: 11 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 37 EID: 0 SSID:  
+
+Count: 455
+RSSI: -86 Ch: 11 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 37 EID: 0 SSID:  
+
+Count: 456
+RSSI: -85 Ch: 11 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 37 EID: 0 SSID:  
+
+Count: 457
+RSSI: -87 Ch: 11 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 37 EID: 0 SSID:  
+
+Count: 458
+RSSI: -86 Ch: 5 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 38 EID: 0 SSID:  
+
+Count: 459
+RSSI: -86 Ch: 5 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 38 EID: 0 SSID:  
+
+Count: 460
+RSSI: -86 Ch: 5 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 38 EID: 0 SSID:  
+
+Count: 461
+RSSI: -86 Ch: 5 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 38 EID: 0 SSID:  
+
+Count: 462
+RSSI: -73 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 59 EID: 0 SSID: VIVO-3734 
+
+Count: 463
+RSSI: -67 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 59 EID: 0 SSID: VIVO-3734 
+
+Count: 464
+RSSI: -34 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 59 EID: 0 SSID: VIVO-3734 
+
+Count: 465
+RSSI: -33 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 59 EID: 0 SSID: VIVO-3734 
+
+Count: 466
+RSSI: -32 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 60 EID: 0 SSID: VIVO-3734 
+
+Count: 467
+RSSI: -32 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 60 EID: 0 SSID: VIVO-3734 
+
+Count: 468
+RSSI: -81 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 60 EID: 0 SSID: VIVO-3734 
+
+Count: 469
+RSSI: -64 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 60 EID: 0 SSID: VIVO-3734 
+
+Count: 470
+RSSI: -67 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 61 EID: 0 SSID: VIVO-3734 
+
+Count: 471
+RSSI: -63 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 61 EID: 0 SSID: VIVO-3734 
+
+Count: 472
+RSSI: -34 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 61 EID: 0 SSID: VIVO-3734 
+
+Count: 473
+RSSI: -34 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 61 EID: 0 SSID: VIVO-3734 
+
+Count: 474
+RSSI: -32 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 62 EID: 0 SSID: VIVO-3734 
+
+Count: 475
+RSSI: -32 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 62 EID: 0 SSID: VIVO-3734 
+
+Count: 476
+RSSI: -34 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 62 EID: 0 SSID: VIVO-3734 
+
+Count: 477
+RSSI: -34 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 62 EID: 0 SSID: VIVO-3734 
+
+Count: 478
+RSSI: -86 Ch: 13 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 66 EID: 0 SSID:  
+
+Count: 479
+RSSI: -91 Ch: 1 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 40 EID: 0 SSID:  
+
+Count: 480
+RSSI: -89 Ch: 1 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 40 EID: 0 SSID:  
+
+Count: 481
+RSSI: -90 Ch: 1 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 41 EID: 0 SSID:  
+
+Count: 482
+RSSI: -91 Ch: 1 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 41 EID: 0 SSID:  
+
+Count: 483
+RSSI: -74 Ch: 4 Peer MAC: ec:88:92:45:82:e3 SEQ: 232 EID: 0 SSID:  
+
+Count: 484
+RSSI: -77 Ch: 4 Peer MAC: ec:88:92:45:82:e3 SEQ: 232 EID: 0 SSID:  
+
+Count: 485
+RSSI: -72 Ch: 4 Peer MAC: ec:88:92:45:82:e3 SEQ: 232 EID: 0 SSID:  
+
+Count: 486
+RSSI: -71 Ch: 4 Peer MAC: ec:88:92:45:82:e3 SEQ: 232 EID: 0 SSID:  
+
+Count: 487
+RSSI: -87 Ch: 9 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 68 EID: 0 SSID:  
+
+Count: 488
+RSSI: -82 Ch: 11 Peer MAC: 50:92:b9:a4:21:0a SEQ: 207 EID: 0 SSID:  
+
+Count: 489
+RSSI: -88 Ch: 11 Peer MAC: 50:92:b9:a4:21:0a SEQ: 208 EID: 0 SSID:  
+
+Count: 490
+RSSI: -48 Ch: 11 Peer MAC: 50:92:b9:a4:21:0a SEQ: 208 EID: 0 SSID:  
+
+Count: 491
+RSSI: -49 Ch: 11 Peer MAC: 50:92:b9:a4:21:0a SEQ: 208 EID: 0 SSID:  
+
+Count: 492
+RSSI: -43 Ch: 11 Peer MAC: 50:92:b9:a4:21:0a SEQ: 208 EID: 0 SSID:  
+
+Count: 493
+RSSI: -47 Ch: 12 Peer MAC: 50:92:b9:a4:21:0a SEQ: 208 EID: 0 SSID:  
+
+Count: 494
+RSSI: -45 Ch: 12 Peer MAC: 50:92:b9:a4:21:0a SEQ: 208 EID: 0 SSID:  
+
+Count: 495
+RSSI: -44 Ch: 12 Peer MAC: 50:92:b9:a4:21:0a SEQ: 209 EID: 0 SSID:  
+
+Count: 496
+RSSI: -47 Ch: 12 Peer MAC: 50:92:b9:a4:21:0a SEQ: 209 EID: 0 SSID:  
+
+Count: 497
+RSSI: -84 Ch: 11 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 70 EID: 0 SSID:  
+
+Count: 498
+RSSI: -86 Ch: 11 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 70 EID: 0 SSID:  
+
+Count: 499
+RSSI: -84 Ch: 3 Peer MAC: 40:65:a3:84:cd:c4 SEQ: 157 EID: 0 SSID:  
+
+Count: 500
+RSSI: -86 Ch: 13 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 72 EID: 0 SSID:  
+
+Count: 501
+RSSI: -88 Ch: 1 Peer MAC: 10:f1:f2:52:43:6c SEQ: 109 EID: 0 SSID:  
+
+Count: 502
+RSSI: -88 Ch: 1 Peer MAC: 10:f1:f2:52:43:6c SEQ: 109 EID: 0 SSID:  
+
+Count: 503
+RSSI: -92 Ch: 4 Peer MAC: 28:83:35:44:de:93 SEQ: 125 EID: 0 SSID:  
+
+Count: 504
+RSSI: -42 Ch: 5 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 63 EID: 0 SSID: VIVO-3734 
+
+Count: 505
+RSSI: -77 Ch: 5 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 63 EID: 0 SSID: VIVO-3734 
+
+Count: 506
+RSSI: -41 Ch: 5 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 64 EID: 0 SSID: VIVO-3734 
+
+Count: 507
+RSSI: -41 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 64 EID: 0 SSID: VIVO-3734 
+
+Count: 508
+RSSI: -40 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 64 EID: 0 SSID: VIVO-3734 
+
+Count: 509
+RSSI: -37 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 64 EID: 0 SSID: VIVO-3734 
+
+Count: 510
+RSSI: -36 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 64 EID: 0 SSID: VIVO-3734 
+
+Count: 511
+RSSI: -41 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 65 EID: 0 SSID: VIVO-3734 
+
+Count: 512
+RSSI: -66 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 65 EID: 0 SSID: VIVO-3734 
+
+Count: 513
+RSSI: -88 Ch: 8 Peer MAC: 28:83:35:44:de:93 SEQ: 127 EID: 0 SSID:  
+
+Count: 514
+RSSI: -85 Ch: 8 Peer MAC: 28:83:35:44:de:93 SEQ: 127 EID: 0 SSID:  
+
+Count: 515
+RSSI: -88 Ch: 13 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 229 EID: 0 SSID:  
+
+Count: 516
+RSSI: -84 Ch: 13 Peer MAC: d0:77:14:69:09:9b SEQ: 76 EID: 0 SSID:  
+
+Count: 517
+RSSI: -86 Ch: 13 Peer MAC: d0:77:14:69:09:9b SEQ: 76 EID: 0 SSID:  
+
+Count: 518
+RSSI: -86 Ch: 13 Peer MAC: d0:77:14:69:09:9b SEQ: 76 EID: 0 SSID:  
+
+Count: 519
+RSSI: -62 Ch: 6 Peer MAC: 50:92:b9:a4:21:0a SEQ: 217 EID: 0 SSID:  
+
+Count: 520
+RSSI: -52 Ch: 7 Peer MAC: 50:92:b9:a4:21:0a SEQ: 217 EID: 0 SSID:  
+
+Count: 521
+RSSI: -51 Ch: 7 Peer MAC: 50:92:b9:a4:21:0a SEQ: 217 EID: 0 SSID:  
+
+Count: 522
+RSSI: -49 Ch: 7 Peer MAC: 50:92:b9:a4:21:0a SEQ: 217 EID: 0 SSID:  
+
+Count: 523
+RSSI: -49 Ch: 7 Peer MAC: 50:92:b9:a4:21:0a SEQ: 217 EID: 0 SSID:  
+
+Count: 524
+RSSI: -52 Ch: 7 Peer MAC: 50:92:b9:a4:21:0a SEQ: 218 EID: 0 SSID:  
+
+Count: 525
+RSSI: -52 Ch: 7 Peer MAC: 50:92:b9:a4:21:0a SEQ: 218 EID: 0 SSID:  
+
+Count: 526
+RSSI: -79 Ch: 13 Peer MAC: ec:88:92:45:82:e3 SEQ: 235 EID: 0 SSID:  
+
+Count: 527
+RSSI: -76 Ch: 13 Peer MAC: ec:88:92:45:82:e3 SEQ: 235 EID: 0 SSID:  
+
+Count: 528
+RSSI: -80 Ch: 13 Peer MAC: ec:88:92:45:82:e3 SEQ: 235 EID: 0 SSID:  
+
+Count: 529
+RSSI: -76 Ch: 13 Peer MAC: ec:88:92:45:82:e3 SEQ: 235 EID: 0 SSID:  
+
+Count: 530
+RSSI: -81 Ch: 3 Peer MAC: fc:64:3a:50:0d:72 SEQ: 69 EID: 0 SSID: GVT-8E73 
+
+Count: 531
+RSSI: -81 Ch: 3 Peer MAC: fc:64:3a:50:0d:72 SEQ: 69 EID: 0 SSID:  
+
+Count: 532
+RSSI: -78 Ch: 3 Peer MAC: fc:64:3a:50:0d:72 SEQ: 69 EID: 0 SSID: GVT-8E73 
+
+Count: 533
+RSSI: -79 Ch: 3 Peer MAC: fc:64:3a:50:0d:72 SEQ: 69 EID: 0 SSID:  
+
+Count: 534
+RSSI: -87 Ch: 7 Peer MAC: d0:77:14:69:09:9b SEQ: 77 EID: 0 SSID:  
+
+Count: 535
+RSSI: -84 Ch: 7 Peer MAC: d0:77:14:69:09:9b SEQ: 78 EID: 0 SSID:  
+
+Count: 536
+RSSI: -85 Ch: 7 Peer MAC: d0:77:14:69:09:9b SEQ: 78 EID: 0 SSID:  
+
+Count: 537
+RSSI: -87 Ch: 7 Peer MAC: d0:77:14:69:09:9b SEQ: 78 EID: 0 SSID:  
+
+Count: 538
+RSSI: -83 Ch: 11 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 76 EID: 0 SSID:  
+
+Count: 539
+RSSI: -83 Ch: 11 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 76 EID: 0 SSID:  
+
+Count: 540
+RSSI: -82 Ch: 12 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 76 EID: 0 SSID:  
+
+Count: 541
+RSSI: -82 Ch: 6 Peer MAC: 50:92:b9:a4:21:0a SEQ: 227 EID: 0 SSID:  
+
+Count: 542
+RSSI: -48 Ch: 6 Peer MAC: 50:92:b9:a4:21:0a SEQ: 227 EID: 0 SSID:  
+
+Count: 543
+RSSI: -48 Ch: 6 Peer MAC: 50:92:b9:a4:21:0a SEQ: 227 EID: 0 SSID:  
+
+Count: 544
+RSSI: -46 Ch: 7 Peer MAC: 50:92:b9:a4:21:0a SEQ: 228 EID: 0 SSID:  
+
+Count: 545
+RSSI: -49 Ch: 7 Peer MAC: 50:92:b9:a4:21:0a SEQ: 228 EID: 0 SSID:  
+
+Count: 546
+RSSI: -45 Ch: 7 Peer MAC: 50:92:b9:a4:21:0a SEQ: 228 EID: 0 SSID:  
+
+Count: 547
+RSSI: -47 Ch: 7 Peer MAC: 50:92:b9:a4:21:0a SEQ: 228 EID: 0 SSID:  
+
+Count: 548
+RSSI: -47 Ch: 7 Peer MAC: 50:92:b9:a4:21:0a SEQ: 228 EID: 0 SSID:  
+
+Count: 549
+RSSI: -49 Ch: 7 Peer MAC: 50:92:b9:a4:21:0a SEQ: 228 EID: 0 SSID:  
+
+Count: 550
+RSSI: -83 Ch: 7 Peer MAC: 50:92:b9:a4:21:0a SEQ: 228 EID: 0 SSID:  
+
+Count: 551
+RSSI: -79 Ch: 10 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 235 EID: 0 SSID:  
+
+Count: 552
+RSSI: -78 Ch: 11 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 235 EID: 0 SSID:  
+
+Count: 553
+RSSI: -80 Ch: 11 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 235 EID: 0 SSID:  
+
+Count: 554
+RSSI: -85 Ch: 1 Peer MAC: 88:6b:6e:11:79:6f SEQ: 26 EID: 0 SSID:  
+
+Count: 555
+RSSI: -89 Ch: 1 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 79 EID: 0 SSID:  
+
+Count: 556
+RSSI: -38 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 66 EID: 0 SSID: VIVO-3734 
+
+Count: 557
+RSSI: -37 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 66 EID: 0 SSID: VIVO-3734 
+
+Count: 558
+RSSI: -65 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 66 EID: 0 SSID: VIVO-3734 
+
+Count: 559
+RSSI: -65 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 66 EID: 0 SSID: VIVO-3734 
+
+Count: 560
+RSSI: -64 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 66 EID: 0 SSID: VIVO-3734 
+
+Count: 561
+RSSI: -65 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 66 EID: 0 SSID: VIVO-3734 
+
+Count: 562
+RSSI: -38 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 67 EID: 0 SSID: VIVO-3734 
+
+Count: 563
+RSSI: -38 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 67 EID: 0 SSID: VIVO-3734 
+
+Count: 564
+RSSI: -35 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 67 EID: 0 SSID: VIVO-3734 
+
+Count: 565
+RSSI: -35 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 67 EID: 0 SSID: VIVO-3734 
+
+Count: 566
+RSSI: -35 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 67 EID: 0 SSID: VIVO-3734 
+
+Count: 567
+RSSI: -36 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 67 EID: 0 SSID: VIVO-3734 
+
+Count: 568
+RSSI: -34 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 68 EID: 0 SSID: VIVO-3734 
+
+Count: 569
+RSSI: -36 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 68 EID: 0 SSID: VIVO-3734 
+
+Count: 570
+RSSI: -63 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 68 EID: 0 SSID: VIVO-3734 
+
+Count: 571
+RSSI: -60 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 68 EID: 0 SSID: VIVO-3734 
+
+Count: 572
+RSSI: -63 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 68 EID: 0 SSID: VIVO-3734 
+
+Count: 573
+RSSI: -64 Ch: 5 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 68 EID: 0 SSID: VIVO-3734 
+
+Count: 574
+RSSI: -89 Ch: 1 Peer MAC: 04:1b:6d:ae:b8:10 SEQ: 45 EID: 0 SSID:  
+
+Count: 575
+RSSI: -89 Ch: 2 Peer MAC: fc:64:3a:50:0d:72 SEQ: 76 EID: 0 SSID: netvirtua 224 104 
+
+Count: 576
+RSSI: -90 Ch: 6 Peer MAC: d0:77:14:69:09:9b SEQ: 81 EID: 0 SSID:  
+
+Count: 577
+RSSI: -74 Ch: 8 Peer MAC: ec:88:92:45:82:e3 SEQ: 236 EID: 0 SSID:  
+
+Count: 578
+RSSI: -76 Ch: 8 Peer MAC: ec:88:92:45:82:e3 SEQ: 236 EID: 0 SSID:  
+
+Count: 579
+RSSI: -74 Ch: 8 Peer MAC: ec:88:92:45:82:e3 SEQ: 236 EID: 0 SSID:  
+
+Count: 580
+RSSI: -78 Ch: 8 Peer MAC: ec:88:92:45:82:e3 SEQ: 236 EID: 0 SSID:  
+
+Count: 581
+RSSI: -79 Ch: 8 Peer MAC: ec:88:92:45:82:e3 SEQ: 237 EID: 0 SSID:  
+
+Count: 582
+RSSI: -79 Ch: 8 Peer MAC: ec:88:92:45:82:e3 SEQ: 237 EID: 0 SSID:  
+
+Count: 583
+RSSI: -82 Ch: 12 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 82 EID: 0 SSID:  
+
+Count: 584
+RSSI: -76 Ch: 12 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 130 EID: 0 SSID:  
+
+Count: 585
+RSSI: -77 Ch: 12 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 130 EID: 0 SSID:  
+
+Count: 586
+RSSI: -77 Ch: 12 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 131 EID: 0 SSID:  
+
+Count: 587
+RSSI: -77 Ch: 12 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 131 EID: 0 SSID:  
+
+Count: 588
+RSSI: -76 Ch: 12 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 131 EID: 0 SSID:  
+
+Count: 589
+RSSI: -92 Ch: 1 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 44 EID: 0 SSID: netvirtua 224 104 
+
+Count: 590
+RSSI: -91 Ch: 1 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 44 EID: 0 SSID: netvirtua 224 104 
+
+Count: 591
+RSSI: -62 Ch: 8 Peer MAC: 50:92:b9:a4:21:0a SEQ: 238 EID: 0 SSID:  
+
+Count: 592
+RSSI: -52 Ch: 8 Peer MAC: 50:92:b9:a4:21:0a SEQ: 238 EID: 0 SSID:  
+
+Count: 593
+RSSI: -53 Ch: 8 Peer MAC: 50:92:b9:a4:21:0a SEQ: 238 EID: 0 SSID:  
+
+Count: 594
+RSSI: -50 Ch: 8 Peer MAC: 50:92:b9:a4:21:0a SEQ: 238 EID: 0 SSID:  
+
+Count: 595
+RSSI: -51 Ch: 8 Peer MAC: 50:92:b9:a4:21:0a SEQ: 238 EID: 0 SSID:  
+
+Count: 596
+RSSI: -52 Ch: 8 Peer MAC: 50:92:b9:a4:21:0a SEQ: 238 EID: 0 SSID:  
+
+Count: 597
+RSSI: -83 Ch: 12 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 48 EID: 0 SSID:  
+
+Count: 598
+RSSI: -81 Ch: 12 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 48 EID: 0 SSID:  
+
+Count: 599
+RSSI: -80 Ch: 12 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 49 EID: 0 SSID:  
+
+Count: 600
+RSSI: -81 Ch: 12 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 49 EID: 0 SSID:  
+
+Count: 601
+RSSI: -86 Ch: 8 Peer MAC: 04:1b:6d:ee:e3:71 SEQ: 182 EID: 0 SSID:  
+
+Count: 602
+RSSI: -81 Ch: 10 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 51 EID: 0 SSID:  
+
+Count: 603
+RSSI: -79 Ch: 10 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 52 EID: 0 SSID:  
+
+Count: 604
+RSSI: -77 Ch: 10 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 52 EID: 0 SSID:  
+
+Count: 605
+RSSI: -79 Ch: 7 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 54 EID: 0 SSID:  
+
+Count: 606
+RSSI: -79 Ch: 7 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 54 EID: 0 SSID:  
+
+Count: 607
+RSSI: -79 Ch: 7 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 54 EID: 0 SSID:  
+
+Count: 608
+RSSI: -79 Ch: 7 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 54 EID: 0 SSID:  
+
+Count: 609
+RSSI: -78 Ch: 7 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 54 EID: 0 SSID:  
+
+Count: 610
+RSSI: -79 Ch: 7 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 54 EID: 0 SSID:  
+
+Count: 611
+RSSI: -78 Ch: 7 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 54 EID: 0 SSID:  
+
+Count: 612
+RSSI: -85 Ch: 8 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 55 EID: 0 SSID: netvirtua 224 104 
+
+Count: 613
+RSSI: -78 Ch: 9 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 56 EID: 0 SSID:  
+
+Count: 614
+RSSI: -85 Ch: 10 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 87 EID: 0 SSID:  
+
+Count: 615
+RSSI: -79 Ch: 11 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 59 EID: 0 SSID:  
+
+Count: 616
+RSSI: -80 Ch: 11 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 60 EID: 0 SSID:  
+
+Count: 617
+RSSI: -81 Ch: 11 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 60 EID: 0 SSID:  
+
+Count: 618
+RSSI: -84 Ch: 12 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 62 EID: 0 SSID:  
+
+Count: 619
+RSSI: -83 Ch: 12 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 62 EID: 0 SSID:  
+
+Count: 620
+RSSI: -87 Ch: 13 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 62 EID: 0 SSID:  
+
+Count: 621
+RSSI: -85 Ch: 13 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 62 EID: 0 SSID:  
+
+Count: 622
+RSSI: -85 Ch: 13 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 62 EID: 0 SSID:  
+
+Count: 623
+RSSI: -64 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 70 EID: 0 SSID: VIVO-3734 
+
+Count: 624
+RSSI: -62 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 70 EID: 0 SSID: VIVO-3734 
+
+Count: 625
+RSSI: -35 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 70 EID: 0 SSID: VIVO-3734 
+
+Count: 626
+RSSI: -33 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 70 EID: 0 SSID: VIVO-3734 
+
+Count: 627
+RSSI: -35 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 70 EID: 0 SSID: VIVO-3734 
+
+Count: 628
+RSSI: -34 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 70 EID: 0 SSID: VIVO-3734 
+
+Count: 629
+RSSI: -35 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 71 EID: 0 SSID: VIVO-3734 
+
+Count: 630
+RSSI: -36 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 71 EID: 0 SSID: VIVO-3734 
+
+Count: 631
+RSSI: -77 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 71 EID: 0 SSID: VIVO-3734 
+
+Count: 632
+RSSI: -64 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 71 EID: 0 SSID: VIVO-3734 
+
+Count: 633
+RSSI: -63 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 72 EID: 0 SSID: VIVO-3734 
+
+Count: 634
+RSSI: -64 Ch: 9 Peer MAC: 50:92:b9:a4:21:0a SEQ: 246 EID: 0 SSID:  
+
+Count: 635
+RSSI: -56 Ch: 9 Peer MAC: 50:92:b9:a4:21:0a SEQ: 246 EID: 0 SSID:  
+
+Count: 636
+RSSI: -56 Ch: 9 Peer MAC: 50:92:b9:a4:21:0a SEQ: 246 EID: 0 SSID:  
+
+Count: 637
+RSSI: -53 Ch: 9 Peer MAC: 50:92:b9:a4:21:0a SEQ: 247 EID: 0 SSID:  
+
+Count: 638
+RSSI: -53 Ch: 9 Peer MAC: 50:92:b9:a4:21:0a SEQ: 247 EID: 0 SSID:  
+
+Count: 639
+RSSI: -55 Ch: 9 Peer MAC: 50:92:b9:a4:21:0a SEQ: 247 EID: 0 SSID:  
+
+Count: 640
+RSSI: -55 Ch: 9 Peer MAC: 50:92:b9:a4:21:0a SEQ: 247 EID: 0 SSID:  
+
+Count: 641
+RSSI: -61 Ch: 9 Peer MAC: 50:92:b9:a4:21:0a SEQ: 247 EID: 0 SSID:  
+
+Count: 642
+RSSI: -85 Ch: 9 Peer MAC: 50:92:b9:a4:21:0a SEQ: 247 EID: 0 SSID:  
+
+Count: 643
+RSSI: -84 Ch: 12 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 88 EID: 0 SSID:  
+
+Count: 644
+RSSI: -84 Ch: 13 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 246 EID: 0 SSID:  
+
+Count: 645
+RSSI: -83 Ch: 13 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 246 EID: 0 SSID:  
+
+Count: 646
+RSSI: -89 Ch: 1 Peer MAC: d0:77:14:69:09:9b SEQ: 82 EID: 0 SSID:  
+
+Count: 647
+RSSI: -88 Ch: 1 Peer MAC: d0:77:14:69:09:9b SEQ: 82 EID: 0 SSID:  
+
+Count: 648
+RSSI: -87 Ch: 1 Peer MAC: d0:77:14:69:09:9b SEQ: 82 EID: 0 SSID:  
+
+Count: 649
+RSSI: -87 Ch: 1 Peer MAC: d0:77:14:69:09:9b SEQ: 82 EID: 0 SSID:  
+
+Count: 650
+RSSI: -87 Ch: 1 Peer MAC: d0:77:14:69:09:9b SEQ: 82 EID: 0 SSID:  
+
+Count: 651
+RSSI: -84 Ch: 2 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 62 EID: 0 SSID:  
+
+Count: 652
+RSSI: -86 Ch: 2 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 62 EID: 0 SSID:  
+
+Count: 653
+RSSI: -84 Ch: 2 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 63 EID: 0 SSID:  
+
+Count: 654
+RSSI: -82 Ch: 2 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 63 EID: 0 SSID:  
+
+Count: 655
+RSSI: -81 Ch: 2 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 63 EID: 0 SSID:  
+
+Count: 656
+RSSI: -83 Ch: 2 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 63 EID: 0 SSID:  
+
+Count: 657
+RSSI: -82 Ch: 2 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 63 EID: 0 SSID:  
+
+Count: 658
+RSSI: -79 Ch: 4 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 66 EID: 0 SSID:  
+
+Count: 659
+RSSI: -79 Ch: 4 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 66 EID: 0 SSID:  
+
+Count: 660
+RSSI: -77 Ch: 4 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 66 EID: 0 SSID:  
+
+Count: 661
+RSSI: -78 Ch: 4 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 66 EID: 0 SSID:  
+
+Count: 662
+RSSI: -79 Ch: 4 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 66 EID: 0 SSID:  
+
+Count: 663
+RSSI: -79 Ch: 4 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 66 EID: 0 SSID:  
+
+Count: 664
+RSSI: -79 Ch: 5 Peer MAC: ec:88:92:45:82:e3 SEQ: 238 EID: 0 SSID:  
+
+Count: 665
+RSSI: -84 Ch: 5 Peer MAC: ec:88:92:45:82:e3 SEQ: 238 EID: 0 SSID:  
+
+Count: 666
+RSSI: -76 Ch: 5 Peer MAC: ec:88:92:45:82:e3 SEQ: 238 EID: 0 SSID:  
+
+Count: 667
+RSSI: -85 Ch: 6 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 69 EID: 0 SSID:  
+
+Count: 668
+RSSI: -84 Ch: 6 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 69 EID: 0 SSID:  
+
+Count: 669
+RSSI: -81 Ch: 6 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 69 EID: 0 SSID:  
+
+Count: 670
+RSSI: -81 Ch: 6 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 69 EID: 0 SSID:  
+
+Count: 671
+RSSI: -81 Ch: 6 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 69 EID: 0 SSID:  
+
+Count: 672
+RSSI: -82 Ch: 6 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 69 EID: 0 SSID:  
+
+Count: 673
+RSSI: -92 Ch: 1 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 91 EID: 0 SSID:  
+
+Count: 674
+RSSI: -87 Ch: 5 Peer MAC: cc:61:e5:6b:33:13 SEQ: 89 EID: 0 SSID:  
+
+Count: 675
+RSSI: -89 Ch: 6 Peer MAC: cc:61:e5:6b:33:13 SEQ: 89 EID: 0 SSID:  
+
+Count: 676
+RSSI: -90 Ch: 6 Peer MAC: cc:61:e5:6b:33:13 SEQ: 89 EID: 0 SSID:  
+
+Count: 677
+RSSI: -90 Ch: 6 Peer MAC: cc:61:e5:6b:33:13 SEQ: 90 EID: 0 SSID:  
+
+Count: 678
+RSSI: -57 Ch: 10 Peer MAC: 50:92:b9:a4:21:0a SEQ: 1 EID: 0 SSID:  
+
+Count: 679
+RSSI: -56 Ch: 10 Peer MAC: 50:92:b9:a4:21:0a SEQ: 1 EID: 0 SSID:  
+
+Count: 680
+RSSI: -53 Ch: 10 Peer MAC: 50:92:b9:a4:21:0a SEQ: 1 EID: 0 SSID:  
+
+Count: 681
+RSSI: -54 Ch: 10 Peer MAC: 50:92:b9:a4:21:0a SEQ: 1 EID: 0 SSID:  
+
+Count: 682
+RSSI: -56 Ch: 10 Peer MAC: 50:92:b9:a4:21:0a SEQ: 1 EID: 0 SSID:  
+
+Count: 683
+RSSI: -54 Ch: 10 Peer MAC: 50:92:b9:a4:21:0a SEQ: 1 EID: 0 SSID:  
+
+Count: 684
+RSSI: -84 Ch: 11 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 73 EID: 0 SSID:  
+
+Count: 685
+RSSI: -83 Ch: 11 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 73 EID: 0 SSID:  
+
+Count: 686
+RSSI: -84 Ch: 11 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 73 EID: 0 SSID:  
+
+Count: 687
+RSSI: -85 Ch: 11 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 73 EID: 0 SSID:  
+
+Count: 688
+RSSI: -85 Ch: 11 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 73 EID: 0 SSID:  
+
+Count: 689
+RSSI: -63 Ch: 12 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 72 EID: 0 SSID: VIVO-3734 
+
+Count: 690
+RSSI: -34 Ch: 12 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 73 EID: 0 SSID: VIVO-3734 
+
+Count: 691
+RSSI: -37 Ch: 12 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 73 EID: 0 SSID: VIVO-3734 
+
+Count: 692
+RSSI: -86 Ch: 13 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 95 EID: 0 SSID:  
+
+Count: 693
+RSSI: -33 Ch: 13 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 73 EID: 0 SSID: VIVO-3734 
+
+Count: 694
+RSSI: -33 Ch: 13 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 73 EID: 0 SSID: VIVO-3734 
+
+Count: 695
+RSSI: -77 Ch: 1 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 74 EID: 0 SSID: VIVO-3734 
+
+Count: 696
+RSSI: -62 Ch: 1 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 74 EID: 0 SSID: VIVO-3734 
+
+Count: 697
+RSSI: -85 Ch: 7 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 75 EID: 0 SSID:  
+
+Count: 698
+RSSI: -84 Ch: 7 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 108 EID: 0 SSID:  
+
+Count: 699
+RSSI: -74 Ch: 1 Peer MAC: ec:88:92:45:82:e3 SEQ: 239 EID: 0 SSID:  
+
+Count: 700
+RSSI: -73 Ch: 1 Peer MAC: ec:88:92:45:82:e3 SEQ: 239 EID: 0 SSID:  
+
+Count: 701
+RSSI: -74 Ch: 1 Peer MAC: ec:88:92:45:82:e3 SEQ: 239 EID: 0 SSID:  
+
+Count: 702
+RSSI: -74 Ch: 1 Peer MAC: ec:88:92:45:82:e3 SEQ: 239 EID: 0 SSID:  
+
+Count: 703
+RSSI: -76 Ch: 1 Peer MAC: ec:88:92:45:82:e3 SEQ: 239 EID: 0 SSID:  
+
+Count: 704
+RSSI: -75 Ch: 1 Peer MAC: ec:88:92:45:82:e3 SEQ: 240 EID: 0 SSID:  
+
+Count: 705
+RSSI: -88 Ch: 1 Peer MAC: 40:65:a3:84:cd:c4 SEQ: 161 EID: 0 SSID:  
+
+Count: 706
+RSSI: -80 Ch: 5 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 77 EID: 0 SSID:  
+
+Count: 707
+RSSI: -80 Ch: 5 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 77 EID: 0 SSID:  
+
+Count: 708
+RSSI: -81 Ch: 5 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 77 EID: 0 SSID:  
+
+Count: 709
+RSSI: -81 Ch: 5 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 77 EID: 0 SSID:  
+
+Count: 710
+RSSI: -78 Ch: 5 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 77 EID: 0 SSID:  
+
+Count: 711
+RSSI: -79 Ch: 5 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 78 EID: 0 SSID:  
+
+Count: 712
+RSSI: -85 Ch: 6 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 78 EID: 0 SSID:  
+
+Count: 713
+RSSI: -79 Ch: 6 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 78 EID: 0 SSID:  
+
+Count: 714
+RSSI: -78 Ch: 6 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 78 EID: 0 SSID:  
+
+Count: 715
+RSSI: -79 Ch: 6 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 78 EID: 0 SSID:  
+
+Count: 716
+RSSI: -89 Ch: 13 Peer MAC: da:bd:99:e5:7c:d6 SEQ: 203 EID: 0 SSID:  
+
+Count: 717
+RSSI: -79 Ch: 5 Peer MAC: 50:92:b9:a4:21:0a SEQ: 10 EID: 0 SSID:  
+
+Count: 718
+RSSI: -53 Ch: 6 Peer MAC: 50:92:b9:a4:21:0a SEQ: 11 EID: 0 SSID:  
+
+Count: 719
+RSSI: -53 Ch: 6 Peer MAC: 50:92:b9:a4:21:0a SEQ: 11 EID: 0 SSID:  
+
+Count: 720
+RSSI: -53 Ch: 6 Peer MAC: 50:92:b9:a4:21:0a SEQ: 11 EID: 0 SSID:  
+
+Count: 721
+RSSI: -50 Ch: 6 Peer MAC: 50:92:b9:a4:21:0a SEQ: 11 EID: 0 SSID:  
+
+Count: 722
+RSSI: -54 Ch: 6 Peer MAC: 50:92:b9:a4:21:0a SEQ: 11 EID: 0 SSID:  
+
+Count: 723
+RSSI: -55 Ch: 6 Peer MAC: 50:92:b9:a4:21:0a SEQ: 11 EID: 0 SSID:  
+
+Count: 724
+RSSI: -86 Ch: 10 Peer MAC: 50:92:b9:38:77:ce SEQ: 79 EID: 0 SSID:  
+
+Count: 725
+RSSI: -88 Ch: 3 Peer MAC: 08:8c:2c:4c:eb:80 SEQ: 212 EID: 0 SSID:  
+
+Count: 726
+RSSI: -85 Ch: 3 Peer MAC: 08:8c:2c:4c:eb:80 SEQ: 212 EID: 0 SSID:  
+
+Count: 727
+RSSI: -90 Ch: 5 Peer MAC: dc:35:f1:a6:59:5a SEQ: 196 EID: 0 SSID:  
+
+Count: 728
+RSSI: -33 Ch: 10 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 76 EID: 0 SSID: VIVO-3734 
+
+Count: 729
+RSSI: -35 Ch: 10 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 76 EID: 0 SSID: VIVO-3734 
+
+Count: 730
+RSSI: -86 Ch: 11 Peer MAC: fc:64:3a:50:0d:72 SEQ: 107 EID: 0 SSID: netvirtua 224 104 
+
+Count: 731
+RSSI: -62 Ch: 13 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 78 EID: 0 SSID: VIVO-3734 
+
+Count: 732
+RSSI: -61 Ch: 13 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 78 EID: 0 SSID: VIVO-3734 
+
+Count: 733
+RSSI: -93 Ch: 1 Peer MAC: 5c:c9:d3:1f:a8:e8 SEQ: 138 EID: 0 SSID: GVT-4793 
+
+Count: 734
+RSSI: -91 Ch: 1 Peer MAC: 5c:c9:d3:1f:a8:e8 SEQ: 138 EID: 0 SSID: GVT-4793 
+
+Count: 735
+RSSI: -88 Ch: 4 Peer MAC: d0:77:14:69:09:9b SEQ: 88 EID: 0 SSID:  
+
+Count: 736
+RSSI: -87 Ch: 4 Peer MAC: d0:77:14:69:09:9b SEQ: 88 EID: 0 SSID:  
+
+Count: 737
+RSSI: -72 Ch: 9 Peer MAC: ec:88:92:45:82:e3 SEQ: 243 EID: 0 SSID:  
+
+Count: 738
+RSSI: -76 Ch: 9 Peer MAC: ec:88:92:45:82:e3 SEQ: 243 EID: 0 SSID:  
+
+Count: 739
+RSSI: -71 Ch: 9 Peer MAC: ec:88:92:45:82:e3 SEQ: 243 EID: 0 SSID:  
+
+Count: 740
+RSSI: -74 Ch: 9 Peer MAC: ec:88:92:45:82:e3 SEQ: 243 EID: 0 SSID:  
+
+Count: 741
+RSSI: -73 Ch: 9 Peer MAC: ec:88:92:45:82:e3 SEQ: 243 EID: 0 SSID:  
+
+Count: 742
+RSSI: -71 Ch: 9 Peer MAC: ec:88:92:45:82:e3 SEQ: 243 EID: 0 SSID:  
+
+Count: 743
+RSSI: -73 Ch: 9 Peer MAC: ec:88:92:45:82:e3 SEQ: 243 EID: 0 SSID:  
+
+Count: 744
+RSSI: -81 Ch: 9 Peer MAC: ec:88:92:45:82:e3 SEQ: 243 EID: 0 SSID:  
+
+Count: 745
+RSSI: -89 Ch: 5 Peer MAC: cc:61:e5:6b:33:13 SEQ: 105 EID: 0 SSID:  
+
+Count: 746
+RSSI: -85 Ch: 5 Peer MAC: cc:61:e5:6b:33:13 SEQ: 105 EID: 0 SSID:  
+
+Count: 747
+RSSI: -86 Ch: 9 Peer MAC: a8:16:d0:76:96:8f SEQ: 9 EID: 0 SSID:  
+
+Count: 748
+RSSI: -91 Ch: 11 Peer MAC: d0:77:14:69:09:9b SEQ: 92 EID: 0 SSID:  
+
+Count: 749
+RSSI: -86 Ch: 3 Peer MAC: d0:77:14:69:09:9b SEQ: 93 EID: 0 SSID:  
+
+Count: 750
+RSSI: -87 Ch: 3 Peer MAC: d0:77:14:69:09:9b SEQ: 93 EID: 0 SSID:  
+
+Count: 751
+RSSI: -56 Ch: 3 Peer MAC: 50:92:b9:a4:21:0a SEQ: 22 EID: 0 SSID:  
+
+Count: 752
+RSSI: -56 Ch: 3 Peer MAC: 50:92:b9:a4:21:0a SEQ: 22 EID: 0 SSID:  
+
+Count: 753
+RSSI: -51 Ch: 3 Peer MAC: 50:92:b9:a4:21:0a SEQ: 23 EID: 0 SSID:  
+
+Count: 754
+RSSI: -50 Ch: 3 Peer MAC: 50:92:b9:a4:21:0a SEQ: 23 EID: 0 SSID:  
+
+Count: 755
+RSSI: -55 Ch: 3 Peer MAC: 50:92:b9:a4:21:0a SEQ: 23 EID: 0 SSID:  
+
+Count: 756
+RSSI: -55 Ch: 3 Peer MAC: 50:92:b9:a4:21:0a SEQ: 23 EID: 0 SSID:  
+
+Count: 757
+RSSI: -85 Ch: 8 Peer MAC: 38:9a:f6:1a:3f:33 SEQ: 74 EID: 0 SSID:  
+
+Count: 758
+RSSI: -85 Ch: 9 Peer MAC: cc:61:e5:6b:33:13 SEQ: 110 EID: 0 SSID:  
+
+Count: 759
+RSSI: -88 Ch: 9 Peer MAC: cc:61:e5:6b:33:13 SEQ: 110 EID: 0 SSID:  
+
+Count: 760
+RSSI: -91 Ch: 2 Peer MAC: 08:8c:2c:4c:eb:80 SEQ: 215 EID: 0 SSID:  
+
+Count: 761
+RSSI: -86 Ch: 5 Peer MAC: 08:8c:2c:4c:eb:80 SEQ: 218 EID: 0 SSID:  
+
+Count: 762
+RSSI: -85 Ch: 5 Peer MAC: 08:8c:2c:4c:eb:80 SEQ: 218 EID: 0 SSID:  
+
+Count: 763
+RSSI: -89 Ch: 6 Peer MAC: de:2c:2b:d5:1e:e7 SEQ: 229 EID: 0 SSID:  
+
+Count: 764
+RSSI: -86 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 79 EID: 0 SSID: VIVO-3734 
+
+Count: 765
+RSSI: -82 Ch: 11 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 81 EID: 0 SSID: VIVO-3734 
+
+Count: 766
+RSSI: -34 Ch: 12 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 82 EID: 0 SSID: VIVO-3734 
+
+Count: 767
+RSSI: -33 Ch: 12 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 82 EID: 0 SSID: VIVO-3734 
+
+Count: 768
+RSSI: -85 Ch: 11 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 85 EID: 0 SSID:  
+
+Count: 769
+RSSI: -82 Ch: 11 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 85 EID: 0 SSID:  
+
+Count: 770
+RSSI: -83 Ch: 11 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 86 EID: 0 SSID:  
+
+Count: 771
+RSSI: -83 Ch: 11 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 86 EID: 0 SSID:  
+
+Count: 772
+RSSI: -84 Ch: 9 Peer MAC: a8:16:d0:76:96:8f SEQ: 21 EID: 0 SSID:  
+
+Count: 773
+RSSI: -55 Ch: 2 Peer MAC: 50:92:b9:a4:21:0a SEQ: 38 EID: 0 SSID:  
+
+Count: 774
+RSSI: -55 Ch: 2 Peer MAC: 50:92:b9:a4:21:0a SEQ: 38 EID: 0 SSID:  
+
+Count: 775
+RSSI: -54 Ch: 2 Peer MAC: 50:92:b9:a4:21:0a SEQ: 38 EID: 0 SSID:  
+
+Count: 776
+RSSI: -51 Ch: 2 Peer MAC: 50:92:b9:a4:21:0a SEQ: 38 EID: 0 SSID:  
+
+Count: 777
+RSSI: -57 Ch: 2 Peer MAC: 50:92:b9:a4:21:0a SEQ: 38 EID: 0 SSID:  
+
+Count: 778
+RSSI: -58 Ch: 2 Peer MAC: 50:92:b9:a4:21:0a SEQ: 38 EID: 0 SSID:  
+
+Count: 779
+RSSI: -77 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 82 EID: 0 SSID: VIVO-3734 
+
+Count: 780
+RSSI: -66 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 82 EID: 0 SSID: VIVO-3734 
+
+Count: 781
+RSSI: -33 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 82 EID: 0 SSID: VIVO-3734 
+
+Count: 782
+RSSI: -33 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 83 EID: 0 SSID: VIVO-3734 
+
+Count: 783
+RSSI: -33 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 83 EID: 0 SSID: VIVO-3734 
+
+Count: 784
+RSSI: -69 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 83 EID: 0 SSID: VIVO-3734 
+
+Count: 785
+RSSI: -73 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 83 EID: 0 SSID: VIVO-3734 
+
+Count: 786
+RSSI: -35 Ch: 11 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 85 EID: 0 SSID: VIVO-3734 
+
+Count: 787
+RSSI: -35 Ch: 11 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 85 EID: 0 SSID: VIVO-3734 
+
+Count: 788
+RSSI: -34 Ch: 12 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 85 EID: 0 SSID: VIVO-3734 
+
+Count: 789
+RSSI: -33 Ch: 12 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 85 EID: 0 SSID: VIVO-3734 
+
+Count: 790
+RSSI: -78 Ch: 2 Peer MAC: ec:88:92:45:82:e3 SEQ: 244 EID: 0 SSID:  
+
+Count: 791
+RSSI: -78 Ch: 2 Peer MAC: ec:88:92:45:82:e3 SEQ: 244 EID: 0 SSID:  
+
+Count: 792
+RSSI: -73 Ch: 2 Peer MAC: ec:88:92:45:82:e3 SEQ: 244 EID: 0 SSID:  
+
+Count: 793
+RSSI: -76 Ch: 2 Peer MAC: ec:88:92:45:82:e3 SEQ: 244 EID: 0 SSID:  
+
+Count: 794
+RSSI: -73 Ch: 2 Peer MAC: ec:88:92:45:82:e3 SEQ: 244 EID: 0 SSID:  
+
+Count: 795
+RSSI: -79 Ch: 2 Peer MAC: ec:88:92:45:82:e3 SEQ: 244 EID: 0 SSID:  
+
+Count: 796
+RSSI: -70 Ch: 10 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 151 EID: 0 SSID:  
+
+Count: 797
+RSSI: -72 Ch: 10 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 152 EID: 0 SSID:  
+
+Count: 798
+RSSI: -73 Ch: 11 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 152 EID: 0 SSID:  
+
+Count: 799
+RSSI: -72 Ch: 11 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 152 EID: 0 SSID:  
+
+Count: 800
+RSSI: -72 Ch: 11 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 152 EID: 0 SSID:  
+
+Count: 801
+RSSI: -72 Ch: 11 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 152 EID: 0 SSID:  
+
+Count: 802
+RSSI: -78 Ch: 11 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 152 EID: 0 SSID:  
+
+Count: 803
+RSSI: -77 Ch: 11 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 152 EID: 0 SSID:  
+
+Count: 804
+RSSI: -89 Ch: 6 Peer MAC: a8:16:d0:76:96:8f SEQ: 23 EID: 0 SSID:  
+
+Count: 805
+RSSI: -91 Ch: 6 Peer MAC: a8:16:d0:76:96:8f SEQ: 23 EID: 0 SSID:  
+
+Count: 806
+RSSI: -82 Ch: 9 Peer MAC: fc:64:3a:b4:c9:e8 SEQ: 29 EID: 0 SSID:  
+
+Count: 807
+RSSI: -80 Ch: 10 Peer MAC: 30:07:4d:da:53:a6 SEQ: 54 EID: 0 SSID:  
+
+Count: 808
+RSSI: -76 Ch: 10 Peer MAC: 30:07:4d:da:53:a6 SEQ: 54 EID: 0 SSID:  
+
+Count: 809
+RSSI: -78 Ch: 10 Peer MAC: 30:07:4d:da:53:a6 SEQ: 54 EID: 0 SSID:  
+
+Count: 810
+RSSI: -93 Ch: 1 Peer MAC: cc:61:e5:6b:33:13 SEQ: 125 EID: 0 SSID:  
+
+Count: 811
+RSSI: -91 Ch: 1 Peer MAC: cc:61:e5:6b:33:13 SEQ: 125 EID: 0 SSID:  
+
+Count: 812
+RSSI: -90 Ch: 1 Peer MAC: cc:61:e5:6b:33:13 SEQ: 125 EID: 0 SSID:  
+
+Count: 813
+RSSI: -92 Ch: 1 Peer MAC: cc:61:e5:6b:33:13 SEQ: 125 EID: 0 SSID:  
+
+Count: 814
+RSSI: -84 Ch: 3 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 87 EID: 0 SSID: netvirtua 224 104 
+
+Count: 815
+RSSI: -43 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 85 EID: 0 SSID: VIVO-3734 
+
+Count: 816
+RSSI: -41 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 86 EID: 0 SSID: VIVO-3734 
+
+Count: 817
+RSSI: -42 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 86 EID: 0 SSID: VIVO-3734 
+
+Count: 818
+RSSI: -64 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 86 EID: 0 SSID: VIVO-3734 
+
+Count: 819
+RSSI: -90 Ch: 10 Peer MAC: fc:64:3a:b4:c9:e8 SEQ: 30 EID: 0 SSID:  
+
+Count: 820
+RSSI: -66 Ch: 10 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 87 EID: 0 SSID: VIVO-3734 
+
+Count: 821
+RSSI: -67 Ch: 10 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 87 EID: 0 SSID: VIVO-3734 
+
+Count: 822
+RSSI: -44 Ch: 10 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 87 EID: 0 SSID: VIVO-3734 
+
+Count: 823
+RSSI: -41 Ch: 11 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 88 EID: 0 SSID: VIVO-3734 
+
+Count: 824
+RSSI: -33 Ch: 11 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 88 EID: 0 SSID: VIVO-3734 
+
+Count: 825
+RSSI: -33 Ch: 11 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 88 EID: 0 SSID: VIVO-3734 
+
+Count: 826
+RSSI: -34 Ch: 11 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 88 EID: 0 SSID: VIVO-3734 
+
+Count: 827
+RSSI: -34 Ch: 11 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 88 EID: 0 SSID: VIVO-3734 
+
+Count: 828
+RSSI: -82 Ch: 7 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 89 EID: 0 SSID:  
+
+Count: 829
+RSSI: -82 Ch: 7 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 89 EID: 0 SSID:  
+
+Count: 830
+RSSI: -83 Ch: 7 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 89 EID: 0 SSID:  
+
+Count: 831
+RSSI: -83 Ch: 7 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 89 EID: 0 SSID:  
+
+Count: 832
+RSSI: -80 Ch: 7 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 89 EID: 0 SSID:  
+
+Count: 833
+RSSI: -79 Ch: 7 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 89 EID: 0 SSID:  
+
+Count: 834
+RSSI: -80 Ch: 7 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 89 EID: 0 SSID:  
+
+Count: 835
+RSSI: -87 Ch: 7 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 90 EID: 0 SSID:  
+
+Count: 836
+RSSI: -86 Ch: 7 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 90 EID: 0 SSID:  
+
+Count: 837
+RSSI: -86 Ch: 7 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 90 EID: 0 SSID:  
+
+Count: 838
+RSSI: -84 Ch: 9 Peer MAC: fc:64:3a:b4:c9:e8 SEQ: 32 EID: 0 SSID:  
+
+Count: 839
+RSSI: -85 Ch: 9 Peer MAC: fc:64:3a:b4:c9:e8 SEQ: 32 EID: 0 SSID:  
+
+Count: 840
+RSSI: -86 Ch: 11 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 92 EID: 0 SSID: netvirtua 224 104 
+
+Count: 841
+RSSI: -87 Ch: 11 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 92 EID: 0 SSID: netvirtua 224 104 
+
+Count: 842
+RSSI: -51 Ch: 1 Peer MAC: 50:92:b9:a4:21:0a SEQ: 55 EID: 0 SSID:  
+
+Count: 843
+RSSI: -51 Ch: 1 Peer MAC: 50:92:b9:a4:21:0a SEQ: 55 EID: 0 SSID:  
+
+Count: 844
+RSSI: -53 Ch: 1 Peer MAC: 50:92:b9:a4:21:0a SEQ: 55 EID: 0 SSID:  
+
+Count: 845
+RSSI: -54 Ch: 1 Peer MAC: 50:92:b9:a4:21:0a SEQ: 55 EID: 0 SSID:  
+
+Count: 846
+RSSI: -62 Ch: 1 Peer MAC: 50:92:b9:a4:21:0a SEQ: 55 EID: 0 SSID:  
+
+Count: 847
+RSSI: -88 Ch: 8 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 94 EID: 0 SSID:  
+
+Count: 848
+RSSI: -80 Ch: 8 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 94 EID: 0 SSID:  
+
+Count: 849
+RSSI: -81 Ch: 8 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 94 EID: 0 SSID:  
+
+Count: 850
+RSSI: -80 Ch: 8 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 94 EID: 0 SSID:  
+
+Count: 851
+RSSI: -80 Ch: 8 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 94 EID: 0 SSID:  
+
+Count: 852
+RSSI: -79 Ch: 8 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 94 EID: 0 SSID:  
+
+Count: 853
+RSSI: -81 Ch: 8 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 94 EID: 0 SSID:  
+
+Count: 854
+RSSI: -79 Ch: 8 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 94 EID: 0 SSID:  
+
+Count: 855
+RSSI: -78 Ch: 8 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 94 EID: 0 SSID:  
+
+Count: 856
+RSSI: -82 Ch: 8 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 94 EID: 0 SSID:  
+
+Count: 857
+RSSI: -82 Ch: 8 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 94 EID: 0 SSID:  
+
+Count: 858
+RSSI: -88 Ch: 1 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 95 EID: 0 SSID:  
+
+Count: 859
+RSSI: -91 Ch: 1 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 96 EID: 0 SSID:  
+
+Count: 860
+RSSI: -90 Ch: 1 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 96 EID: 0 SSID:  
+
+Count: 861
+RSSI: -85 Ch: 3 Peer MAC: fc:64:3a:b4:c9:e8 SEQ: 32 EID: 0 SSID:  
+
+Count: 862
+RSSI: -86 Ch: 3 Peer MAC: fc:64:3a:b4:c9:e8 SEQ: 33 EID: 0 SSID:  
+
+Count: 863
+RSSI: -82 Ch: 7 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 98 EID: 0 SSID:  
+
+Count: 864
+RSSI: -81 Ch: 7 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 98 EID: 0 SSID:  
+
+Count: 865
+RSSI: -81 Ch: 7 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 98 EID: 0 SSID:  
+
+Count: 866
+RSSI: -83 Ch: 7 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 98 EID: 0 SSID:  
+
+Count: 867
+RSSI: -78 Ch: 7 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 98 EID: 0 SSID:  
+
+Count: 868
+RSSI: -80 Ch: 7 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 98 EID: 0 SSID:  
+
+Count: 869
+RSSI: -78 Ch: 7 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 98 EID: 0 SSID:  
+
+Count: 870
+RSSI: -79 Ch: 7 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 98 EID: 0 SSID:  
+
+Count: 871
+RSSI: -77 Ch: 7 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 98 EID: 0 SSID:  
+
+Count: 872
+RSSI: -91 Ch: 1 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 11 EID: 0 SSID:  
+
+Count: 873
+RSSI: -81 Ch: 6 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 100 EID: 0 SSID:  
+
+Count: 874
+RSSI: -81 Ch: 6 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 100 EID: 0 SSID:  
+
+Count: 875
+RSSI: -81 Ch: 6 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 100 EID: 0 SSID:  
+
+Count: 876
+RSSI: -81 Ch: 6 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 100 EID: 0 SSID:  
+
+Count: 877
+RSSI: -81 Ch: 6 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 100 EID: 0 SSID:  
+
+Count: 878
+RSSI: -81 Ch: 6 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 100 EID: 0 SSID:  
+
+Count: 879
+RSSI: -82 Ch: 8 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 103 EID: 0 SSID:  
+
+Count: 880
+RSSI: -80 Ch: 8 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 103 EID: 0 SSID:  
+
+Count: 881
+RSSI: -81 Ch: 8 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 103 EID: 0 SSID:  
+
+Count: 882
+RSSI: -80 Ch: 8 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 103 EID: 0 SSID:  
+
+Count: 883
+RSSI: -78 Ch: 8 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 103 EID: 0 SSID:  
+
+Count: 884
+RSSI: -79 Ch: 8 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 103 EID: 0 SSID:  
+
+Count: 885
+RSSI: -79 Ch: 8 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 104 EID: 0 SSID:  
+
+Count: 886
+RSSI: -79 Ch: 8 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 104 EID: 0 SSID:  
+
+Count: 887
+RSSI: -77 Ch: 8 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 104 EID: 0 SSID:  
+
+Count: 888
+RSSI: -80 Ch: 8 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 104 EID: 0 SSID:  
+
+Count: 889
+RSSI: -80 Ch: 8 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 104 EID: 0 SSID:  
+
+Count: 890
+RSSI: -83 Ch: 10 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 107 EID: 0 SSID:  
+
+Count: 891
+RSSI: -82 Ch: 10 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 107 EID: 0 SSID:  
+
+Count: 892
+RSSI: -85 Ch: 11 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 110 EID: 0 SSID:  
+
+Count: 893
+RSSI: -82 Ch: 11 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 110 EID: 0 SSID:  
+
+Count: 894
+RSSI: -84 Ch: 11 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 110 EID: 0 SSID:  
+
+Count: 895
+RSSI: -82 Ch: 11 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 110 EID: 0 SSID:  
+
+Count: 896
+RSSI: -84 Ch: 11 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 110 EID: 0 SSID:  
+
+Count: 897
+RSSI: -83 Ch: 11 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 110 EID: 0 SSID:  
+
+Count: 898
+RSSI: -81 Ch: 11 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 110 EID: 0 SSID:  
+
+Count: 899
+RSSI: -84 Ch: 12 Peer MAC: 10:f1:f2:52:43:6c SEQ: 134 EID: 0 SSID:  
+
+Count: 900
+RSSI: -88 Ch: 4 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 15 EID: 0 SSID:  
+
+Count: 901
+RSSI: -82 Ch: 5 Peer MAC: ec:88:92:45:82:e3 SEQ: 246 EID: 0 SSID:  
+
+Count: 902
+RSSI: -78 Ch: 5 Peer MAC: ec:88:92:45:82:e3 SEQ: 246 EID: 0 SSID:  
+
+Count: 903
+RSSI: -77 Ch: 5 Peer MAC: ec:88:92:45:82:e3 SEQ: 246 EID: 0 SSID:  
+
+Count: 904
+RSSI: -74 Ch: 5 Peer MAC: ec:88:92:45:82:e3 SEQ: 246 EID: 0 SSID:  
+
+Count: 905
+RSSI: -73 Ch: 5 Peer MAC: ec:88:92:45:82:e3 SEQ: 246 EID: 0 SSID:  
+
+Count: 906
+RSSI: -65 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 88 EID: 0 SSID: VIVO-3734 
+
+Count: 907
+RSSI: -67 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 88 EID: 0 SSID: VIVO-3734 
+
+Count: 908
+RSSI: -33 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 89 EID: 0 SSID: VIVO-3734 
+
+Count: 909
+RSSI: -33 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 89 EID: 0 SSID: VIVO-3734 
+
+Count: 910
+RSSI: -67 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 89 EID: 0 SSID: VIVO-3734 
+
+Count: 911
+RSSI: -65 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 89 EID: 0 SSID: VIVO-3734 
+
+Count: 912
+RSSI: -67 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 90 EID: 0 SSID: VIVO-3734 
+
+Count: 913
+RSSI: -64 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 90 EID: 0 SSID: VIVO-3734 
+
+Count: 914
+RSSI: -65 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 90 EID: 0 SSID: VIVO-3734 
+
+Count: 915
+RSSI: -61 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 90 EID: 0 SSID: VIVO-3734 
+
+Count: 916
+RSSI: -33 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 91 EID: 0 SSID: VIVO-3734 
+
+Count: 917
+RSSI: -34 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 91 EID: 0 SSID: VIVO-3734 
+
+Count: 918
+RSSI: -32 Ch: 10 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 91 EID: 0 SSID: VIVO-3734 
+
+Count: 919
+RSSI: -32 Ch: 10 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 91 EID: 0 SSID: VIVO-3734 
+
+Count: 920
+RSSI: -78 Ch: 12 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 18 EID: 0 SSID:  
+
+Count: 921
+RSSI: -82 Ch: 12 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 18 EID: 0 SSID:  
+
+Count: 922
+RSSI: -80 Ch: 12 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 19 EID: 0 SSID:  
+
+Count: 923
+RSSI: -83 Ch: 12 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 19 EID: 0 SSID:  
+
+Count: 924
+RSSI: -90 Ch: 4 Peer MAC: dc:53:60:0d:19:2a SEQ: 85 EID: 0 SSID: dlink-4690-5GHz 
+
+Count: 925
+RSSI: -89 Ch: 4 Peer MAC: dc:53:60:0d:19:2a SEQ: 86 EID: 0 SSID:  
+
+Count: 926
+RSSI: -91 Ch: 1 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 19 EID: 0 SSID:  
+
+Count: 927
+RSSI: -86 Ch: 5 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 116 EID: 0 SSID:  
+
+Count: 928
+RSSI: -86 Ch: 5 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 117 EID: 0 SSID:  
+
+Count: 929
+RSSI: -86 Ch: 5 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 117 EID: 0 SSID:  
+
+Count: 930
+RSSI: -86 Ch: 5 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 117 EID: 0 SSID:  
+
+Count: 931
+RSSI: -86 Ch: 5 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 117 EID: 0 SSID:  
+
+Count: 932
+RSSI: -91 Ch: 7 Peer MAC: dc:53:60:0d:19:2a SEQ: 88 EID: 0 SSID: dlink-4690-5GHz 
+
+Count: 933
+RSSI: -55 Ch: 8 Peer MAC: 50:92:b9:a4:21:0a SEQ: 75 EID: 0 SSID:  
+
+Count: 934
+RSSI: -55 Ch: 8 Peer MAC: 50:92:b9:a4:21:0a SEQ: 75 EID: 0 SSID:  
+
+Count: 935
+RSSI: -54 Ch: 8 Peer MAC: 50:92:b9:a4:21:0a SEQ: 75 EID: 0 SSID:  
+
+Count: 936
+RSSI: -52 Ch: 8 Peer MAC: 50:92:b9:a4:21:0a SEQ: 75 EID: 0 SSID:  
+
+Count: 937
+RSSI: -56 Ch: 8 Peer MAC: 50:92:b9:a4:21:0a SEQ: 75 EID: 0 SSID:  
+
+Count: 938
+RSSI: -55 Ch: 8 Peer MAC: 50:92:b9:a4:21:0a SEQ: 75 EID: 0 SSID:  
+
+Count: 939
+RSSI: -63 Ch: 8 Peer MAC: 50:92:b9:a4:21:0a SEQ: 75 EID: 0 SSID:  
+
+Count: 940
+RSSI: -78 Ch: 9 Peer MAC: 50:92:b9:a4:21:0a SEQ: 76 EID: 0 SSID:  
+
+Count: 941
+RSSI: -85 Ch: 9 Peer MAC: dc:53:60:0d:19:2a SEQ: 89 EID: 0 SSID: dlink-4690-5GHz 
+
+Count: 942
+RSSI: -90 Ch: 1 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 122 EID: 0 SSID:  
+
+Count: 943
+RSSI: -89 Ch: 1 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 122 EID: 0 SSID:  
+
+Count: 944
+RSSI: -90 Ch: 6 Peer MAC: cc:61:e5:6b:33:13 SEQ: 145 EID: 0 SSID:  
+
+Count: 945
+RSSI: -87 Ch: 6 Peer MAC: cc:61:e5:6b:33:13 SEQ: 146 EID: 0 SSID:  
+
+Count: 946
+RSSI: -90 Ch: 6 Peer MAC: cc:61:e5:6b:33:13 SEQ: 146 EID: 0 SSID:  
+
+Count: 947
+RSSI: -86 Ch: 10 Peer MAC: dc:53:60:0d:19:2a SEQ: 92 EID: 0 SSID:  
+
+Count: 948
+RSSI: -81 Ch: 10 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 127 EID: 0 SSID:  
+
+Count: 949
+RSSI: -82 Ch: 10 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 127 EID: 0 SSID:  
+
+Count: 950
+RSSI: -82 Ch: 10 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 127 EID: 0 SSID:  
+
+Count: 951
+RSSI: -81 Ch: 10 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 127 EID: 0 SSID:  
+
+Count: 952
+RSSI: -83 Ch: 10 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 127 EID: 0 SSID:  
+
+Count: 953
+RSSI: -81 Ch: 10 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 127 EID: 0 SSID:  
+
+Count: 954
+RSSI: -82 Ch: 10 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 127 EID: 0 SSID:  
+
+Count: 955
+RSSI: -90 Ch: 11 Peer MAC: 28:83:35:25:49:33 SEQ: 25 EID: 0 SSID:  
+
+Count: 956
+RSSI: -92 Ch: 2 Peer MAC: dc:53:60:0d:19:2a SEQ: 95 EID: 0 SSID: dlink-4690-5GHz 
+
+Count: 957
+RSSI: -34 Ch: 5 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 92 EID: 0 SSID: VIVO-3734 
+
+Count: 958
+RSSI: -34 Ch: 5 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 92 EID: 0 SSID: VIVO-3734 
+
+Count: 959
+RSSI: -63 Ch: 5 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 92 EID: 0 SSID: VIVO-3734 
+
+Count: 960
+RSSI: -35 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 92 EID: 0 SSID: VIVO-3734 
+
+Count: 961
+RSSI: -35 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 92 EID: 0 SSID: VIVO-3734 
+
+Count: 962
+RSSI: -73 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 93 EID: 0 SSID: VIVO-3734 
+
+Count: 963
+RSSI: -67 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 93 EID: 0 SSID: VIVO-3734 
+
+Count: 964
+RSSI: -60 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 93 EID: 0 SSID: VIVO-3734 
+
+Count: 965
+RSSI: -64 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 93 EID: 0 SSID: VIVO-3734 
+
+Count: 966
+RSSI: -85 Ch: 7 Peer MAC: fc:64:3a:50:0d:72 SEQ: 145 EID: 0 SSID: GVT-8E73 
+
+Count: 967
+RSSI: -84 Ch: 7 Peer MAC: fc:64:3a:50:0d:72 SEQ: 145 EID: 0 SSID:  
+
+Count: 968
+RSSI: -83 Ch: 7 Peer MAC: fc:64:3a:50:0d:72 SEQ: 145 EID: 0 SSID: GVT-8E73 
+
+Count: 969
+RSSI: -30 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 94 EID: 0 SSID: VIVO-3734 
+
+Count: 970
+RSSI: -32 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 94 EID: 0 SSID: VIVO-3734 
+
+Count: 971
+RSSI: -33 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 94 EID: 0 SSID: VIVO-3734 
+
+Count: 972
+RSSI: -33 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 94 EID: 0 SSID: VIVO-3734 
+
+Count: 973
+RSSI: -88 Ch: 5 Peer MAC: fc:64:3a:50:0d:72 SEQ: 149 EID: 0 SSID: netvirtua 224 104 
+
+Count: 974
+RSSI: -86 Ch: 5 Peer MAC: fc:64:3a:50:0d:72 SEQ: 149 EID: 0 SSID: netvirtua 224 104 
+
+Count: 975
+RSSI: -87 Ch: 7 Peer MAC: a8:16:d0:76:96:8f SEQ: 35 EID: 0 SSID:  
+
+Count: 976
+RSSI: -86 Ch: 8 Peer MAC: 04:1b:6d:ee:e3:71 SEQ: 212 EID: 0 SSID:  
+
+Count: 977
+RSSI: -78 Ch: 10 Peer MAC: d4:63:c6:0a:50:b5 SEQ: 26 EID: 0 SSID:  
+
+Count: 978
+RSSI: -76 Ch: 10 Peer MAC: d4:63:c6:85:a6:54 SEQ: 26 EID: 0 SSID:  
+
+Count: 979
+RSSI: -84 Ch: 10 Peer MAC: d4:63:c6:85:a6:54 SEQ: 26 EID: 0 SSID:  
+
+Count: 980
+RSSI: -86 Ch: 11 Peer MAC: d4:63:c6:75:38:f8 SEQ: 26 EID: 0 SSID:  
+
+Count: 981
+RSSI: -80 Ch: 13 Peer MAC: ec:88:92:45:82:e3 SEQ: 249 EID: 0 SSID:  
+
+Count: 982
+RSSI: -79 Ch: 13 Peer MAC: ec:88:92:45:82:e3 SEQ: 249 EID: 0 SSID:  
+
+Count: 983
+RSSI: -78 Ch: 13 Peer MAC: ec:88:92:45:82:e3 SEQ: 249 EID: 0 SSID:  
+
+Count: 984
+RSSI: -86 Ch: 3 Peer MAC: fc:64:3a:b4:c9:e8 SEQ: 34 EID: 0 SSID:  
+
+Count: 985
+RSSI: -83 Ch: 3 Peer MAC: fc:64:3a:b4:c9:e8 SEQ: 34 EID: 0 SSID:  
+
+Count: 986
+RSSI: -83 Ch: 3 Peer MAC: fc:64:3a:b4:c9:e8 SEQ: 34 EID: 0 SSID:  
+
+Count: 987
+RSSI: -85 Ch: 4 Peer MAC: fc:64:3a:b4:c9:e8 SEQ: 34 EID: 0 SSID:  
+
+Count: 988
+RSSI: -36 Ch: 5 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 97 EID: 0 SSID: VIVO-3734 
+
+Count: 989
+RSSI: -37 Ch: 5 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 97 EID: 0 SSID: VIVO-3734 
+
+Count: 990
+RSSI: -32 Ch: 5 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 97 EID: 0 SSID: VIVO-3734 
+
+Count: 991
+RSSI: -33 Ch: 5 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 97 EID: 0 SSID: VIVO-3734 
+
+Count: 992
+RSSI: -84 Ch: 12 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 28 EID: 0 SSID:  
+
+Count: 993
+RSSI: -85 Ch: 12 Peer MAC: fc:64:3a:b4:c9:e8 SEQ: 38 EID: 0 SSID:  
+
+Count: 994
+RSSI: -38 Ch: 1 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 98 EID: 0 SSID: VIVO-3734 
+
+Count: 995
+RSSI: -37 Ch: 1 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 98 EID: 0 SSID: VIVO-3734 
+
+Count: 996
+RSSI: -66 Ch: 1 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 99 EID: 0 SSID: VIVO-3734 
+
+Count: 997
+RSSI: -65 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 99 EID: 0 SSID: VIVO-3734 
+
+Count: 998
+RSSI: -37 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 99 EID: 0 SSID: VIVO-3734 
+
+Count: 999
+RSSI: -36 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 100 EID: 0 SSID: VIVO-3734 
+
+Count: 1000
+RSSI: -37 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 100 EID: 0 SSID: VIVO-3734 
+
+Count: 1001
+RSSI: -37 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 100 EID: 0 SSID: VIVO-3734 
+
+Count: 1002
+RSSI: -35 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 100 EID: 0 SSID: VIVO-3734 
+
+Count: 1003
+RSSI: -36 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 100 EID: 0 SSID: VIVO-3734 
+
+Count: 1004
+RSSI: -41 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 100 EID: 0 SSID: VIVO-3734 
+
+Count: 1005
+RSSI: -76 Ch: 4 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 168 EID: 0 SSID:  
+
+Count: 1006
+RSSI: -76 Ch: 4 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 168 EID: 0 SSID:  
+
+Count: 1007
+RSSI: -77 Ch: 4 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 168 EID: 0 SSID:  
+
+Count: 1008
+RSSI: -75 Ch: 4 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 168 EID: 0 SSID:  
+
+Count: 1009
+RSSI: -75 Ch: 4 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 168 EID: 0 SSID:  
+
+Count: 1010
+RSSI: -78 Ch: 4 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 168 EID: 0 SSID:  
+
+Count: 1011
+RSSI: -81 Ch: 5 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 168 EID: 0 SSID:  
+
+Count: 1012
+RSSI: -84 Ch: 9 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 31 EID: 0 SSID:  
+
+Count: 1013
+RSSI: -85 Ch: 8 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 34 EID: 0 SSID:  
+
+Count: 1014
+RSSI: -84 Ch: 8 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 34 EID: 0 SSID:  
+
+Count: 1015
+RSSI: -84 Ch: 8 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 34 EID: 0 SSID:  
+
+Count: 1016
+RSSI: -86 Ch: 10 Peer MAC: 10:f1:f2:52:43:6c SEQ: 145 EID: 0 SSID:  
+
+Count: 1017
+RSSI: -83 Ch: 12 Peer MAC: 78:88:6d:62:c0:6b SEQ: 188 EID: 0 SSID: e04c5a 
+
+Count: 1018
+RSSI: -83 Ch: 12 Peer MAC: 78:88:6d:62:c0:6b SEQ: 188 EID: 0 SSID: e04c5a 
+
+Count: 1019
+RSSI: -88 Ch: 10 Peer MAC: dc:53:60:0d:19:2a SEQ: 104 EID: 0 SSID: GVT-D4EC 
+
+Count: 1020
+RSSI: -35 Ch: 12 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 102 EID: 0 SSID: VIVO-3734 
+
+Count: 1021
+RSSI: -36 Ch: 12 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 102 EID: 0 SSID: VIVO-3734 
+
+Count: 1022
+RSSI: -64 Ch: 12 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 102 EID: 0 SSID: VIVO-3734 
+
+Count: 1023
+RSSI: -67 Ch: 12 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 102 EID: 0 SSID: VIVO-3734 
+
+Count: 1024
+RSSI: -35 Ch: 12 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 102 EID: 0 SSID: VIVO-3734 
+
+Count: 1025
+RSSI: -35 Ch: 12 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 103 EID: 0 SSID: VIVO-3734 
+
+Count: 1026
+RSSI: -65 Ch: 13 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 104 EID: 0 SSID: VIVO-3734 
+
+Count: 1027
+RSSI: -66 Ch: 13 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 104 EID: 0 SSID: VIVO-3734 
+
+Count: 1028
+RSSI: -66 Ch: 13 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 104 EID: 0 SSID: VIVO-3734 
+
+Count: 1029
+RSSI: -85 Ch: 7 Peer MAC: fc:64:3a:b4:c9:e8 SEQ: 44 EID: 0 SSID:  
+
+Count: 1030
+RSSI: -87 Ch: 7 Peer MAC: fc:64:3a:b4:c9:e8 SEQ: 44 EID: 0 SSID:  
+
+Count: 1031
+RSSI: -86 Ch: 7 Peer MAC: fc:64:3a:b4:c9:e8 SEQ: 44 EID: 0 SSID:  
+
+Count: 1032
+RSSI: -82 Ch: 7 Peer MAC: fc:64:3a:b4:c9:e8 SEQ: 44 EID: 0 SSID:  
+
+Count: 1033
+RSSI: -84 Ch: 7 Peer MAC: fc:64:3a:b4:c9:e8 SEQ: 44 EID: 0 SSID:  
+
+Count: 1034
+RSSI: -81 Ch: 9 Peer MAC: ec:88:92:45:82:e3 SEQ: 251 EID: 0 SSID:  
+
+Count: 1035
+RSSI: -81 Ch: 9 Peer MAC: ec:88:92:45:82:e3 SEQ: 251 EID: 0 SSID:  
+
+Count: 1036
+RSSI: -72 Ch: 9 Peer MAC: ec:88:92:45:82:e3 SEQ: 251 EID: 0 SSID:  
+
+Count: 1037
+RSSI: -72 Ch: 9 Peer MAC: ec:88:92:45:82:e3 SEQ: 251 EID: 0 SSID:  
+
+Count: 1038
+RSSI: -77 Ch: 9 Peer MAC: ec:88:92:45:82:e3 SEQ: 251 EID: 0 SSID:  
+
+Count: 1039
+RSSI: -74 Ch: 9 Peer MAC: ec:88:92:45:82:e3 SEQ: 251 EID: 0 SSID:  
+
+Count: 1040
+RSSI: -81 Ch: 9 Peer MAC: ec:88:92:45:82:e3 SEQ: 251 EID: 0 SSID:  
+
+Count: 1041
+RSSI: -81 Ch: 9 Peer MAC: ec:88:92:45:82:e3 SEQ: 251 EID: 0 SSID:  
+
+Count: 1042
+RSSI: -80 Ch: 11 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 131 EID: 0 SSID:  
+
+Count: 1043
+RSSI: -78 Ch: 11 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 131 EID: 0 SSID:  
+
+Count: 1044
+RSSI: -79 Ch: 11 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 131 EID: 0 SSID:  
+
+Count: 1045
+RSSI: -82 Ch: 11 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 132 EID: 0 SSID:  
+
+Count: 1046
+RSSI: -82 Ch: 11 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 132 EID: 0 SSID:  
+
+Count: 1047
+RSSI: -83 Ch: 10 Peer MAC: fc:64:3a:b4:c9:e8 SEQ: 46 EID: 0 SSID:  
+
+Count: 1048
+RSSI: -82 Ch: 10 Peer MAC: fc:64:3a:b4:c9:e8 SEQ: 46 EID: 0 SSID:  
+
+Count: 1049
+RSSI: -36 Ch: 10 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 105 EID: 0 SSID: VIVO-3734 
+
+Count: 1050
+RSSI: -34 Ch: 10 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 105 EID: 0 SSID: VIVO-3734 
+
+Count: 1051
+RSSI: -79 Ch: 11 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 106 EID: 0 SSID: VIVO-3734 
+
+Count: 1052
+RSSI: -43 Ch: 12 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 107 EID: 0 SSID: VIVO-3734 
+
+Count: 1053
+RSSI: -33 Ch: 12 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 108 EID: 0 SSID: VIVO-3734 
+
+Count: 1054
+RSSI: -32 Ch: 12 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 108 EID: 0 SSID: VIVO-3734 
+
+Count: 1055
+RSSI: -87 Ch: 4 Peer MAC: fc:64:3a:b4:c9:e8 SEQ: 47 EID: 0 SSID:  
+
+Count: 1056
+RSSI: -82 Ch: 4 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 43 EID: 0 SSID:  
+
+Count: 1057
+RSSI: -80 Ch: 4 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 43 EID: 0 SSID:  
+
+Count: 1058
+RSSI: -81 Ch: 4 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 43 EID: 0 SSID:  
+
+Count: 1059
+RSSI: -83 Ch: 4 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 43 EID: 0 SSID:  
+
+Count: 1060
+RSSI: -82 Ch: 6 Peer MAC: fc:64:3a:b4:c9:e8 SEQ: 49 EID: 0 SSID:  
+
+Count: 1061
+RSSI: -82 Ch: 6 Peer MAC: fc:64:3a:b4:c9:e8 SEQ: 49 EID: 0 SSID:  
+
+Count: 1062
+RSSI: -74 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 108 EID: 0 SSID: VIVO-3734 
+
+Count: 1063
+RSSI: -65 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 108 EID: 0 SSID: VIVO-3734 
+
+Count: 1064
+RSSI: -34 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 108 EID: 0 SSID: VIVO-3734 
+
+Count: 1065
+RSSI: -34 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 108 EID: 0 SSID: VIVO-3734 
+
+Count: 1066
+RSSI: -31 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 109 EID: 0 SSID: VIVO-3734 
+
+Count: 1067
+RSSI: -34 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 109 EID: 0 SSID: VIVO-3734 
+
+Count: 1068
+RSSI: -68 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 109 EID: 0 SSID: VIVO-3734 
+
+Count: 1069
+RSSI: -66 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 110 EID: 0 SSID: VIVO-3734 
+
+Count: 1070
+RSSI: -70 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 110 EID: 0 SSID: VIVO-3734 
+
+Count: 1071
+RSSI: -32 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 110 EID: 0 SSID: VIVO-3734 
+
+Count: 1072
+RSSI: -32 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 110 EID: 0 SSID: VIVO-3734 
+
+Count: 1073
+RSSI: -33 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 111 EID: 0 SSID: VIVO-3734 
+
+Count: 1074
+RSSI: -34 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 111 EID: 0 SSID: VIVO-3734 
+
+Count: 1075
+RSSI: -34 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 111 EID: 0 SSID: VIVO-3734 
+
+Count: 1076
+RSSI: -34 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 111 EID: 0 SSID: VIVO-3734 
+
+Count: 1077
+RSSI: -86 Ch: 8 Peer MAC: dc:35:f1:a6:59:5a SEQ: 2 EID: 0 SSID:  
+
+Count: 1078
+RSSI: -88 Ch: 3 Peer MAC: 5c:c9:d3:1f:a8:e8 SEQ: 161 EID: 0 SSID: GVT-4793 
+
+Count: 1079
+RSSI: -81 Ch: 9 Peer MAC: ec:88:92:45:82:e3 SEQ: 253 EID: 0 SSID:  
+
+Count: 1080
+RSSI: -81 Ch: 9 Peer MAC: ec:88:92:45:82:e3 SEQ: 253 EID: 0 SSID:  
+
+Count: 1081
+RSSI: -82 Ch: 9 Peer MAC: ec:88:92:45:82:e3 SEQ: 253 EID: 0 SSID:  
+
+Count: 1082
+RSSI: -74 Ch: 9 Peer MAC: ec:88:92:45:82:e3 SEQ: 253 EID: 0 SSID:  
+
+Count: 1083
+RSSI: -75 Ch: 9 Peer MAC: ec:88:92:45:82:e3 SEQ: 253 EID: 0 SSID:  
+
+Count: 1084
+RSSI: -78 Ch: 9 Peer MAC: ec:88:92:45:82:e3 SEQ: 253 EID: 0 SSID:  
+
+Count: 1085
+RSSI: -80 Ch: 9 Peer MAC: ec:88:92:45:82:e3 SEQ: 253 EID: 0 SSID:  
+
+Count: 1086
+RSSI: -83 Ch: 7 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 51 EID: 0 SSID:  
+
+Count: 1087
+RSSI: -84 Ch: 7 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 52 EID: 0 SSID:  
+
+Count: 1088
+RSSI: -81 Ch: 8 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 52 EID: 0 SSID:  
+
+Count: 1089
+RSSI: -83 Ch: 8 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 52 EID: 0 SSID:  
+
+Count: 1090
+RSSI: -40 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 112 EID: 0 SSID: VIVO-3734 
+
+Count: 1091
+RSSI: -86 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 112 EID: 0 SSID: VIVO-3734 
+
+Count: 1092
+RSSI: -44 Ch: 5 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 113 EID: 0 SSID: VIVO-3734 
+
+Count: 1093
+RSSI: -43 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 113 EID: 0 SSID: VIVO-3734 
+
+Count: 1094
+RSSI: -35 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 113 EID: 0 SSID: VIVO-3734 
+
+Count: 1095
+RSSI: -36 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 113 EID: 0 SSID: VIVO-3734 
+
+Count: 1096
+RSSI: -88 Ch: 6 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 141 EID: 0 SSID:  
+
+Count: 1097
+RSSI: -86 Ch: 6 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 141 EID: 0 SSID:  
+
+Count: 1098
+RSSI: -86 Ch: 6 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 141 EID: 0 SSID:  
+
+Count: 1099
+RSSI: -86 Ch: 6 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 141 EID: 0 SSID:  
+
+Count: 1100
+RSSI: -40 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 114 EID: 0 SSID: VIVO-3734 
+
+Count: 1101
+RSSI: -65 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 114 EID: 0 SSID: VIVO-3734 
+
+Count: 1102
+RSSI: -68 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 114 EID: 0 SSID: VIVO-3734 
+
+Count: 1103
+RSSI: -83 Ch: 11 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 55 EID: 0 SSID:  
+
+Count: 1104
+RSSI: -81 Ch: 11 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 55 EID: 0 SSID:  
+
+Count: 1105
+RSSI: -83 Ch: 11 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 55 EID: 0 SSID:  
+
+Count: 1106
+RSSI: -84 Ch: 11 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 55 EID: 0 SSID:  
+
+Count: 1107
+RSSI: -90 Ch: 4 Peer MAC: 48:49:c7:61:6f:2e SEQ: 17 EID: 0 SSID:  
+
+Count: 1108
+RSSI: -86 Ch: 4 Peer MAC: 48:49:c7:61:6f:2e SEQ: 17 EID: 0 SSID:  
+
+Count: 1109
+RSSI: -85 Ch: 4 Peer MAC: 48:49:c7:61:6f:2e SEQ: 17 EID: 0 SSID:  
+
+Count: 1110
+RSSI: -90 Ch: 7 Peer MAC: 98:39:8e:c6:49:19 SEQ: 1 EID: 0 SSID:  
+
+Count: 1111
+RSSI: -88 Ch: 9 Peer MAC: 98:39:8e:c6:49:19 SEQ: 5 EID: 0 SSID:  
+
+Count: 1112
+RSSI: -88 Ch: 9 Peer MAC: 98:39:8e:c6:49:19 SEQ: 5 EID: 0 SSID: TIM Wi-Fi SIM 
+
+Count: 1113
+RSSI: -82 Ch: 9 Peer MAC: 98:39:8e:c6:49:19 SEQ: 6 EID: 0 SSID: GVT-4793 
+
+Count: 1114
+RSSI: -88 Ch: 3 Peer MAC: 10:f1:f2:52:43:6c SEQ: 152 EID: 0 SSID:  
+
+Count: 1115
+RSSI: -85 Ch: 11 Peer MAC: 98:39:8e:c6:49:19 SEQ: 10 EID: 0 SSID:  
+
+Count: 1116
+RSSI: -80 Ch: 11 Peer MAC: 98:39:8e:c6:49:19 SEQ: 11 EID: 0 SSID:  
+
+Count: 1117
+RSSI: -82 Ch: 11 Peer MAC: 98:39:8e:c6:49:19 SEQ: 11 EID: 0 SSID: TIM Wi-Fi SIM 
+
+Count: 1118
+RSSI: -85 Ch: 11 Peer MAC: 98:39:8e:c6:49:19 SEQ: 11 EID: 0 SSID: TIM Wi-Fi SIM 
+
+Count: 1119
+RSSI: -37 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 115 EID: 0 SSID: VIVO-3734 
+
+Count: 1120
+RSSI: -36 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 115 EID: 0 SSID: VIVO-3734 
+
+Count: 1121
+RSSI: -69 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 115 EID: 0 SSID: VIVO-3734 
+
+Count: 1122
+RSSI: -64 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 115 EID: 0 SSID: VIVO-3734 
+
+Count: 1123
+RSSI: -64 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 115 EID: 0 SSID: VIVO-3734 
+
+Count: 1124
+RSSI: -79 Ch: 3 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 181 EID: 0 SSID:  
+
+Count: 1125
+RSSI: -37 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 116 EID: 0 SSID: VIVO-3734 
+
+Count: 1126
+RSSI: -34 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 116 EID: 0 SSID: VIVO-3734 
+
+Count: 1127
+RSSI: -36 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 116 EID: 0 SSID: VIVO-3734 
+
+Count: 1128
+RSSI: -36 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 116 EID: 0 SSID: VIVO-3734 
+
+Count: 1129
+RSSI: -63 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 117 EID: 0 SSID: VIVO-3734 
+
+Count: 1130
+RSSI: -65 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 117 EID: 0 SSID: VIVO-3734 
+
+Count: 1131
+RSSI: -65 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 117 EID: 0 SSID: VIVO-3734 
+
+Count: 1132
+RSSI: -87 Ch: 7 Peer MAC: 04:1b:6d:ee:e3:71 SEQ: 238 EID: 0 SSID:  
+
+Count: 1133
+RSSI: -88 Ch: 6 Peer MAC: a8:16:d0:76:96:8f SEQ: 72 EID: 0 SSID:  
+
+Count: 1134
+RSSI: -80 Ch: 9 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 144 EID: 0 SSID:  
+
+Count: 1135
+RSSI: -81 Ch: 9 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 145 EID: 0 SSID:  
+
+Count: 1136
+RSSI: -81 Ch: 9 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 145 EID: 0 SSID:  
+
+Count: 1137
+RSSI: -78 Ch: 10 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 145 EID: 0 SSID:  
+
+Count: 1138
+RSSI: -80 Ch: 10 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 145 EID: 0 SSID:  
+
+Count: 1139
+RSSI: -81 Ch: 10 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 145 EID: 0 SSID:  
+
+Count: 1140
+RSSI: -80 Ch: 10 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 145 EID: 0 SSID:  
+
+Count: 1141
+RSSI: -79 Ch: 10 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 145 EID: 0 SSID:  
+
+Count: 1142
+RSSI: -82 Ch: 10 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 145 EID: 0 SSID:  
+
+Count: 1143
+RSSI: -82 Ch: 10 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 145 EID: 0 SSID:  
+
+Count: 1144
+RSSI: -83 Ch: 10 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 145 EID: 0 SSID:  
+
+Count: 1145
+RSSI: -34 Ch: 12 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 118 EID: 0 SSID: VIVO-3734 
+
+Count: 1146
+RSSI: -36 Ch: 12 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 118 EID: 0 SSID: VIVO-3734 
+
+Count: 1147
+RSSI: -33 Ch: 13 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 119 EID: 0 SSID: VIVO-3734 
+
+Count: 1148
+RSSI: -39 Ch: 1 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 119 EID: 0 SSID: VIVO-3734 
+
+Count: 1149
+RSSI: -38 Ch: 1 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 119 EID: 0 SSID: VIVO-3734 
+
+Count: 1150
+RSSI: -80 Ch: 2 Peer MAC: ec:88:92:45:82:e3 SEQ: 254 EID: 0 SSID:  
+
+Count: 1151
+RSSI: -77 Ch: 2 Peer MAC: ec:88:92:45:82:e3 SEQ: 254 EID: 0 SSID:  
+
+Count: 1152
+RSSI: -79 Ch: 2 Peer MAC: ec:88:92:45:82:e3 SEQ: 254 EID: 0 SSID:  
+
+Count: 1153
+RSSI: -79 Ch: 2 Peer MAC: ec:88:92:45:82:e3 SEQ: 254 EID: 0 SSID:  
+
+Count: 1154
+RSSI: -82 Ch: 2 Peer MAC: ec:88:92:45:82:e3 SEQ: 254 EID: 0 SSID:  
+
+Count: 1155
+RSSI: -82 Ch: 2 Peer MAC: ec:88:92:45:82:e3 SEQ: 254 EID: 0 SSID:  
+
+Count: 1156
+RSSI: -82 Ch: 2 Peer MAC: ec:88:92:45:82:e3 SEQ: 254 EID: 0 SSID:  
+
+Count: 1157
+RSSI: -86 Ch: 11 Peer MAC: 10:f1:f2:52:43:6c SEQ: 157 EID: 0 SSID:  
+
+Count: 1158
+RSSI: -82 Ch: 11 Peer MAC: 10:f1:f2:52:43:6c SEQ: 158 EID: 0 SSID:  
+
+Count: 1159
+RSSI: -88 Ch: 11 Peer MAC: 10:f1:f2:52:43:6c SEQ: 158 EID: 0 SSID:  
+
+Count: 1160
+RSSI: -67 Ch: 11 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 121 EID: 0 SSID: VIVO-3734 
+
+Count: 1161
+RSSI: -31 Ch: 11 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 122 EID: 0 SSID: VIVO-3734 
+
+Count: 1162
+RSSI: -32 Ch: 11 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 122 EID: 0 SSID: VIVO-3734 
+
+Count: 1163
+RSSI: -58 Ch: 11 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 122 EID: 0 SSID: VIVO-3734 
+
+Count: 1164
+RSSI: -63 Ch: 11 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 122 EID: 0 SSID: VIVO-3734 
+
+Count: 1165
+RSSI: -85 Ch: 11 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 122 EID: 0 SSID: VIVO-3734 
+
+Count: 1166
+RSSI: -33 Ch: 12 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 122 EID: 0 SSID: VIVO-3734 
+
+Count: 1167
+RSSI: -66 Ch: 13 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 123 EID: 0 SSID: VIVO-3734 
+
+Count: 1168
+RSSI: -66 Ch: 13 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 123 EID: 0 SSID: VIVO-3734 
+
+Count: 1169
+RSSI: -62 Ch: 13 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 124 EID: 0 SSID: VIVO-3734 
+
+Count: 1170
+RSSI: -65 Ch: 13 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 124 EID: 0 SSID: VIVO-3734 
+
+Count: 1171
+RSSI: -35 Ch: 13 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 124 EID: 0 SSID: VIVO-3734 
+
+Count: 1172
+RSSI: -35 Ch: 13 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 124 EID: 0 SSID: VIVO-3734 
+
+Count: 1173
+RSSI: -85 Ch: 6 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 66 EID: 0 SSID:  
+
+Count: 1174
+RSSI: -82 Ch: 8 Peer MAC: 50:92:b9:a4:21:0a SEQ: 109 EID: 0 SSID:  
+
+Count: 1175
+RSSI: -77 Ch: 8 Peer MAC: 50:92:b9:a4:21:0a SEQ: 109 EID: 0 SSID:  
+
+Count: 1176
+RSSI: -40 Ch: 9 Peer MAC: 50:92:b9:a4:21:0a SEQ: 110 EID: 0 SSID:  
+
+Count: 1177
+RSSI: -39 Ch: 9 Peer MAC: 50:92:b9:a4:21:0a SEQ: 110 EID: 0 SSID:  
+
+Count: 1178
+RSSI: -41 Ch: 9 Peer MAC: 50:92:b9:a4:21:0a SEQ: 110 EID: 0 SSID:  
+
+Count: 1179
+RSSI: -41 Ch: 9 Peer MAC: 50:92:b9:a4:21:0a SEQ: 110 EID: 0 SSID:  
+
+Count: 1180
+RSSI: -40 Ch: 9 Peer MAC: 50:92:b9:a4:21:0a SEQ: 110 EID: 0 SSID:  
+
+Count: 1181
+RSSI: -52 Ch: 9 Peer MAC: 50:92:b9:a4:21:0a SEQ: 110 EID: 0 SSID:  
+
+Count: 1182
+RSSI: -71 Ch: 9 Peer MAC: 50:92:b9:a4:21:0a SEQ: 111 EID: 0 SSID:  
+
+Count: 1183
+RSSI: -75 Ch: 9 Peer MAC: 50:92:b9:a4:21:0a SEQ: 111 EID: 0 SSID:  
+
+Count: 1184
+RSSI: -82 Ch: 9 Peer MAC: 50:92:b9:a4:21:0a SEQ: 111 EID: 0 SSID:  
+
+Count: 1185
+RSSI: -86 Ch: 11 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 97 EID: 0 SSID:  
+
+Count: 1186
+RSSI: -83 Ch: 11 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 97 EID: 0 SSID:  
+
+Count: 1187
+RSSI: -88 Ch: 11 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 97 EID: 0 SSID:  
+
+Count: 1188
+RSSI: -86 Ch: 13 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 99 EID: 0 SSID:  
+
+Count: 1189
+RSSI: -88 Ch: 10 Peer MAC: a8:16:d0:76:96:8f SEQ: 83 EID: 0 SSID:  
+
+Count: 1190
+RSSI: -87 Ch: 10 Peer MAC: a8:16:d0:76:96:8f SEQ: 84 EID: 0 SSID:  
+
+Count: 1191
+RSSI: -88 Ch: 2 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 146 EID: 0 SSID:  
+
+Count: 1192
+RSSI: -44 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 125 EID: 0 SSID: VIVO-3734 
+
+Count: 1193
+RSSI: -83 Ch: 9 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 101 EID: 0 SSID:  
+
+Count: 1194
+RSSI: -68 Ch: 10 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 126 EID: 0 SSID: VIVO-3734 
+
+Count: 1195
+RSSI: -65 Ch: 10 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 126 EID: 0 SSID: VIVO-3734 
+
+Count: 1196
+RSSI: -66 Ch: 10 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 126 EID: 0 SSID: VIVO-3734 
+
+Count: 1197
+RSSI: -34 Ch: 10 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 127 EID: 0 SSID: VIVO-3734 
+
+Count: 1198
+RSSI: -34 Ch: 10 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 127 EID: 0 SSID: VIVO-3734 
+
+Count: 1199
+RSSI: -85 Ch: 10 Peer MAC: fc:64:3a:b4:c9:e8 SEQ: 54 EID: 0 SSID:  
+
+Count: 1200
+RSSI: -86 Ch: 10 Peer MAC: fc:64:3a:b4:c9:e8 SEQ: 54 EID: 0 SSID:  
+
+Count: 1201
+RSSI: -35 Ch: 11 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 127 EID: 0 SSID: VIVO-3734 
+
+Count: 1202
+RSSI: -35 Ch: 11 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 127 EID: 0 SSID: VIVO-3734 
+
+Count: 1203
+RSSI: -33 Ch: 11 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 127 EID: 0 SSID: VIVO-3734 
+
+Count: 1204
+RSSI: -34 Ch: 11 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 127 EID: 0 SSID: VIVO-3734 
+
+Count: 1205
+RSSI: -92 Ch: 2 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 102 EID: 0 SSID:  
+
+Count: 1206
+RSSI: -84 Ch: 3 Peer MAC: 70:fd:46:34:bf:c4 SEQ: 214 EID: 0 SSID:  
+
+Count: 1207
+RSSI: -86 Ch: 3 Peer MAC: 70:fd:46:34:bf:c4 SEQ: 214 EID: 0 SSID:  
+
+Count: 1208
+RSSI: -89 Ch: 4 Peer MAC: 70:fd:46:34:bf:c4 SEQ: 214 EID: 0 SSID:  
+
+Count: 1209
+RSSI: -83 Ch: 10 Peer MAC: 04:1b:6d:ee:e3:71 SEQ: 250 EID: 0 SSID:  
+
+Count: 1210
+RSSI: -85 Ch: 11 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 103 EID: 0 SSID:  
+
+Count: 1211
+RSSI: -83 Ch: 11 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 103 EID: 0 SSID:  
+
+Count: 1212
+RSSI: -81 Ch: 1 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 147 EID: 0 SSID:  
+
+Count: 1213
+RSSI: -80 Ch: 1 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 147 EID: 0 SSID:  
+
+Count: 1214
+RSSI: -82 Ch: 1 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 147 EID: 0 SSID:  
+
+Count: 1215
+RSSI: -82 Ch: 1 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 147 EID: 0 SSID:  
+
+Count: 1216
+RSSI: -85 Ch: 4 Peer MAC: fc:64:3a:b4:c9:e8 SEQ: 55 EID: 0 SSID:  
+
+Count: 1217
+RSSI: -82 Ch: 4 Peer MAC: fc:64:3a:b4:c9:e8 SEQ: 55 EID: 0 SSID:  
+
+Count: 1218
+RSSI: -84 Ch: 4 Peer MAC: fc:64:3a:b4:c9:e8 SEQ: 55 EID: 0 SSID:  
+
+Count: 1219
+RSSI: -83 Ch: 4 Peer MAC: fc:64:3a:b4:c9:e8 SEQ: 55 EID: 0 SSID:  
+
+Count: 1220
+RSSI: -90 Ch: 2 Peer MAC: cc:61:e5:6b:33:13 SEQ: 230 EID: 0 SSID:  
+
+Count: 1221
+RSSI: -89 Ch: 2 Peer MAC: cc:61:e5:6b:33:13 SEQ: 230 EID: 0 SSID:  
+
+Count: 1222
+RSSI: -81 Ch: 9 Peer MAC: 3c:bb:fd:90:e1:4e SEQ: 45 EID: 0 SSID:  
+
+Count: 1223
+RSSI: -74 Ch: 9 Peer MAC: 3c:bb:fd:90:e1:4e SEQ: 45 EID: 0 SSID:  
+
+Count: 1224
+RSSI: -77 Ch: 9 Peer MAC: 3c:bb:fd:90:e1:4e SEQ: 45 EID: 0 SSID:  
+
+Count: 1225
+RSSI: -74 Ch: 9 Peer MAC: 3c:bb:fd:90:e1:4e SEQ: 45 EID: 0 SSID:  
+
+Count: 1226
+RSSI: -76 Ch: 9 Peer MAC: 3c:bb:fd:90:e1:4e SEQ: 45 EID: 0 SSID:  
+
+Count: 1227
+RSSI: -76 Ch: 9 Peer MAC: 3c:bb:fd:90:e1:4e SEQ: 45 EID: 0 SSID:  
+
+Count: 1228
+RSSI: -82 Ch: 9 Peer MAC: 3c:bb:fd:90:e1:4e SEQ: 45 EID: 0 SSID:  
+
+Count: 1229
+RSSI: -76 Ch: 9 Peer MAC: 3c:bb:fd:90:e1:4e SEQ: 45 EID: 0 SSID:  
+
+Count: 1230
+RSSI: -87 Ch: 13 Peer MAC: fc:64:3a:b4:c9:e8 SEQ: 58 EID: 0 SSID:  
+
+Count: 1231
+RSSI: -84 Ch: 9 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 108 EID: 0 SSID:  
+
+Count: 1232
+RSSI: -88 Ch: 11 Peer MAC: a8:16:d0:76:96:8f SEQ: 89 EID: 0 SSID:  
+
+Count: 1233
+RSSI: -87 Ch: 11 Peer MAC: a8:16:d0:76:96:8f SEQ: 89 EID: 0 SSID:  
+
+Count: 1234
+RSSI: -83 Ch: 13 Peer MAC: 00:57:c1:ea:91:06 SEQ: 35 EID: 0 SSID:  
+
+Count: 1235
+RSSI: -83 Ch: 13 Peer MAC: 00:57:c1:ea:91:06 SEQ: 35 EID: 0 SSID:  
+
+Count: 1236
+RSSI: -87 Ch: 13 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 74 EID: 0 SSID:  
+
+Count: 1237
+RSSI: -91 Ch: 1 Peer MAC: 78:88:6d:62:c0:6b SEQ: 221 EID: 0 SSID: e04c5a 
+
+Count: 1238
+RSSI: -65 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 128 EID: 0 SSID: VIVO-3734 
+
+Count: 1239
+RSSI: -72 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 128 EID: 0 SSID: VIVO-3734 
+
+Count: 1240
+RSSI: -33 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 128 EID: 0 SSID: VIVO-3734 
+
+Count: 1241
+RSSI: -33 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 128 EID: 0 SSID: VIVO-3734 
+
+Count: 1242
+RSSI: -31 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 128 EID: 0 SSID: VIVO-3734 
+
+Count: 1243
+RSSI: -31 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 128 EID: 0 SSID: VIVO-3734 
+
+Count: 1244
+RSSI: -68 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 129 EID: 0 SSID: VIVO-3734 
+
+Count: 1245
+RSSI: -69 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 129 EID: 0 SSID: VIVO-3734 
+
+Count: 1246
+RSSI: -69 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 129 EID: 0 SSID: VIVO-3734 
+
+Count: 1247
+RSSI: -31 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 130 EID: 0 SSID: VIVO-3734 
+
+Count: 1248
+RSSI: -32 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 130 EID: 0 SSID: VIVO-3734 
+
+Count: 1249
+RSSI: -33 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 130 EID: 0 SSID: VIVO-3734 
+
+Count: 1250
+RSSI: -33 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 130 EID: 0 SSID: VIVO-3734 
+
+Count: 1251
+RSSI: -83 Ch: 12 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 109 EID: 0 SSID:  
+
+Count: 1252
+RSSI: -91 Ch: 6 Peer MAC: 78:88:6d:62:c0:6b SEQ: 234 EID: 0 SSID: e04c5a 
+
+Count: 1253
+RSSI: -86 Ch: 10 Peer MAC: fc:64:3a:b4:c9:e8 SEQ: 59 EID: 0 SSID:  
+
+Count: 1254
+RSSI: -92 Ch: 1 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 112 EID: 0 SSID:  
+
+Count: 1255
+RSSI: -86 Ch: 10 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 114 EID: 0 SSID:  
+
+Count: 1256
+RSSI: -82 Ch: 3 Peer MAC: fc:64:3a:b4:c9:e8 SEQ: 60 EID: 0 SSID:  
+
+Count: 1257
+RSSI: -82 Ch: 12 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 116 EID: 0 SSID:  
+
+Count: 1258
+RSSI: -41 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 131 EID: 0 SSID: VIVO-3734 
+
+Count: 1259
+RSSI: -73 Ch: 5 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 131 EID: 0 SSID: VIVO-3734 
+
+Count: 1260
+RSSI: -41 Ch: 5 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 132 EID: 0 SSID: VIVO-3734 
+
+Count: 1261
+RSSI: -40 Ch: 5 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 132 EID: 0 SSID: VIVO-3734 
+
+Count: 1262
+RSSI: -61 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 132 EID: 0 SSID: VIVO-3734 
+
+Count: 1263
+RSSI: -33 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 133 EID: 0 SSID: VIVO-3734 
+
+Count: 1264
+RSSI: -34 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 133 EID: 0 SSID: VIVO-3734 
+
+Count: 1265
+RSSI: -39 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 133 EID: 0 SSID: VIVO-3734 
+
+Count: 1266
+RSSI: -40 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 133 EID: 0 SSID: VIVO-3734 
+
+Count: 1267
+RSSI: -71 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 134 EID: 0 SSID: VIVO-3734 
+
+Count: 1268
+RSSI: -78 Ch: 5 Peer MAC: fc:64:3a:b4:c9:e8 SEQ: 62 EID: 0 SSID:  
+
+Count: 1269
+RSSI: -80 Ch: 5 Peer MAC: fc:64:3a:b4:c9:e8 SEQ: 62 EID: 0 SSID:  
+
+Count: 1270
+RSSI: -83 Ch: 9 Peer MAC: 04:1b:6d:ee:e3:71 SEQ: 1 EID: 0 SSID:  
+
+Count: 1271
+RSSI: -88 Ch: 2 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 118 EID: 0 SSID:  
+
+Count: 1272
+RSSI: -87 Ch: 6 Peer MAC: d0:77:14:69:09:9b SEQ: 106 EID: 0 SSID:  
+
+Count: 1273
+RSSI: -87 Ch: 6 Peer MAC: d0:77:14:69:09:9b SEQ: 106 EID: 0 SSID:  
+
+Count: 1274
+RSSI: -84 Ch: 10 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 120 EID: 0 SSID:  
+
+Count: 1275
+RSSI: -87 Ch: 11 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 120 EID: 0 SSID:  
+
+Count: 1276
+RSSI: -82 Ch: 8 Peer MAC: 98:39:8e:c6:49:19 SEQ: 28 EID: 0 SSID:  
+
+Count: 1277
+RSSI: -82 Ch: 9 Peer MAC: 98:39:8e:c6:49:19 SEQ: 28 EID: 0 SSID:  
+
+Count: 1278
+RSSI: -35 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 134 EID: 0 SSID: VIVO-3734 
+
+Count: 1279
+RSSI: -35 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 134 EID: 0 SSID: VIVO-3734 
+
+Count: 1280
+RSSI: -62 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 134 EID: 0 SSID: VIVO-3734 
+
+Count: 1281
+RSSI: -78 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 135 EID: 0 SSID: VIVO-3734 
+
+Count: 1282
+RSSI: -64 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 135 EID: 0 SSID: VIVO-3734 
+
+Count: 1283
+RSSI: -36 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 135 EID: 0 SSID: VIVO-3734 
+
+Count: 1284
+RSSI: -34 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 136 EID: 0 SSID: VIVO-3734 
+
+Count: 1285
+RSSI: -33 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 136 EID: 0 SSID: VIVO-3734 
+
+Count: 1286
+RSSI: -34 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 136 EID: 0 SSID: VIVO-3734 
+
+Count: 1287
+RSSI: -35 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 136 EID: 0 SSID: VIVO-3734 
+
+Count: 1288
+RSSI: -34 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 136 EID: 0 SSID: VIVO-3734 
+
+Count: 1289
+RSSI: -35 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 136 EID: 0 SSID: VIVO-3734 
+
+Count: 1290
+RSSI: -61 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 136 EID: 0 SSID: VIVO-3734 
+
+Count: 1291
+RSSI: -63 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 137 EID: 0 SSID: VIVO-3734 
+
+Count: 1292
+RSSI: -80 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 137 EID: 0 SSID: VIVO-3734 
+
+Count: 1293
+RSSI: -85 Ch: 9 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 124 EID: 0 SSID:  
+
+Count: 1294
+RSSI: -90 Ch: 6 Peer MAC: cc:61:e5:6b:33:13 SEQ: 9 EID: 0 SSID:  
+
+Count: 1295
+RSSI: -84 Ch: 11 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 126 EID: 0 SSID:  
+
+Count: 1296
+RSSI: -83 Ch: 11 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 126 EID: 0 SSID:  
+
+Count: 1297
+RSSI: -85 Ch: 11 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 126 EID: 0 SSID:  
+
+Count: 1298
+RSSI: -84 Ch: 7 Peer MAC: dc:53:60:0d:19:2a SEQ: 108 EID: 0 SSID: GVT-D4EC 
+
+Count: 1299
+RSSI: -84 Ch: 7 Peer MAC: dc:53:60:0d:19:2a SEQ: 108 EID: 0 SSID:  
+
+Count: 1300
+RSSI: -87 Ch: 13 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 128 EID: 0 SSID:  
+
+Count: 1301
+RSSI: -88 Ch: 1 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 149 EID: 0 SSID:  
+
+Count: 1302
+RSSI: -88 Ch: 1 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 149 EID: 0 SSID:  
+
+Count: 1303
+RSSI: -88 Ch: 3 Peer MAC: a8:16:d0:76:96:8f SEQ: 91 EID: 0 SSID:  
+
+Count: 1304
+RSSI: -87 Ch: 3 Peer MAC: a8:16:d0:76:96:8f SEQ: 91 EID: 0 SSID:  
+
+Count: 1305
+RSSI: -83 Ch: 8 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 83 EID: 0 SSID:  
+
+Count: 1306
+RSSI: -84 Ch: 9 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 83 EID: 0 SSID:  
+
+Count: 1307
+RSSI: -85 Ch: 13 Peer MAC: ec:88:92:45:82:e3 SEQ: 2 EID: 0 SSID:  
+
+Count: 1308
+RSSI: -83 Ch: 13 Peer MAC: ec:88:92:45:82:e3 SEQ: 2 EID: 0 SSID:  
+
+Count: 1309
+RSSI: -83 Ch: 5 Peer MAC: 98:39:8e:c6:49:19 SEQ: 37 EID: 0 SSID:  
+
+Count: 1310
+RSSI: -79 Ch: 5 Peer MAC: 98:39:8e:c6:49:19 SEQ: 38 EID: 0 SSID:  
+
+Count: 1311
+RSSI: -86 Ch: 9 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 130 EID: 0 SSID:  
+
+Count: 1312
+RSSI: -80 Ch: 11 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 86 EID: 0 SSID:  
+
+Count: 1313
+RSSI: -82 Ch: 11 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 86 EID: 0 SSID:  
+
+Count: 1314
+RSSI: -77 Ch: 11 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 86 EID: 0 SSID:  
+
+Count: 1315
+RSSI: -79 Ch: 11 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 87 EID: 0 SSID:  
+
+Count: 1316
+RSSI: -80 Ch: 11 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 87 EID: 0 SSID:  
+
+Count: 1317
+RSSI: -82 Ch: 11 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 87 EID: 0 SSID:  
+
+Count: 1318
+RSSI: -33 Ch: 12 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 138 EID: 0 SSID: VIVO-3734 
+
+Count: 1319
+RSSI: -35 Ch: 12 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 138 EID: 0 SSID: VIVO-3734 
+
+Count: 1320
+RSSI: -33 Ch: 13 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 138 EID: 0 SSID: VIVO-3734 
+
+Count: 1321
+RSSI: -32 Ch: 13 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 138 EID: 0 SSID: VIVO-3734 
+
+Count: 1322
+RSSI: -82 Ch: 4 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 160 EID: 0 SSID:  
+
+Count: 1323
+RSSI: -82 Ch: 4 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 161 EID: 0 SSID:  
+
+Count: 1324
+RSSI: -78 Ch: 4 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 161 EID: 0 SSID:  
+
+Count: 1325
+RSSI: -82 Ch: 4 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 161 EID: 0 SSID:  
+
+Count: 1326
+RSSI: -85 Ch: 11 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 132 EID: 0 SSID:  
+
+Count: 1327
+RSSI: -88 Ch: 1 Peer MAC: 04:1b:6d:ee:e3:71 SEQ: 7 EID: 0 SSID:  
+
+Count: 1328
+RSSI: -89 Ch: 1 Peer MAC: 04:1b:6d:ee:e3:71 SEQ: 7 EID: 0 SSID:  
+
+Count: 1329
+RSSI: -91 Ch: 1 Peer MAC: 5c:c9:d3:1f:a8:e8 SEQ: 179 EID: 0 SSID: GVT-4793 
+
+Count: 1330
+RSSI: -89 Ch: 1 Peer MAC: 5c:c9:d3:1f:a8:e8 SEQ: 179 EID: 0 SSID: GVT-4793 
+
+Count: 1331
+RSSI: -87 Ch: 2 Peer MAC: 5c:c9:d3:1f:a8:e8 SEQ: 180 EID: 0 SSID: GVT-4793 
+
+Count: 1332
+RSSI: -87 Ch: 2 Peer MAC: 5c:c9:d3:1f:a8:e8 SEQ: 180 EID: 0 SSID: GVT-4793 
+
+Count: 1333
+RSSI: -82 Ch: 4 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 165 EID: 0 SSID:  
+
+Count: 1334
+RSSI: -86 Ch: 4 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 165 EID: 0 SSID:  
+
+Count: 1335
+RSSI: -82 Ch: 4 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 165 EID: 0 SSID:  
+
+Count: 1336
+RSSI: -83 Ch: 13 Peer MAC: 88:e8:7f:90:8c:9b SEQ: 111 EID: 0 SSID: ELSON MACEDO 2G 
+
+Count: 1337
+RSSI: -86 Ch: 13 Peer MAC: 88:e8:7f:90:8c:9b SEQ: 111 EID: 0 SSID: ELSON MACEDO 2G 
+
+Count: 1338
+RSSI: -94 Ch: 1 Peer MAC: 38:9a:f6:1a:3f:33 SEQ: 107 EID: 0 SSID:  
+
+Count: 1339
+RSSI: -79 Ch: 5 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 167 EID: 0 SSID:  
+
+Count: 1340
+RSSI: -80 Ch: 5 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 167 EID: 0 SSID:  
+
+Count: 1341
+RSSI: -83 Ch: 5 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 167 EID: 0 SSID:  
+
+Count: 1342
+RSSI: -84 Ch: 9 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 136 EID: 0 SSID:  
+
+Count: 1343
+RSSI: -82 Ch: 10 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 136 EID: 0 SSID:  
+
+Count: 1344
+RSSI: -84 Ch: 10 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 137 EID: 0 SSID:  
+
+Count: 1345
+RSSI: -90 Ch: 1 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 171 EID: 0 SSID:  
+
+Count: 1346
+RSSI: -89 Ch: 1 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 171 EID: 0 SSID:  
+
+Count: 1347
+RSSI: -43 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 141 EID: 0 SSID: VIVO-3734 
+
+Count: 1348
+RSSI: -81 Ch: 10 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 175 EID: 0 SSID:  
+
+Count: 1349
+RSSI: -82 Ch: 10 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 175 EID: 0 SSID:  
+
+Count: 1350
+RSSI: -76 Ch: 10 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 142 EID: 0 SSID: VIVO-3734 
+
+Count: 1351
+RSSI: -73 Ch: 11 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 142 EID: 0 SSID: VIVO-3734 
+
+Count: 1352
+RSSI: -62 Ch: 11 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 143 EID: 0 SSID: VIVO-3734 
+
+Count: 1353
+RSSI: -43 Ch: 11 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 143 EID: 0 SSID: VIVO-3734 
+
+Count: 1354
+RSSI: -34 Ch: 11 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 143 EID: 0 SSID: VIVO-3734 
+
+Count: 1355
+RSSI: -33 Ch: 12 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 144 EID: 0 SSID: VIVO-3734 
+
+Count: 1356
+RSSI: -33 Ch: 12 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 144 EID: 0 SSID: VIVO-3734 
+
+Count: 1357
+RSSI: -82 Ch: 12 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 138 EID: 0 SSID:  
+
+Count: 1358
+RSSI: -89 Ch: 5 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 139 EID: 0 SSID:  
+
+Count: 1359
+RSSI: -87 Ch: 6 Peer MAC: 98:39:8e:c6:49:19 SEQ: 45 EID: 0 SSID:  
+
+Count: 1360
+RSSI: -86 Ch: 6 Peer MAC: 98:39:8e:c6:49:19 SEQ: 45 EID: 0 SSID:  
+
+Count: 1361
+RSSI: -86 Ch: 6 Peer MAC: 98:39:8e:c6:49:19 SEQ: 45 EID: 0 SSID:  
+
+Count: 1362
+RSSI: -86 Ch: 6 Peer MAC: 98:39:8e:c6:49:19 SEQ: 45 EID: 0 SSID:  
+
+Count: 1363
+RSSI: -81 Ch: 9 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 177 EID: 0 SSID:  
+
+Count: 1364
+RSSI: -83 Ch: 10 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 177 EID: 0 SSID:  
+
+Count: 1365
+RSSI: -85 Ch: 11 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 179 EID: 0 SSID:  
+
+Count: 1366
+RSSI: -82 Ch: 12 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 179 EID: 0 SSID:  
+
+Count: 1367
+RSSI: -80 Ch: 12 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 179 EID: 0 SSID:  
+
+Count: 1368
+RSSI: -76 Ch: 12 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 93 EID: 0 SSID:  
+
+Count: 1369
+RSSI: -80 Ch: 12 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 93 EID: 0 SSID:  
+
+Count: 1370
+RSSI: -79 Ch: 12 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 93 EID: 0 SSID:  
+
+Count: 1371
+RSSI: -81 Ch: 12 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 93 EID: 0 SSID:  
+
+Count: 1372
+RSSI: -82 Ch: 10 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 143 EID: 0 SSID:  
+
+Count: 1373
+RSSI: -84 Ch: 10 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 143 EID: 0 SSID:  
+
+Count: 1374
+RSSI: -79 Ch: 12 Peer MAC: ec:88:92:45:82:e3 SEQ: 4 EID: 0 SSID:  
+
+Count: 1375
+RSSI: -79 Ch: 12 Peer MAC: ec:88:92:45:82:e3 SEQ: 4 EID: 0 SSID:  
+
+Count: 1376
+RSSI: -79 Ch: 12 Peer MAC: ec:88:92:45:82:e3 SEQ: 4 EID: 0 SSID:  
+
+Count: 1377
+RSSI: -79 Ch: 12 Peer MAC: ec:88:92:45:82:e3 SEQ: 4 EID: 0 SSID:  
+
+Count: 1378
+RSSI: -77 Ch: 12 Peer MAC: ec:88:92:45:82:e3 SEQ: 4 EID: 0 SSID:  
+
+Count: 1379
+RSSI: -71 Ch: 12 Peer MAC: ec:88:92:45:82:e3 SEQ: 4 EID: 0 SSID:  
+
+Count: 1380
+RSSI: -78 Ch: 12 Peer MAC: ec:88:92:45:82:e3 SEQ: 4 EID: 0 SSID:  
+
+Count: 1381
+RSSI: -82 Ch: 12 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 144 EID: 0 SSID:  
+
+Count: 1382
+RSSI: -86 Ch: 13 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 145 EID: 0 SSID:  
+
+Count: 1383
+RSSI: -36 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 144 EID: 0 SSID: VIVO-3734 
+
+Count: 1384
+RSSI: -36 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 144 EID: 0 SSID: VIVO-3734 
+
+Count: 1385
+RSSI: -87 Ch: 7 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 96 EID: 0 SSID:  
+
+Count: 1386
+RSSI: -89 Ch: 7 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 96 EID: 0 SSID:  
+
+Count: 1387
+RSSI: -32 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 145 EID: 0 SSID: VIVO-3734 
+
+Count: 1388
+RSSI: -82 Ch: 7 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 96 EID: 0 SSID:  
+
+Count: 1389
+RSSI: -85 Ch: 7 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 96 EID: 0 SSID:  
+
+Count: 1390
+RSSI: -71 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 145 EID: 0 SSID: VIVO-3734 
+
+Count: 1391
+RSSI: -66 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 145 EID: 0 SSID: VIVO-3734 
+
+Count: 1392
+RSSI: -66 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 145 EID: 0 SSID: VIVO-3734 
+
+Count: 1393
+RSSI: -67 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 145 EID: 0 SSID: VIVO-3734 
+
+Count: 1394
+RSSI: -61 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 146 EID: 0 SSID: VIVO-3734 
+
+Count: 1395
+RSSI: -34 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 146 EID: 0 SSID: VIVO-3734 
+
+Count: 1396
+RSSI: -34 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 146 EID: 0 SSID: VIVO-3734 
+
+Count: 1397
+RSSI: -35 Ch: 10 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 146 EID: 0 SSID: VIVO-3734 
+
+Count: 1398
+RSSI: -34 Ch: 10 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 146 EID: 0 SSID: VIVO-3734 
+
+Count: 1399
+RSSI: -32 Ch: 10 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 147 EID: 0 SSID: VIVO-3734 
+
+Count: 1400
+RSSI: -33 Ch: 10 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 147 EID: 0 SSID: VIVO-3734 
+
+Count: 1401
+RSSI: -88 Ch: 7 Peer MAC: 04:1b:6d:ee:e3:71 SEQ: 16 EID: 0 SSID:  
+
+Count: 1402
+RSSI: -78 Ch: 10 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 184 EID: 0 SSID: GVT-D4EC 
+
+Count: 1403
+RSSI: -77 Ch: 10 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 184 EID: 0 SSID:  
+
+Count: 1404
+RSSI: -76 Ch: 10 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 184 EID: 0 SSID: GVT-D4EC 
+
+Count: 1405
+RSSI: -77 Ch: 10 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 184 EID: 0 SSID:  
+
+Count: 1406
+RSSI: -77 Ch: 11 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 184 EID: 0 SSID: GVT-D4EC 
+
+Count: 1407
+RSSI: -74 Ch: 11 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 184 EID: 0 SSID:  
+
+Count: 1408
+RSSI: -80 Ch: 11 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 184 EID: 0 SSID: GVT-D4EC 
+
+Count: 1409
+RSSI: -81 Ch: 11 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 184 EID: 0 SSID:  
+
+Count: 1410
+RSSI: -90 Ch: 1 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 147 EID: 0 SSID:  
+
+Count: 1411
+RSSI: -82 Ch: 10 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 149 EID: 0 SSID:  
+
+Count: 1412
+RSSI: -85 Ch: 11 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 187 EID: 0 SSID:  
+
+Count: 1413
+RSSI: -80 Ch: 11 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 188 EID: 0 SSID: GVT-D4EC 
+
+Count: 1414
+RSSI: -80 Ch: 11 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 188 EID: 0 SSID:  
+
+Count: 1415
+RSSI: -84 Ch: 11 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 188 EID: 0 SSID: GVT-D4EC 
+
+Count: 1416
+RSSI: -85 Ch: 5 Peer MAC: 98:39:8e:c6:49:19 SEQ: 59 EID: 0 SSID:  
+
+Count: 1417
+RSSI: -88 Ch: 6 Peer MAC: 10:f1:f2:52:43:6c SEQ: 172 EID: 0 SSID:  
+
+Count: 1418
+RSSI: -84 Ch: 7 Peer MAC: 10:f1:f2:52:43:6c SEQ: 172 EID: 0 SSID:  
+
+Count: 1419
+RSSI: -88 Ch: 7 Peer MAC: a8:16:d0:76:96:8f SEQ: 94 EID: 0 SSID:  
+
+Count: 1420
+RSSI: -81 Ch: 11 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 191 EID: 0 SSID:  
+
+Count: 1421
+RSSI: -77 Ch: 12 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 191 EID: 0 SSID: GVT-D4EC 
+
+Count: 1422
+RSSI: -76 Ch: 12 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 191 EID: 0 SSID:  
+
+Count: 1423
+RSSI: -74 Ch: 12 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 191 EID: 0 SSID: GVT-D4EC 
+
+Count: 1424
+RSSI: -73 Ch: 12 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 191 EID: 0 SSID:  
+
+Count: 1425
+RSSI: -76 Ch: 12 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 192 EID: 0 SSID: GVT-D4EC 
+
+Count: 1426
+RSSI: -86 Ch: 13 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 151 EID: 0 SSID:  
+
+Count: 1427
+RSSI: -89 Ch: 6 Peer MAC: 78:88:6d:62:c0:6b SEQ: 10 EID: 0 SSID: e04c5a 
+
+Count: 1428
+RSSI: -34 Ch: 5 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 147 EID: 0 SSID: VIVO-3734 
+
+Count: 1429
+RSSI: -34 Ch: 5 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 147 EID: 0 SSID: VIVO-3734 
+
+Count: 1430
+RSSI: -63 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 148 EID: 0 SSID: VIVO-3734 
+
+Count: 1431
+RSSI: -64 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 148 EID: 0 SSID: VIVO-3734 
+
+Count: 1432
+RSSI: -32 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 148 EID: 0 SSID: VIVO-3734 
+
+Count: 1433
+RSSI: -33 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 148 EID: 0 SSID: VIVO-3734 
+
+Count: 1434
+RSSI: -70 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 148 EID: 0 SSID: VIVO-3734 
+
+Count: 1435
+RSSI: -44 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 149 EID: 0 SSID: VIVO-3734 
+
+Count: 1436
+RSSI: -34 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 149 EID: 0 SSID: VIVO-3734 
+
+Count: 1437
+RSSI: -35 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 149 EID: 0 SSID: VIVO-3734 
+
+Count: 1438
+RSSI: -41 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 150 EID: 0 SSID: VIVO-3734 
+
+Count: 1439
+RSSI: -87 Ch: 9 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 153 EID: 0 SSID:  
+
+Count: 1440
+RSSI: -97 Ch: 1 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 103 EID: 0 SSID:  
+
+Count: 1441
+RSSI: -94 Ch: 1 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 103 EID: 0 SSID:  
+
+Count: 1442
+RSSI: -93 Ch: 1 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 103 EID: 0 SSID:  
+
+Count: 1443
+RSSI: -84 Ch: 11 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 155 EID: 0 SSID:  
+
+Count: 1444
+RSSI: -86 Ch: 13 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 157 EID: 0 SSID:  
+
+Count: 1445
+RSSI: -87 Ch: 9 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 108 EID: 0 SSID:  
+
+Count: 1446
+RSSI: -79 Ch: 13 Peer MAC: ec:88:92:45:82:e3 SEQ: 6 EID: 0 SSID:  
+
+Count: 1447
+RSSI: -81 Ch: 13 Peer MAC: ec:88:92:45:82:e3 SEQ: 6 EID: 0 SSID:  
+
+Count: 1448
+RSSI: -81 Ch: 13 Peer MAC: ec:88:92:45:82:e3 SEQ: 6 EID: 0 SSID:  
+
+Count: 1449
+RSSI: -65 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 151 EID: 0 SSID: VIVO-3734 
+
+Count: 1450
+RSSI: -43 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 152 EID: 0 SSID: VIVO-3734 
+
+Count: 1451
+RSSI: -35 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 152 EID: 0 SSID: VIVO-3734 
+
+Count: 1452
+RSSI: -35 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 152 EID: 0 SSID: VIVO-3734 
+
+Count: 1453
+RSSI: -33 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 152 EID: 0 SSID: VIVO-3734 
+
+Count: 1454
+RSSI: -33 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 152 EID: 0 SSID: VIVO-3734 
+
+Count: 1455
+RSSI: -35 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 152 EID: 0 SSID: VIVO-3734 
+
+Count: 1456
+RSSI: -35 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 152 EID: 0 SSID: VIVO-3734 
+
+Count: 1457
+RSSI: -62 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 153 EID: 0 SSID: VIVO-3734 
+
+Count: 1458
+RSSI: -60 Ch: 5 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 153 EID: 0 SSID: VIVO-3734 
+
+Count: 1459
+RSSI: -63 Ch: 5 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 153 EID: 0 SSID: VIVO-3734 
+
+Count: 1460
+RSSI: -71 Ch: 5 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 153 EID: 0 SSID: VIVO-3734 
+
+Count: 1461
+RSSI: -88 Ch: 11 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 161 EID: 0 SSID:  
+
+Count: 1462
+RSSI: -87 Ch: 11 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 161 EID: 0 SSID:  
+
+Count: 1463
+RSSI: -81 Ch: 12 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 161 EID: 0 SSID:  
+
+Count: 1464
+RSSI: -85 Ch: 12 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 111 EID: 0 SSID:  
+
+Count: 1465
+RSSI: -86 Ch: 12 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 111 EID: 0 SSID:  
+
+Count: 1466
+RSSI: -88 Ch: 3 Peer MAC: 40:65:a3:84:cd:c4 SEQ: 185 EID: 0 SSID:  
+
+Count: 1467
+RSSI: -93 Ch: 1 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 164 EID: 0 SSID:  
+
+Count: 1468
+RSSI: -86 Ch: 9 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 165 EID: 0 SSID:  
+
+Count: 1469
+RSSI: -84 Ch: 10 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 165 EID: 0 SSID:  
+
+Count: 1470
+RSSI: -81 Ch: 7 Peer MAC: 50:92:b9:a4:21:0a SEQ: 137 EID: 0 SSID:  
+
+Count: 1471
+RSSI: -82 Ch: 7 Peer MAC: 50:92:b9:a4:21:0a SEQ: 137 EID: 0 SSID:  
+
+Count: 1472
+RSSI: -42 Ch: 7 Peer MAC: 50:92:b9:a4:21:0a SEQ: 137 EID: 0 SSID:  
+
+Count: 1473
+RSSI: -44 Ch: 7 Peer MAC: 50:92:b9:a4:21:0a SEQ: 138 EID: 0 SSID:  
+
+Count: 1474
+RSSI: -40 Ch: 7 Peer MAC: 50:92:b9:a4:21:0a SEQ: 138 EID: 0 SSID:  
+
+Count: 1475
+RSSI: -42 Ch: 7 Peer MAC: 50:92:b9:a4:21:0a SEQ: 138 EID: 0 SSID:  
+
+Count: 1476
+RSSI: -41 Ch: 8 Peer MAC: 50:92:b9:a4:21:0a SEQ: 138 EID: 0 SSID:  
+
+Count: 1477
+RSSI: -40 Ch: 8 Peer MAC: 50:92:b9:a4:21:0a SEQ: 138 EID: 0 SSID:  
+
+Count: 1478
+RSSI: -42 Ch: 8 Peer MAC: 50:92:b9:a4:21:0a SEQ: 138 EID: 0 SSID:  
+
+Count: 1479
+RSSI: -43 Ch: 8 Peer MAC: 50:92:b9:a4:21:0a SEQ: 138 EID: 0 SSID:  
+
+Count: 1480
+RSSI: -83 Ch: 8 Peer MAC: 50:92:b9:a4:21:0a SEQ: 139 EID: 0 SSID:  
+
+Count: 1481
+RSSI: -82 Ch: 12 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 167 EID: 0 SSID:  
+
+Count: 1482
+RSSI: -82 Ch: 12 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 167 EID: 0 SSID:  
+
+Count: 1483
+RSSI: -66 Ch: 1 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 154 EID: 0 SSID: VIVO-3734 
+
+Count: 1484
+RSSI: -73 Ch: 1 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 154 EID: 0 SSID: VIVO-3734 
+
+Count: 1485
+RSSI: -34 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 155 EID: 0 SSID: VIVO-3734 
+
+Count: 1486
+RSSI: -34 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 155 EID: 0 SSID: VIVO-3734 
+
+Count: 1487
+RSSI: -36 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 155 EID: 0 SSID: VIVO-3734 
+
+Count: 1488
+RSSI: -35 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 155 EID: 0 SSID: VIVO-3734 
+
+Count: 1489
+RSSI: -40 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 155 EID: 0 SSID: VIVO-3734 
+
+Count: 1490
+RSSI: -77 Ch: 7 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 116 EID: 0 SSID:  
+
+Count: 1491
+RSSI: -76 Ch: 7 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 116 EID: 0 SSID:  
+
+Count: 1492
+RSSI: -75 Ch: 7 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 116 EID: 0 SSID:  
+
+Count: 1493
+RSSI: -81 Ch: 10 Peer MAC: 10:f1:f2:52:43:6c SEQ: 178 EID: 0 SSID:  
+
+Count: 1494
+RSSI: -82 Ch: 10 Peer MAC: 10:f1:f2:52:43:6c SEQ: 178 EID: 0 SSID:  
+
+Count: 1495
+RSSI: -83 Ch: 12 Peer MAC: ec:88:92:45:82:e3 SEQ: 8 EID: 0 SSID:  
+
+Count: 1496
+RSSI: -78 Ch: 12 Peer MAC: ec:88:92:45:82:e3 SEQ: 8 EID: 0 SSID:  
+
+Count: 1497
+RSSI: -77 Ch: 12 Peer MAC: ec:88:92:45:82:e3 SEQ: 8 EID: 0 SSID:  
+
+Count: 1498
+RSSI: -78 Ch: 12 Peer MAC: ec:88:92:45:82:e3 SEQ: 8 EID: 0 SSID:  
+
+Count: 1499
+RSSI: -79 Ch: 12 Peer MAC: ec:88:92:45:82:e3 SEQ: 8 EID: 0 SSID:  
+
+Count: 1500
+RSSI: -77 Ch: 12 Peer MAC: ec:88:92:45:82:e3 SEQ: 8 EID: 0 SSID:  
+
+Count: 1501
+RSSI: -75 Ch: 12 Peer MAC: ec:88:92:45:82:e3 SEQ: 8 EID: 0 SSID:  
+
+Count: 1502
+RSSI: -81 Ch: 12 Peer MAC: ec:88:92:45:82:e3 SEQ: 8 EID: 0 SSID:  
+
+Count: 1503
+RSSI: -80 Ch: 12 Peer MAC: ec:88:92:45:82:e3 SEQ: 8 EID: 0 SSID:  
+
+Count: 1504
+RSSI: -82 Ch: 7 Peer MAC: cc:61:e5:6b:33:13 SEQ: 72 EID: 0 SSID:  
+
+Count: 1505
+RSSI: -82 Ch: 7 Peer MAC: cc:61:e5:6b:33:13 SEQ: 72 EID: 0 SSID:  
+
+Count: 1506
+RSSI: -83 Ch: 7 Peer MAC: cc:61:e5:6b:33:13 SEQ: 72 EID: 0 SSID:  
+
+Count: 1507
+RSSI: -76 Ch: 7 Peer MAC: cc:61:e5:6b:33:13 SEQ: 72 EID: 0 SSID:  
+
+Count: 1508
+RSSI: -78 Ch: 7 Peer MAC: cc:61:e5:6b:33:13 SEQ: 72 EID: 0 SSID:  
+
+Count: 1509
+RSSI: -77 Ch: 7 Peer MAC: cc:61:e5:6b:33:13 SEQ: 72 EID: 0 SSID:  
+
+Count: 1510
+RSSI: -75 Ch: 7 Peer MAC: cc:61:e5:6b:33:13 SEQ: 72 EID: 0 SSID:  
+
+Count: 1511
+RSSI: -82 Ch: 7 Peer MAC: cc:61:e5:6b:33:13 SEQ: 72 EID: 0 SSID:  
+
+Count: 1512
+RSSI: -83 Ch: 12 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 173 EID: 0 SSID:  
+
+Count: 1513
+RSSI: -84 Ch: 6 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 119 EID: 0 SSID:  
+
+Count: 1514
+RSSI: -82 Ch: 6 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 120 EID: 0 SSID:  
+
+Count: 1515
+RSSI: -75 Ch: 6 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 120 EID: 0 SSID:  
+
+Count: 1516
+RSSI: -89 Ch: 6 Peer MAC: dc:53:60:0d:19:2a SEQ: 118 EID: 0 SSID: GVT-D4EC 
+
+Count: 1517
+RSSI: -83 Ch: 9 Peer MAC: cc:61:e5:6b:33:13 SEQ: 77 EID: 0 SSID:  
+
+Count: 1518
+RSSI: -65 Ch: 12 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 157 EID: 0 SSID: VIVO-3734 
+
+Count: 1519
+RSSI: -77 Ch: 13 Peer MAC: ec:88:92:45:82:e3 SEQ: 10 EID: 0 SSID:  
+
+Count: 1520
+RSSI: -76 Ch: 13 Peer MAC: ec:88:92:45:82:e3 SEQ: 10 EID: 0 SSID:  
+
+Count: 1521
+RSSI: -77 Ch: 13 Peer MAC: ec:88:92:45:82:e3 SEQ: 10 EID: 0 SSID:  
+
+Count: 1522
+RSSI: -71 Ch: 13 Peer MAC: ec:88:92:45:82:e3 SEQ: 10 EID: 0 SSID:  
+
+Count: 1523
+RSSI: -70 Ch: 13 Peer MAC: ec:88:92:45:82:e3 SEQ: 11 EID: 0 SSID:  
+
+Count: 1524
+RSSI: -36 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 158 EID: 0 SSID: VIVO-3734 
+
+Count: 1525
+RSSI: -35 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 158 EID: 0 SSID: VIVO-3734 
+
+Count: 1526
+RSSI: -35 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 158 EID: 0 SSID: VIVO-3734 
+
+Count: 1527
+RSSI: -34 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 159 EID: 0 SSID: VIVO-3734 
+
+Count: 1528
+RSSI: -37 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 159 EID: 0 SSID: VIVO-3734 
+
+Count: 1529
+RSSI: -44 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 159 EID: 0 SSID: VIVO-3734 
+
+Count: 1530
+RSSI: -66 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 159 EID: 0 SSID: VIVO-3734 
+
+Count: 1531
+RSSI: -66 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 159 EID: 0 SSID: VIVO-3734 
+
+Count: 1532
+RSSI: -65 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 159 EID: 0 SSID: VIVO-3734 
+
+Count: 1533
+RSSI: -86 Ch: 4 Peer MAC: 04:1b:6d:ee:e3:71 SEQ: 32 EID: 0 SSID:  
+
+Count: 1534
+RSSI: -85 Ch: 4 Peer MAC: 04:1b:6d:ee:e3:71 SEQ: 32 EID: 0 SSID:  
+
+Count: 1535
+RSSI: -85 Ch: 12 Peer MAC: cc:61:e5:6b:33:13 SEQ: 82 EID: 0 SSID:  
+
+Count: 1536
+RSSI: -84 Ch: 12 Peer MAC: cc:61:e5:6b:33:13 SEQ: 82 EID: 0 SSID:  
+
+Count: 1537
+RSSI: -82 Ch: 12 Peer MAC: cc:61:e5:6b:33:13 SEQ: 82 EID: 0 SSID:  
+
+Count: 1538
+RSSI: -82 Ch: 12 Peer MAC: cc:61:e5:6b:33:13 SEQ: 82 EID: 0 SSID:  
+
+Count: 1539
+RSSI: -89 Ch: 1 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 176 EID: 0 SSID:  
+
+Count: 1540
+RSSI: -82 Ch: 10 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 178 EID: 0 SSID:  
+
+Count: 1541
+RSSI: -86 Ch: 3 Peer MAC: 04:1b:6d:ee:e3:71 SEQ: 35 EID: 0 SSID:  
+
+Count: 1542
+RSSI: -88 Ch: 3 Peer MAC: 04:1b:6d:ee:e3:71 SEQ: 35 EID: 0 SSID:  
+
+Count: 1543
+RSSI: -89 Ch: 3 Peer MAC: 04:1b:6d:ee:e3:71 SEQ: 35 EID: 0 SSID:  
+
+Count: 1544
+RSSI: -85 Ch: 7 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 124 EID: 0 SSID:  
+
+Count: 1545
+RSSI: -86 Ch: 7 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 124 EID: 0 SSID:  
+
+Count: 1546
+RSSI: -88 Ch: 7 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 124 EID: 0 SSID:  
+
+Count: 1547
+RSSI: -85 Ch: 12 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 179 EID: 0 SSID:  
+
+Count: 1548
+RSSI: -86 Ch: 12 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 179 EID: 0 SSID:  
+
+Count: 1549
+RSSI: -85 Ch: 13 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 180 EID: 0 SSID:  
+
+Count: 1550
+RSSI: -83 Ch: 9 Peer MAC: 3c:bb:fd:90:e1:4e SEQ: 19 EID: 0 SSID: Mesquita Casa 
+
+Count: 1551
+RSSI: -83 Ch: 9 Peer MAC: 3c:bb:fd:90:e1:4e SEQ: 19 EID: 0 SSID:  
+
+Count: 1552
+RSSI: -34 Ch: 12 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 161 EID: 0 SSID: VIVO-3734 
+
+Count: 1553
+RSSI: -35 Ch: 12 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 161 EID: 0 SSID: VIVO-3734 
+
+Count: 1554
+RSSI: -66 Ch: 12 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 161 EID: 0 SSID: VIVO-3734 
+
+Count: 1555
+RSSI: -34 Ch: 13 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 161 EID: 0 SSID: VIVO-3734 
+
+Count: 1556
+RSSI: -33 Ch: 13 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 161 EID: 0 SSID: VIVO-3734 
+
+Count: 1557
+RSSI: -92 Ch: 1 Peer MAC: cc:61:e5:6b:33:13 SEQ: 95 EID: 0 SSID:  
+
+Count: 1558
+RSSI: -89 Ch: 1 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 182 EID: 0 SSID:  
+
+Count: 1559
+RSSI: -81 Ch: 8 Peer MAC: ec:88:92:45:82:e3 SEQ: 12 EID: 0 SSID:  
+
+Count: 1560
+RSSI: -80 Ch: 8 Peer MAC: ec:88:92:45:82:e3 SEQ: 12 EID: 0 SSID:  
+
+Count: 1561
+RSSI: -80 Ch: 8 Peer MAC: ec:88:92:45:82:e3 SEQ: 12 EID: 0 SSID:  
+
+Count: 1562
+RSSI: -83 Ch: 10 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 184 EID: 0 SSID:  
+
+Count: 1563
+RSSI: -85 Ch: 11 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 184 EID: 0 SSID:  
+
+Count: 1564
+RSSI: -87 Ch: 3 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 201 EID: 0 SSID:  
+
+Count: 1565
+RSSI: -85 Ch: 3 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 201 EID: 0 SSID:  
+
+Count: 1566
+RSSI: -82 Ch: 4 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 201 EID: 0 SSID:  
+
+Count: 1567
+RSSI: -84 Ch: 4 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 201 EID: 0 SSID:  
+
+Count: 1568
+RSSI: -77 Ch: 3 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 226 EID: 0 SSID: VIVO-3734 
+
+Count: 1569
+RSSI: -77 Ch: 3 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 226 EID: 0 SSID:  
+
+Count: 1570
+RSSI: -85 Ch: 13 Peer MAC: cc:61:e5:6b:33:13 SEQ: 106 EID: 0 SSID:  
+
+Count: 1571
+RSSI: -82 Ch: 13 Peer MAC: cc:61:e5:6b:33:13 SEQ: 106 EID: 0 SSID:  
+
+Count: 1572
+RSSI: -84 Ch: 13 Peer MAC: cc:61:e5:6b:33:13 SEQ: 106 EID: 0 SSID:  
+
+Count: 1573
+RSSI: -84 Ch: 9 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 188 EID: 0 SSID:  
+
+Count: 1574
+RSSI: -80 Ch: 12 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 232 EID: 0 SSID:  
+
+Count: 1575
+RSSI: -94 Ch: 1 Peer MAC: cc:61:e5:6b:33:13 SEQ: 108 EID: 0 SSID:  
+
+Count: 1576
+RSSI: -87 Ch: 2 Peer MAC: 40:65:a3:84:cd:c4 SEQ: 189 EID: 0 SSID:  
+
+Count: 1577
+RSSI: -33 Ch: 10 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 164 EID: 0 SSID: VIVO-3734 
+
+Count: 1578
+RSSI: -34 Ch: 10 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 164 EID: 0 SSID: VIVO-3734 
+
+Count: 1579
+RSSI: -62 Ch: 11 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 164 EID: 0 SSID: VIVO-3734 
+
+Count: 1580
+RSSI: -86 Ch: 11 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 190 EID: 0 SSID:  
+
+Count: 1581
+RSSI: -43 Ch: 12 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 166 EID: 0 SSID: VIVO-3734 
+
+Count: 1582
+RSSI: -32 Ch: 12 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 166 EID: 0 SSID: VIVO-3734 
+
+Count: 1583
+RSSI: -32 Ch: 12 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 167 EID: 0 SSID: VIVO-3734 
+
+Count: 1584
+RSSI: -89 Ch: 13 Peer MAC: 04:1b:6d:ee:e3:71 SEQ: 47 EID: 0 SSID:  
+
+Count: 1585
+RSSI: -80 Ch: 2 Peer MAC: ec:88:92:45:82:e3 SEQ: 13 EID: 0 SSID:  
+
+Count: 1586
+RSSI: -80 Ch: 2 Peer MAC: ec:88:92:45:82:e3 SEQ: 13 EID: 0 SSID:  
+
+Count: 1587
+RSSI: -80 Ch: 2 Peer MAC: ec:88:92:45:82:e3 SEQ: 13 EID: 0 SSID:  
+
+Count: 1588
+RSSI: -79 Ch: 2 Peer MAC: ec:88:92:45:82:e3 SEQ: 13 EID: 0 SSID:  
+
+Count: 1589
+RSSI: -76 Ch: 3 Peer MAC: ec:88:92:45:82:e3 SEQ: 13 EID: 0 SSID:  
+
+Count: 1590
+RSSI: -79 Ch: 3 Peer MAC: ec:88:92:45:82:e3 SEQ: 13 EID: 0 SSID:  
+
+Count: 1591
+RSSI: -74 Ch: 3 Peer MAC: ec:88:92:45:82:e3 SEQ: 13 EID: 0 SSID:  
+
+Count: 1592
+RSSI: -74 Ch: 3 Peer MAC: ec:88:92:45:82:e3 SEQ: 13 EID: 0 SSID:  
+
+Count: 1593
+RSSI: -78 Ch: 3 Peer MAC: ec:88:92:45:82:e3 SEQ: 13 EID: 0 SSID:  
+
+Count: 1594
+RSSI: -76 Ch: 3 Peer MAC: ec:88:92:45:82:e3 SEQ: 13 EID: 0 SSID:  
+
+Count: 1595
+RSSI: -89 Ch: 13 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 192 EID: 0 SSID:  
+
+Count: 1596
+RSSI: -85 Ch: 6 Peer MAC: fc:64:3a:50:0d:72 SEQ: 210 EID: 0 SSID: GVT-8E73 
+
+Count: 1597
+RSSI: -82 Ch: 6 Peer MAC: fc:64:3a:50:0d:72 SEQ: 211 EID: 0 SSID: GVT-8E73 
+
+Count: 1598
+RSSI: -82 Ch: 6 Peer MAC: fc:64:3a:50:0d:72 SEQ: 211 EID: 0 SSID:  
+
+Count: 1599
+RSSI: -82 Ch: 6 Peer MAC: fc:64:3a:50:0d:72 SEQ: 211 EID: 0 SSID: GVT-8E73 
+
+Count: 1600
+RSSI: -87 Ch: 8 Peer MAC: cc:61:e5:6b:33:13 SEQ: 119 EID: 0 SSID:  
+
+Count: 1601
+RSSI: -84 Ch: 8 Peer MAC: cc:61:e5:6b:33:13 SEQ: 119 EID: 0 SSID:  
+
+Count: 1602
+RSSI: -85 Ch: 8 Peer MAC: cc:61:e5:6b:33:13 SEQ: 119 EID: 0 SSID:  
+
+Count: 1603
+RSSI: -85 Ch: 8 Peer MAC: cc:61:e5:6b:33:13 SEQ: 119 EID: 0 SSID:  
+
+Count: 1604
+RSSI: -86 Ch: 8 Peer MAC: cc:61:e5:6b:33:13 SEQ: 119 EID: 0 SSID:  
+
+Count: 1605
+RSSI: -85 Ch: 9 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 194 EID: 0 SSID:  
+
+Count: 1606
+RSSI: -81 Ch: 8 Peer MAC: fc:64:3a:50:0d:72 SEQ: 215 EID: 0 SSID: GVT-8E73 
+
+Count: 1607
+RSSI: -84 Ch: 11 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 196 EID: 0 SSID:  
+
+Count: 1608
+RSSI: -88 Ch: 5 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 197 EID: 0 SSID:  
+
+Count: 1609
+RSSI: -36 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 167 EID: 0 SSID: VIVO-3734 
+
+Count: 1610
+RSSI: -35 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 167 EID: 0 SSID: VIVO-3734 
+
+Count: 1611
+RSSI: -36 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 168 EID: 0 SSID: VIVO-3734 
+
+Count: 1612
+RSSI: -69 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 168 EID: 0 SSID: VIVO-3734 
+
+Count: 1613
+RSSI: -69 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 168 EID: 0 SSID: VIVO-3734 
+
+Count: 1614
+RSSI: -66 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 168 EID: 0 SSID: VIVO-3734 
+
+Count: 1615
+RSSI: -64 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 168 EID: 0 SSID: VIVO-3734 
+
+Count: 1616
+RSSI: -66 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 169 EID: 0 SSID: VIVO-3734 
+
+Count: 1617
+RSSI: -62 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 169 EID: 0 SSID: VIVO-3734 
+
+Count: 1618
+RSSI: -59 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 169 EID: 0 SSID: VIVO-3734 
+
+Count: 1619
+RSSI: -33 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 169 EID: 0 SSID: VIVO-3734 
+
+Count: 1620
+RSSI: -35 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 169 EID: 0 SSID: VIVO-3734 
+
+Count: 1621
+RSSI: -31 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 169 EID: 0 SSID: VIVO-3734 
+
+Count: 1622
+RSSI: -33 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 169 EID: 0 SSID: VIVO-3734 
+
+Count: 1623
+RSSI: -33 Ch: 10 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 170 EID: 0 SSID: VIVO-3734 
+
+Count: 1624
+RSSI: -78 Ch: 11 Peer MAC: ec:88:92:45:82:e3 SEQ: 16 EID: 0 SSID:  
+
+Count: 1625
+RSSI: -78 Ch: 11 Peer MAC: ec:88:92:45:82:e3 SEQ: 16 EID: 0 SSID:  
+
+Count: 1626
+RSSI: -79 Ch: 11 Peer MAC: ec:88:92:45:82:e3 SEQ: 16 EID: 0 SSID:  
+
+Count: 1627
+RSSI: -79 Ch: 11 Peer MAC: ec:88:92:45:82:e3 SEQ: 16 EID: 0 SSID:  
+
+Count: 1628
+RSSI: -79 Ch: 11 Peer MAC: ec:88:92:45:82:e3 SEQ: 16 EID: 0 SSID:  
+
+Count: 1629
+RSSI: -82 Ch: 11 Peer MAC: ec:88:92:45:82:e3 SEQ: 16 EID: 0 SSID:  
+
+Count: 1630
+RSSI: -82 Ch: 11 Peer MAC: ec:88:92:45:82:e3 SEQ: 16 EID: 0 SSID:  
+
+Count: 1631
+RSSI: -84 Ch: 9 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 200 EID: 0 SSID:  
+
+Count: 1632
+RSSI: -85 Ch: 12 Peer MAC: fc:64:3a:50:0d:72 SEQ: 224 EID: 0 SSID: netvirtua 224 104 
+
+Count: 1633
+RSSI: -90 Ch: 1 Peer MAC: fc:64:3a:50:0d:72 SEQ: 228 EID: 0 SSID: GVT-8E73 
+
+Count: 1634
+RSSI: -89 Ch: 1 Peer MAC: fc:64:3a:50:0d:72 SEQ: 228 EID: 0 SSID:  
+
+Count: 1635
+RSSI: -89 Ch: 4 Peer MAC: fc:64:3a:50:0d:72 SEQ: 229 EID: 0 SSID: GVT-8E73 
+
+Count: 1636
+RSSI: -82 Ch: 4 Peer MAC: fc:64:3a:50:0d:72 SEQ: 230 EID: 0 SSID: GVT-8E73 
+
+Count: 1637
+RSSI: -86 Ch: 4 Peer MAC: fc:64:3a:50:0d:72 SEQ: 230 EID: 0 SSID:  
+
+Count: 1638
+RSSI: -78 Ch: 11 Peer MAC: fc:64:3a:50:0d:72 SEQ: 232 EID: 0 SSID: GVT-8E73 
+
+Count: 1639
+RSSI: -81 Ch: 11 Peer MAC: fc:64:3a:50:0d:72 SEQ: 232 EID: 0 SSID:  
+
+Count: 1640
+RSSI: -83 Ch: 11 Peer MAC: fc:64:3a:50:0d:72 SEQ: 232 EID: 0 SSID: GVT-8E73 
+
+Count: 1641
+RSSI: -81 Ch: 11 Peer MAC: fc:64:3a:50:0d:72 SEQ: 232 EID: 0 SSID:  
+
+Count: 1642
+RSSI: -80 Ch: 12 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 202 EID: 0 SSID:  
+
+Count: 1643
+RSSI: -85 Ch: 12 Peer MAC: cc:61:e5:6b:33:13 SEQ: 129 EID: 0 SSID:  
+
+Count: 1644
+RSSI: -86 Ch: 3 Peer MAC: 00:16:98:a0:6e:6b SEQ: 59 EID: 0 SSID:  
+
+Count: 1645
+RSSI: -81 Ch: 9 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 139 EID: 0 SSID:  
+
+Count: 1646
+RSSI: -85 Ch: 10 Peer MAC: fc:64:3a:50:0d:72 SEQ: 236 EID: 0 SSID: netvirtua 224 104 
+
+Count: 1647
+RSSI: -86 Ch: 11 Peer MAC: fc:64:3a:50:0d:72 SEQ: 237 EID: 0 SSID: netvirtua 224 104 
+
+Count: 1648
+RSSI: -87 Ch: 11 Peer MAC: fc:64:3a:50:0d:72 SEQ: 237 EID: 0 SSID:  
+
+Count: 1649
+RSSI: -83 Ch: 12 Peer MAC: fc:64:3a:50:0d:72 SEQ: 238 EID: 0 SSID: netvirtua 224 104 
+
+Count: 1650
+RSSI: -85 Ch: 13 Peer MAC: fc:64:3a:50:0d:72 SEQ: 240 EID: 0 SSID: GVT-8E73 
+
+Count: 1651
+RSSI: -34 Ch: 5 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 170 EID: 0 SSID: VIVO-3734 
+
+Count: 1652
+RSSI: -34 Ch: 5 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 170 EID: 0 SSID: VIVO-3734 
+
+Count: 1653
+RSSI: -63 Ch: 5 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 170 EID: 0 SSID: VIVO-3734 
+
+Count: 1654
+RSSI: -41 Ch: 5 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 171 EID: 0 SSID: VIVO-3734 
+
+Count: 1655
+RSSI: -43 Ch: 5 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 171 EID: 0 SSID: VIVO-3734 
+
+Count: 1656
+RSSI: -77 Ch: 5 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 171 EID: 0 SSID: VIVO-3734 
+
+Count: 1657
+RSSI: -42 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 172 EID: 0 SSID: VIVO-3734 
+
+Count: 1658
+RSSI: -36 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 172 EID: 0 SSID: VIVO-3734 
+
+Count: 1659
+RSSI: -37 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 172 EID: 0 SSID: VIVO-3734 
+
+Count: 1660
+RSSI: -35 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 172 EID: 0 SSID: VIVO-3734 
+
+Count: 1661
+RSSI: -66 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 173 EID: 0 SSID: VIVO-3734 
+
+Count: 1662
+RSSI: -79 Ch: 8 Peer MAC: ec:88:92:45:82:e3 SEQ: 18 EID: 0 SSID:  
+
+Count: 1663
+RSSI: -75 Ch: 8 Peer MAC: ec:88:92:45:82:e3 SEQ: 18 EID: 0 SSID:  
+
+Count: 1664
+RSSI: -80 Ch: 8 Peer MAC: fc:64:3a:50:0d:72 SEQ: 241 EID: 0 SSID: GVT-8E73 
+
+Count: 1665
+RSSI: -80 Ch: 9 Peer MAC: fc:64:3a:50:0d:72 SEQ: 241 EID: 0 SSID: GVT-8E73 
+
+Count: 1666
+RSSI: -79 Ch: 9 Peer MAC: fc:64:3a:50:0d:72 SEQ: 241 EID: 0 SSID:  
+
+Count: 1667
+RSSI: -77 Ch: 9 Peer MAC: ec:88:92:45:82:e3 SEQ: 18 EID: 0 SSID:  
+
+Count: 1668
+RSSI: -80 Ch: 9 Peer MAC: fc:64:3a:50:0d:72 SEQ: 241 EID: 0 SSID:  
+
+Count: 1669
+RSSI: -94 Ch: 1 Peer MAC: fc:64:3a:50:0d:72 SEQ: 243 EID: 0 SSID: netvirtua 224 104 
+
+Count: 1670
+RSSI: -88 Ch: 9 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 153 EID: 0 SSID: netvirtua 224 104 
+
+Count: 1671
+RSSI: -87 Ch: 9 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 153 EID: 0 SSID: netvirtua 224 104 
+
+Count: 1672
+RSSI: -81 Ch: 10 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 206 EID: 0 SSID:  
+
+Count: 1673
+RSSI: -82 Ch: 10 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 207 EID: 0 SSID:  
+
+Count: 1674
+RSSI: -86 Ch: 3 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 207 EID: 0 SSID:  
+
+Count: 1675
+RSSI: -82 Ch: 4 Peer MAC: 98:39:8e:c6:49:19 SEQ: 95 EID: 0 SSID:  
+
+Count: 1676
+RSSI: -82 Ch: 4 Peer MAC: 98:39:8e:c6:49:19 SEQ: 95 EID: 0 SSID:  
+
+Count: 1677
+RSSI: -83 Ch: 12 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 208 EID: 0 SSID:  
+
+Count: 1678
+RSSI: -75 Ch: 8 Peer MAC: fc:64:3a:50:0d:72 SEQ: 246 EID: 0 SSID: GVT-8E73 
+
+Count: 1679
+RSSI: -76 Ch: 8 Peer MAC: fc:64:3a:50:0d:72 SEQ: 246 EID: 0 SSID:  
+
+Count: 1680
+RSSI: -71 Ch: 8 Peer MAC: fc:64:3a:50:0d:72 SEQ: 246 EID: 0 SSID: GVT-8E73 
+
+Count: 1681
+RSSI: -75 Ch: 8 Peer MAC: fc:64:3a:50:0d:72 SEQ: 246 EID: 0 SSID:  
+
+Count: 1682
+RSSI: -72 Ch: 8 Peer MAC: fc:64:3a:50:0d:72 SEQ: 246 EID: 0 SSID: GVT-8E73 
+
+Count: 1683
+RSSI: -75 Ch: 8 Peer MAC: fc:64:3a:50:0d:72 SEQ: 246 EID: 0 SSID:  
+
+Count: 1684
+RSSI: -74 Ch: 9 Peer MAC: fc:64:3a:50:0d:72 SEQ: 248 EID: 0 SSID: netvirtua 224 104 
+
+Count: 1685
+RSSI: -76 Ch: 9 Peer MAC: fc:64:3a:50:0d:72 SEQ: 248 EID: 0 SSID:  
+
+Count: 1686
+RSSI: -72 Ch: 9 Peer MAC: fc:64:3a:50:0d:72 SEQ: 248 EID: 0 SSID: netvirtua 224 104 
+
+Count: 1687
+RSSI: -75 Ch: 9 Peer MAC: fc:64:3a:50:0d:72 SEQ: 248 EID: 0 SSID:  
+
+Count: 1688
+RSSI: -75 Ch: 10 Peer MAC: fc:64:3a:50:0d:72 SEQ: 248 EID: 0 SSID:  
+
+Count: 1689
+RSSI: -77 Ch: 10 Peer MAC: fc:64:3a:50:0d:72 SEQ: 248 EID: 0 SSID: netvirtua 224 104 
+
+Count: 1690
+RSSI: -79 Ch: 10 Peer MAC: fc:64:3a:50:0d:72 SEQ: 248 EID: 0 SSID:  
+
+Count: 1691
+RSSI: -85 Ch: 11 Peer MAC: 98:39:8e:c6:49:19 SEQ: 101 EID: 0 SSID:  
+
+Count: 1692
+RSSI: -82 Ch: 11 Peer MAC: 98:39:8e:c6:49:19 SEQ: 101 EID: 0 SSID:  
+
+Count: 1693
+RSSI: -85 Ch: 11 Peer MAC: 98:39:8e:c6:49:19 SEQ: 101 EID: 0 SSID:  
+
+Count: 1694
+RSSI: -84 Ch: 11 Peer MAC: 98:39:8e:c6:49:19 SEQ: 101 EID: 0 SSID:  
+
+Count: 1695
+RSSI: -83 Ch: 5 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 146 EID: 0 SSID:  
+
+Count: 1696
+RSSI: -82 Ch: 5 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 146 EID: 0 SSID:  
+
+Count: 1697
+RSSI: -83 Ch: 13 Peer MAC: fc:64:3a:50:0d:72 SEQ: 255 EID: 0 SSID:  
+
+Count: 1698
+RSSI: -84 Ch: 13 Peer MAC: fc:64:3a:50:0d:72 SEQ: 255 EID: 0 SSID: GVT-8E73 
+
+Count: 1699
+RSSI: -83 Ch: 13 Peer MAC: fc:64:3a:50:0d:72 SEQ: 255 EID: 0 SSID:  
+
+Count: 1700
+RSSI: -37 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 173 EID: 0 SSID: VIVO-3734 
+
+Count: 1701
+RSSI: -71 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 173 EID: 0 SSID: VIVO-3734 
+
+Count: 1702
+RSSI: -65 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 174 EID: 0 SSID: VIVO-3734 
+
+Count: 1703
+RSSI: -38 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 174 EID: 0 SSID: VIVO-3734 
+
+Count: 1704
+RSSI: -36 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 175 EID: 0 SSID: VIVO-3734 
+
+Count: 1705
+RSSI: -32 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 175 EID: 0 SSID: VIVO-3734 
+
+Count: 1706
+RSSI: -33 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 175 EID: 0 SSID: VIVO-3734 
+
+Count: 1707
+RSSI: -35 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 175 EID: 0 SSID: VIVO-3734 
+
+Count: 1708
+RSSI: -81 Ch: 4 Peer MAC: ec:88:92:45:82:e3 SEQ: 19 EID: 0 SSID:  
+
+Count: 1709
+RSSI: -80 Ch: 4 Peer MAC: ec:88:92:45:82:e3 SEQ: 19 EID: 0 SSID:  
+
+Count: 1710
+RSSI: -78 Ch: 4 Peer MAC: ec:88:92:45:82:e3 SEQ: 19 EID: 0 SSID:  
+
+Count: 1711
+RSSI: -75 Ch: 4 Peer MAC: ec:88:92:45:82:e3 SEQ: 19 EID: 0 SSID:  
+
+Count: 1712
+RSSI: -74 Ch: 4 Peer MAC: ec:88:92:45:82:e3 SEQ: 19 EID: 0 SSID:  
+
+Count: 1713
+RSSI: -76 Ch: 4 Peer MAC: ec:88:92:45:82:e3 SEQ: 19 EID: 0 SSID:  
+
+Count: 1714
+RSSI: -64 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 176 EID: 0 SSID: VIVO-3734 
+
+Count: 1715
+RSSI: -83 Ch: 8 Peer MAC: fc:64:3a:50:0d:72 SEQ: 0 EID: 0 SSID: GVT-8E73 
+
+Count: 1716
+RSSI: -80 Ch: 8 Peer MAC: fc:64:3a:50:0d:72 SEQ: 0 EID: 0 SSID: GVT-8E73 
+
+Count: 1717
+RSSI: -81 Ch: 8 Peer MAC: fc:64:3a:50:0d:72 SEQ: 0 EID: 0 SSID:  
+
+Count: 1718
+RSSI: -81 Ch: 9 Peer MAC: fc:64:3a:50:0d:72 SEQ: 0 EID: 0 SSID:  
+
+Count: 1719
+RSSI: -81 Ch: 10 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 213 EID: 0 SSID:  
+
+Count: 1720
+RSSI: -85 Ch: 11 Peer MAC: 98:39:8e:c6:49:19 SEQ: 105 EID: 0 SSID:  
+
+Count: 1721
+RSSI: -86 Ch: 11 Peer MAC: 98:39:8e:c6:49:19 SEQ: 105 EID: 0 SSID:  
+
+Count: 1722
+RSSI: -81 Ch: 6 Peer MAC: fc:64:3a:50:0d:72 SEQ: 6 EID: 0 SSID: GVT-8E73 
+
+Count: 1723
+RSSI: -82 Ch: 12 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 214 EID: 0 SSID:  
+
+Count: 1724
+RSSI: -87 Ch: 2 Peer MAC: fc:64:3a:50:0d:72 SEQ: 7 EID: 0 SSID:  
+
+Count: 1725
+RSSI: -83 Ch: 7 Peer MAC: fc:64:3a:ee:6d:6e SEQ: 124 EID: 0 SSID: oi 
+
+Count: 1726
+RSSI: -84 Ch: 7 Peer MAC: fc:64:3a:ee:6d:6e SEQ: 124 EID: 0 SSID:  
+
+Count: 1727
+RSSI: -83 Ch: 6 Peer MAC: fc:64:3a:50:0d:72 SEQ: 13 EID: 0 SSID: netvirtua 224 104 
+
+Count: 1728
+RSSI: -79 Ch: 7 Peer MAC: fc:64:3a:50:0d:72 SEQ: 14 EID: 0 SSID:  
+
+Count: 1729
+RSSI: -84 Ch: 10 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 219 EID: 0 SSID:  
+
+Count: 1730
+RSSI: -74 Ch: 1 Peer MAC: ec:88:92:45:82:e3 SEQ: 21 EID: 0 SSID:  
+
+Count: 1731
+RSSI: -76 Ch: 1 Peer MAC: ec:88:92:45:82:e3 SEQ: 21 EID: 0 SSID:  
+
+Count: 1732
+RSSI: -75 Ch: 1 Peer MAC: ec:88:92:45:82:e3 SEQ: 21 EID: 0 SSID:  
+
+Count: 1733
+RSSI: -77 Ch: 1 Peer MAC: ec:88:92:45:82:e3 SEQ: 21 EID: 0 SSID:  
+
+Count: 1734
+RSSI: -79 Ch: 1 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 177 EID: 0 SSID: VIVO-3734 
+
+Count: 1735
+RSSI: -38 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 178 EID: 0 SSID: VIVO-3734 
+
+Count: 1736
+RSSI: -36 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 178 EID: 0 SSID: VIVO-3734 
+
+Count: 1737
+RSSI: -38 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 178 EID: 0 SSID: VIVO-3734 
+
+Count: 1738
+RSSI: -38 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 178 EID: 0 SSID: VIVO-3734 
+
+Count: 1739
+RSSI: -45 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 178 EID: 0 SSID: VIVO-3734 
+
+Count: 1740
+RSSI: -65 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 179 EID: 0 SSID: VIVO-3734 
+
+Count: 1741
+RSSI: -80 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 179 EID: 0 SSID: VIVO-3734 
+
+Count: 1742
+RSSI: -64 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 179 EID: 0 SSID: VIVO-3734 
+
+Count: 1743
+RSSI: -89 Ch: 4 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 219 EID: 0 SSID:  
+
+Count: 1744
+RSSI: -84 Ch: 12 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 221 EID: 0 SSID:  
+
+Count: 1745
+RSSI: -86 Ch: 13 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 221 EID: 0 SSID:  
+
+Count: 1746
+RSSI: -82 Ch: 13 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 157 EID: 0 SSID:  
+
+Count: 1747
+RSSI: -82 Ch: 13 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 157 EID: 0 SSID:  
+
+Count: 1748
+RSSI: -82 Ch: 3 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 158 EID: 0 SSID:  
+
+Count: 1749
+RSSI: -83 Ch: 3 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 158 EID: 0 SSID:  
+
+Count: 1750
+RSSI: -80 Ch: 10 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 163 EID: 0 SSID:  
+
+Count: 1751
+RSSI: -86 Ch: 9 Peer MAC: 30:cb:f8:a9:d6:a8 SEQ: 124 EID: 0 SSID:  
+
+Count: 1752
+RSSI: -82 Ch: 9 Peer MAC: 30:cb:f8:a9:d6:a8 SEQ: 124 EID: 0 SSID:  
+
+Count: 1753
+RSSI: -78 Ch: 9 Peer MAC: 30:cb:f8:a9:d6:a8 SEQ: 124 EID: 0 SSID:  
+
+Count: 1754
+RSSI: -76 Ch: 13 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 249 EID: 0 SSID:  
+
+Count: 1755
+RSSI: -90 Ch: 2 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 223 EID: 0 SSID:  
+
+Count: 1756
+RSSI: -79 Ch: 10 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 152 EID: 0 SSID:  
+
+Count: 1757
+RSSI: -79 Ch: 10 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 152 EID: 0 SSID:  
+
+Count: 1758
+RSSI: -75 Ch: 10 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 153 EID: 0 SSID:  
+
+Count: 1759
+RSSI: -78 Ch: 10 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 153 EID: 0 SSID:  
+
+Count: 1760
+RSSI: -79 Ch: 11 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 153 EID: 0 SSID:  
+
+Count: 1761
+RSSI: -78 Ch: 11 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 153 EID: 0 SSID:  
+
+Count: 1762
+RSSI: -87 Ch: 11 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 225 EID: 0 SSID:  
+
+Count: 1763
+RSSI: -87 Ch: 4 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 225 EID: 0 SSID:  
+
+Count: 1764
+RSSI: -77 Ch: 11 Peer MAC: ec:88:92:45:82:e3 SEQ: 24 EID: 0 SSID:  
+
+Count: 1765
+RSSI: -81 Ch: 11 Peer MAC: ec:88:92:45:82:e3 SEQ: 24 EID: 0 SSID:  
+
+Count: 1766
+RSSI: -79 Ch: 11 Peer MAC: ec:88:92:45:82:e3 SEQ: 24 EID: 0 SSID:  
+
+Count: 1767
+RSSI: -79 Ch: 11 Peer MAC: ec:88:92:45:82:e3 SEQ: 24 EID: 0 SSID:  
+
+Count: 1768
+RSSI: -75 Ch: 11 Peer MAC: ec:88:92:45:82:e3 SEQ: 24 EID: 0 SSID:  
+
+Count: 1769
+RSSI: -75 Ch: 11 Peer MAC: ec:88:92:45:82:e3 SEQ: 24 EID: 0 SSID:  
+
+Count: 1770
+RSSI: -80 Ch: 11 Peer MAC: ec:88:92:45:82:e3 SEQ: 24 EID: 0 SSID:  
+
+Count: 1771
+RSSI: -79 Ch: 11 Peer MAC: ec:88:92:45:82:e3 SEQ: 25 EID: 0 SSID:  
+
+Count: 1772
+RSSI: -78 Ch: 11 Peer MAC: ec:88:92:45:82:e3 SEQ: 25 EID: 0 SSID:  
+
+Count: 1773
+RSSI: -79 Ch: 11 Peer MAC: ec:88:92:45:82:e3 SEQ: 25 EID: 0 SSID:  
+
+Count: 1774
+RSSI: -78 Ch: 11 Peer MAC: ec:88:92:45:82:e3 SEQ: 25 EID: 0 SSID:  
+
+Count: 1775
+RSSI: -64 Ch: 11 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 180 EID: 0 SSID: VIVO-3734 
+
+Count: 1776
+RSSI: -33 Ch: 11 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 180 EID: 0 SSID: VIVO-3734 
+
+Count: 1777
+RSSI: -34 Ch: 11 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 180 EID: 0 SSID: VIVO-3734 
+
+Count: 1778
+RSSI: -65 Ch: 12 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 180 EID: 0 SSID: VIVO-3734 
+
+Count: 1779
+RSSI: -35 Ch: 12 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 181 EID: 0 SSID: VIVO-3734 
+
+Count: 1780
+RSSI: -34 Ch: 12 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 181 EID: 0 SSID: VIVO-3734 
+
+Count: 1781
+RSSI: -87 Ch: 13 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 227 EID: 0 SSID:  
+
+Count: 1782
+RSSI: -35 Ch: 13 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 183 EID: 0 SSID: VIVO-3734 
+
+Count: 1783
+RSSI: -35 Ch: 13 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 183 EID: 0 SSID: VIVO-3734 
+
+Count: 1784
+RSSI: -85 Ch: 8 Peer MAC: dc:53:60:0d:19:2a SEQ: 5 EID: 0 SSID: dlink-4690-5GHz 
+
+Count: 1785
+RSSI: -88 Ch: 9 Peer MAC: 48:49:c7:4e:ec:96 SEQ: 106 EID: 0 SSID:  
+
+Count: 1786
+RSSI: -87 Ch: 3 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 155 EID: 0 SSID:  
+
+Count: 1787
+RSSI: -86 Ch: 5 Peer MAC: d4:63:c6:82:14:fe SEQ: 29 EID: 0 SSID:  
+
+Count: 1788
+RSSI: -90 Ch: 5 Peer MAC: d4:63:c6:82:14:fe SEQ: 29 EID: 0 SSID:  
+
+Count: 1789
+RSSI: -86 Ch: 5 Peer MAC: d4:63:c6:82:14:fe SEQ: 29 EID: 0 SSID:  
+
+Count: 1790
+RSSI: -87 Ch: 5 Peer MAC: d4:63:c6:82:14:fe SEQ: 29 EID: 0 SSID:  
+
+Count: 1791
+RSSI: -89 Ch: 10 Peer MAC: cc:61:e5:6b:33:13 SEQ: 137 EID: 0 SSID:  
+
+Count: 1792
+RSSI: -82 Ch: 11 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 231 EID: 0 SSID:  
+
+Count: 1793
+RSSI: -87 Ch: 13 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 215 EID: 0 SSID:  
+
+Count: 1794
+RSSI: -86 Ch: 13 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 233 EID: 0 SSID:  
+
+Count: 1795
+RSSI: -75 Ch: 6 Peer MAC: ec:88:92:45:82:e3 SEQ: 26 EID: 0 SSID:  
+
+Count: 1796
+RSSI: -75 Ch: 6 Peer MAC: ec:88:92:45:82:e3 SEQ: 26 EID: 0 SSID:  
+
+Count: 1797
+RSSI: -74 Ch: 6 Peer MAC: ec:88:92:45:82:e3 SEQ: 26 EID: 0 SSID:  
+
+Count: 1798
+RSSI: -70 Ch: 6 Peer MAC: ec:88:92:45:82:e3 SEQ: 26 EID: 0 SSID:  
+
+Count: 1799
+RSSI: -74 Ch: 6 Peer MAC: ec:88:92:45:82:e3 SEQ: 26 EID: 0 SSID:  
+
+Count: 1800
+RSSI: -73 Ch: 6 Peer MAC: ec:88:92:45:82:e3 SEQ: 26 EID: 0 SSID:  
+
+Count: 1801
+RSSI: -79 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 183 EID: 0 SSID: VIVO-3734 
+
+Count: 1802
+RSSI: -34 Ch: 11 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 186 EID: 0 SSID: VIVO-3734 
+
+Count: 1803
+RSSI: -34 Ch: 11 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 186 EID: 0 SSID: VIVO-3734 
+
+Count: 1804
+RSSI: -35 Ch: 11 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 186 EID: 0 SSID: VIVO-3734 
+
+Count: 1805
+RSSI: -85 Ch: 2 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 219 EID: 0 SSID:  
+
+Count: 1806
+RSSI: -83 Ch: 4 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 221 EID: 0 SSID:  
+
+Count: 1807
+RSSI: -84 Ch: 4 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 221 EID: 0 SSID:  
+
+Count: 1808
+RSSI: -80 Ch: 4 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 221 EID: 0 SSID:  
+
+Count: 1809
+RSSI: -77 Ch: 5 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 222 EID: 0 SSID:  
+
+Count: 1810
+RSSI: -87 Ch: 5 Peer MAC: a8:16:d0:76:96:8f SEQ: 100 EID: 0 SSID:  
+
+Count: 1811
+RSSI: -82 Ch: 9 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 235 EID: 0 SSID:  
+
+Count: 1812
+RSSI: -85 Ch: 12 Peer MAC: d4:63:c6:82:14:fe SEQ: 42 EID: 0 SSID:  
+
+Count: 1813
+RSSI: -84 Ch: 12 Peer MAC: d4:63:c6:82:14:fe SEQ: 42 EID: 0 SSID:  
+
+Count: 1814
+RSSI: -86 Ch: 11 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 225 EID: 0 SSID:  
+
+Count: 1815
+RSSI: -85 Ch: 11 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 237 EID: 0 SSID:  
+
+Count: 1816
+RSSI: -87 Ch: 12 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 237 EID: 0 SSID:  
+
+Count: 1817
+RSSI: -88 Ch: 4 Peer MAC: 00:16:98:a0:6e:6b SEQ: 73 EID: 0 SSID:  
+
+Count: 1818
+RSSI: -83 Ch: 4 Peer MAC: 00:16:98:a0:6e:6b SEQ: 73 EID: 0 SSID:  
+
+Count: 1819
+RSSI: -85 Ch: 9 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 227 EID: 0 SSID:  
+
+Count: 1820
+RSSI: -86 Ch: 9 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 229 EID: 0 SSID: dlink-4690 
+
+Count: 1821
+RSSI: -88 Ch: 13 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 169 EID: 0 SSID:  
+
+Count: 1822
+RSSI: -94 Ch: 1 Peer MAC: 40:65:a3:84:cd:c4 SEQ: 196 EID: 0 SSID:  
+
+Count: 1823
+RSSI: -75 Ch: 1 Peer MAC: ec:88:92:45:82:e3 SEQ: 27 EID: 0 SSID:  
+
+Count: 1824
+RSSI: -77 Ch: 1 Peer MAC: ec:88:92:45:82:e3 SEQ: 27 EID: 0 SSID:  
+
+Count: 1825
+RSSI: -83 Ch: 2 Peer MAC: ec:88:92:45:82:e3 SEQ: 27 EID: 0 SSID:  
+
+Count: 1826
+RSSI: -78 Ch: 2 Peer MAC: ec:88:92:45:82:e3 SEQ: 27 EID: 0 SSID:  
+
+Count: 1827
+RSSI: -79 Ch: 2 Peer MAC: ec:88:92:45:82:e3 SEQ: 27 EID: 0 SSID:  
+
+Count: 1828
+RSSI: -78 Ch: 2 Peer MAC: ec:88:92:45:82:e3 SEQ: 27 EID: 0 SSID:  
+
+Count: 1829
+RSSI: -79 Ch: 2 Peer MAC: ec:88:92:45:82:e3 SEQ: 27 EID: 0 SSID:  
+
+Count: 1830
+RSSI: -83 Ch: 2 Peer MAC: ec:88:92:45:82:e3 SEQ: 27 EID: 0 SSID:  
+
+Count: 1831
+RSSI: -82 Ch: 2 Peer MAC: ec:88:92:45:82:e3 SEQ: 27 EID: 0 SSID:  
+
+Count: 1832
+RSSI: -69 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 186 EID: 0 SSID: VIVO-3734 
+
+Count: 1833
+RSSI: -77 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 186 EID: 0 SSID: VIVO-3734 
+
+Count: 1834
+RSSI: -22 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 186 EID: 0 SSID: VIVO-3734 
+
+Count: 1835
+RSSI: -25 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 187 EID: 0 SSID: VIVO-3734 
+
+Count: 1836
+RSSI: -22 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 187 EID: 0 SSID: VIVO-3734 
+
+Count: 1837
+RSSI: -21 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 187 EID: 0 SSID: VIVO-3734 
+
+Count: 1838
+RSSI: -60 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 187 EID: 0 SSID: VIVO-3734 
+
+Count: 1839
+RSSI: -69 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 187 EID: 0 SSID: VIVO-3734 
+
+Count: 1840
+RSSI: -60 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 188 EID: 0 SSID: VIVO-3734 
+
+Count: 1841
+RSSI: -22 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 188 EID: 0 SSID: VIVO-3734 
+
+Count: 1842
+RSSI: -21 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 189 EID: 0 SSID: VIVO-3734 
+
+Count: 1843
+RSSI: -23 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 189 EID: 0 SSID: VIVO-3734 
+
+Count: 1844
+RSSI: -22 Ch: 8 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 189 EID: 0 SSID: VIVO-3734 
+
+Count: 1845
+RSSI: -25 Ch: 9 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 189 EID: 0 SSID: VIVO-3734 
+
+Count: 1846
+RSSI: -88 Ch: 9 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 241 EID: 0 SSID:  
+
+Count: 1847
+RSSI: -84 Ch: 10 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 241 EID: 0 SSID:  
+
+Count: 1848
+RSSI: -87 Ch: 12 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 164 EID: 0 SSID:  
+
+Count: 1849
+RSSI: -88 Ch: 1 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 169 EID: 0 SSID:  
+
+Count: 1850
+RSSI: -89 Ch: 1 Peer MAC: f4:f1:e1:cb:9a:c0 SEQ: 169 EID: 0 SSID:  
+
+Count: 1851
+RSSI: -89 Ch: 3 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 242 EID: 0 SSID:  
+
+Count: 1852
+RSSI: -80 Ch: 9 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 238 EID: 0 SSID:  
+
+Count: 1853
+RSSI: -79 Ch: 10 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 238 EID: 0 SSID: dlink-4690 
+
+Count: 1854
+RSSI: -78 Ch: 10 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 238 EID: 0 SSID: dlink-4690 
+
+Count: 1855
+RSSI: -76 Ch: 10 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 238 EID: 0 SSID:  
+
+Count: 1856
+RSSI: -80 Ch: 10 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 238 EID: 0 SSID: dlink-4690 
+
+Count: 1857
+RSSI: -78 Ch: 10 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 238 EID: 0 SSID:  
+
+Count: 1858
+RSSI: -84 Ch: 12 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 243 EID: 0 SSID:  
+
+Count: 1859
+RSSI: -83 Ch: 12 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 243 EID: 0 SSID:  
+
+Count: 1860
+RSSI: -88 Ch: 2 Peer MAC: 98:39:8e:c6:49:19 SEQ: 114 EID: 0 SSID:  
+
+Count: 1861
+RSSI: -91 Ch: 2 Peer MAC: 98:39:8e:c6:49:19 SEQ: 114 EID: 0 SSID:  
+
+Count: 1862
+RSSI: -83 Ch: 2 Peer MAC: 98:39:8e:c6:49:19 SEQ: 114 EID: 0 SSID:  
+
+Count: 1863
+RSSI: -88 Ch: 12 Peer MAC: 28:83:35:25:49:33 SEQ: 8 EID: 0 SSID:  
+
+Count: 1864
+RSSI: -85 Ch: 12 Peer MAC: 28:83:35:25:49:33 SEQ: 8 EID: 0 SSID:  
+
+Count: 1865
+RSSI: -51 Ch: 2 Peer MAC: 50:92:b9:a4:21:0a SEQ: 166 EID: 0 SSID:  
+
+Count: 1866
+RSSI: -51 Ch: 2 Peer MAC: 50:92:b9:a4:21:0a SEQ: 166 EID: 0 SSID:  
+
+Count: 1867
+RSSI: -48 Ch: 2 Peer MAC: 50:92:b9:a4:21:0a SEQ: 166 EID: 0 SSID:  
+
+Count: 1868
+RSSI: -47 Ch: 2 Peer MAC: 50:92:b9:a4:21:0a SEQ: 166 EID: 0 SSID:  
+
+Count: 1869
+RSSI: -44 Ch: 2 Peer MAC: 50:92:b9:a4:21:0a SEQ: 167 EID: 0 SSID:  
+
+Count: 1870
+RSSI: -46 Ch: 2 Peer MAC: 50:92:b9:a4:21:0a SEQ: 167 EID: 0 SSID:  
+
+Count: 1871
+RSSI: -54 Ch: 2 Peer MAC: 50:92:b9:a4:21:0a SEQ: 167 EID: 0 SSID:  
+
+Count: 1872
+RSSI: -81 Ch: 8 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 246 EID: 0 SSID:  
+
+Count: 1873
+RSSI: -89 Ch: 1 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 241 EID: 0 SSID:  
+
+Count: 1874
+RSSI: -90 Ch: 1 Peer MAC: dc:0b:34:d6:cc:5f SEQ: 241 EID: 0 SSID:  
+
+Count: 1875
+RSSI: -86 Ch: 10 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 248 EID: 0 SSID:  
+
+Count: 1876
+RSSI: -81 Ch: 10 Peer MAC: d4:63:c6:82:14:fe SEQ: 55 EID: 0 SSID:  
+
+Count: 1877
+RSSI: -79 Ch: 10 Peer MAC: d4:63:c6:82:14:fe SEQ: 55 EID: 0 SSID:  
+
+Count: 1878
+RSSI: -81 Ch: 10 Peer MAC: d4:63:c6:82:14:fe SEQ: 56 EID: 0 SSID:  
+
+Count: 1879
+RSSI: -79 Ch: 10 Peer MAC: d4:63:c6:82:14:fe SEQ: 56 EID: 0 SSID:  
+
+Count: 1880
+RSSI: -82 Ch: 10 Peer MAC: d4:63:c6:82:14:fe SEQ: 56 EID: 0 SSID:  
+
+Count: 1881
+RSSI: -84 Ch: 10 Peer MAC: d4:63:c6:82:14:fe SEQ: 56 EID: 0 SSID:  
+
+Count: 1882
+RSSI: -87 Ch: 11 Peer MAC: 78:88:6d:62:c0:6b SEQ: 96 EID: 0 SSID:  
+
+Count: 1883
+RSSI: -84 Ch: 11 Peer MAC: 78:88:6d:62:c0:6b SEQ: 96 EID: 0 SSID:  
+
+Count: 1884
+RSSI: -89 Ch: 11 Peer MAC: ec:88:92:45:82:e3 SEQ: 30 EID: 0 SSID:  
+
+Count: 1885
+RSSI: -80 Ch: 11 Peer MAC: ec:88:92:45:82:e3 SEQ: 30 EID: 0 SSID:  
+
+Count: 1886
+RSSI: -80 Ch: 11 Peer MAC: ec:88:92:45:82:e3 SEQ: 31 EID: 0 SSID:  
+
+Count: 1887
+RSSI: -73 Ch: 11 Peer MAC: ec:88:92:45:82:e3 SEQ: 31 EID: 0 SSID:  
+
+Count: 1888
+RSSI: -81 Ch: 11 Peer MAC: ec:88:92:45:82:e3 SEQ: 31 EID: 0 SSID:  
+
+Count: 1889
+RSSI: -75 Ch: 11 Peer MAC: ec:88:92:45:82:e3 SEQ: 31 EID: 0 SSID:  
+
+Count: 1890
+RSSI: -76 Ch: 11 Peer MAC: ec:88:92:45:82:e3 SEQ: 31 EID: 0 SSID:  
+
+Count: 1891
+RSSI: -79 Ch: 11 Peer MAC: ec:88:92:45:82:e3 SEQ: 31 EID: 0 SSID:  
+
+Count: 1892
+RSSI: -80 Ch: 11 Peer MAC: ec:88:92:45:82:e3 SEQ: 31 EID: 0 SSID:  
+
+Count: 1893
+RSSI: -84 Ch: 13 Peer MAC: 98:39:8e:c6:49:19 SEQ: 123 EID: 0 SSID:  
+
+Count: 1894
+RSSI: -88 Ch: 3 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 248 EID: 0 SSID:  
+
+Count: 1895
+RSSI: -38 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 190 EID: 0 SSID: VIVO-3734 
+
+Count: 1896
+RSSI: -34 Ch: 5 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 190 EID: 0 SSID: VIVO-3734 
+
+Count: 1897
+RSSI: -38 Ch: 5 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 190 EID: 0 SSID: VIVO-3734 
+
+Count: 1898
+RSSI: -27 Ch: 5 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 191 EID: 0 SSID: VIVO-3734 
+
+Count: 1899
+RSSI: -26 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 191 EID: 0 SSID: VIVO-3734 
+
+Count: 1900
+RSSI: -27 Ch: 6 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 192 EID: 0 SSID: VIVO-3734 
+
+Count: 1901
+RSSI: -63 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 193 EID: 0 SSID: VIVO-3734 
+
+Count: 1902
+RSSI: -68 Ch: 7 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 193 EID: 0 SSID: VIVO-3734 
+
+Count: 1903
+RSSI: -87 Ch: 3 Peer MAC: 10:f1:f2:52:43:6c SEQ: 186 EID: 0 SSID:  
+
+Count: 1904
+RSSI: -87 Ch: 4 Peer MAC: 10:f1:f2:52:43:6c SEQ: 186 EID: 0 SSID:  
+
+Count: 1905
+RSSI: -85 Ch: 6 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 250 EID: 0 SSID:  
+
+Count: 1906
+RSSI: -84 Ch: 9 Peer MAC: 78:88:6d:62:c0:6b SEQ: 99 EID: 0 SSID: e04c5a 
+
+Count: 1907
+RSSI: -84 Ch: 9 Peer MAC: 78:88:6d:62:c0:6b SEQ: 99 EID: 0 SSID: e04c5a 
+
+Count: 1908
+RSSI: -93 Ch: 13 Peer MAC: f4:f5:24:14:fd:eb SEQ: 23 EID: 0 SSID: YOUNGTEMAKERIA 
+
+Count: 1909
+RSSI: -90 Ch: 1 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 252 EID: 0 SSID:  
+
+Count: 1910
+RSSI: -87 Ch: 3 Peer MAC: 88:36:5f:ea:e1:15 SEQ: 171 EID: 0 SSID:  
+
+Count: 1911
+RSSI: -86 Ch: 3 Peer MAC: f4:f5:24:14:fd:eb SEQ: 24 EID: 0 SSID:  
+
+Count: 1912
+RSSI: -85 Ch: 4 Peer MAC: f4:f5:24:14:fd:eb SEQ: 24 EID: 0 SSID:  
+
+Count: 1913
+RSSI: -83 Ch: 10 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 254 EID: 0 SSID:  
+
+Count: 1914
+RSSI: -81 Ch: 6 Peer MAC: ec:88:92:45:82:e3 SEQ: 32 EID: 0 SSID:  
+
+Count: 1915
+RSSI: -78 Ch: 6 Peer MAC: ec:88:92:45:82:e3 SEQ: 32 EID: 0 SSID:  
+
+Count: 1916
+RSSI: -78 Ch: 6 Peer MAC: ec:88:92:45:82:e3 SEQ: 32 EID: 0 SSID:  
+
+Count: 1917
+RSSI: -81 Ch: 6 Peer MAC: ec:88:92:45:82:e3 SEQ: 32 EID: 0 SSID:  
+
+Count: 1918
+RSSI: -78 Ch: 6 Peer MAC: ec:88:92:45:82:e3 SEQ: 32 EID: 0 SSID:  
+
+Count: 1919
+RSSI: -79 Ch: 6 Peer MAC: ec:88:92:45:82:e3 SEQ: 32 EID: 0 SSID:  
+
+Count: 1920
+RSSI: -75 Ch: 6 Peer MAC: ec:88:92:45:82:e3 SEQ: 32 EID: 0 SSID:  
+
+Count: 1921
+RSSI: -86 Ch: 12 Peer MAC: 98:39:8e:c6:49:19 SEQ: 131 EID: 0 SSID:  
+
+Count: 1922
+RSSI: -86 Ch: 12 Peer MAC: 98:39:8e:c6:49:19 SEQ: 131 EID: 0 SSID:  
+
+Count: 1923
+RSSI: -27 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 193 EID: 0 SSID: VIVO-3734 
+
+Count: 1924
+RSSI: -34 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 193 EID: 0 SSID: VIVO-3734 
+
+Count: 1925
+RSSI: -63 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 193 EID: 0 SSID: VIVO-3734 
+
+Count: 1926
+RSSI: -79 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 193 EID: 0 SSID: VIVO-3734 
+
+Count: 1927
+RSSI: -65 Ch: 2 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 194 EID: 0 SSID: VIVO-3734 
+
+Count: 1928
+RSSI: -25 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 194 EID: 0 SSID: VIVO-3734 
+
+Count: 1929
+RSSI: -29 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 194 EID: 0 SSID: VIVO-3734 
+
+Count: 1930
+RSSI: -23 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 194 EID: 0 SSID: VIVO-3734 
+
+Count: 1931
+RSSI: -27 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 194 EID: 0 SSID: VIVO-3734 
+
+Count: 1932
+RSSI: -24 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 195 EID: 0 SSID: VIVO-3734 
+
+Count: 1933
+RSSI: -29 Ch: 3 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 195 EID: 0 SSID: VIVO-3734 
+
+Count: 1934
+RSSI: -25 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 195 EID: 0 SSID: VIVO-3734 
+
+Count: 1935
+RSSI: -29 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 195 EID: 0 SSID: VIVO-3734 
+
+Count: 1936
+RSSI: -62 Ch: 4 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 195 EID: 0 SSID: VIVO-3734 
+
+Count: 1937
+RSSI: -87 Ch: 6 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 0 EID: 0 SSID:  
+
+Count: 1938
+RSSI: -86 Ch: 2 Peer MAC: 10:f1:f2:52:43:6c SEQ: 190 EID: 0 SSID:  
+
+Count: 1939
+RSSI: -87 Ch: 2 Peer MAC: 10:f1:f2:52:43:6c SEQ: 190 EID: 0 SSID:  
+
+Count: 1940
+RSSI: -83 Ch: 9 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 2 EID: 0 SSID:  
+
+Count: 1941
+RSSI: -86 Ch: 2 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 2 EID: 0 SSID:  
+
+Count: 1942
+RSSI: -86 Ch: 10 Peer MAC: cc:61:e5:6b:33:13 SEQ: 146 EID: 0 SSID:  
+
+Count: 1943
+RSSI: -85 Ch: 10 Peer MAC: cc:61:e5:6b:33:13 SEQ: 146 EID: 0 SSID:  
+
+Count: 1944
+RSSI: -83 Ch: 13 Peer MAC: 78:88:6d:62:c0:6b SEQ: 119 EID: 0 SSID: e04c5a 
+
+Count: 1945
+RSSI: -80 Ch: 1 Peer MAC: ec:88:92:45:82:e3 SEQ: 33 EID: 0 SSID:  
+
+Count: 1946
+RSSI: -81 Ch: 1 Peer MAC: ec:88:92:45:82:e3 SEQ: 33 EID: 0 SSID:  
+
+Count: 1947
+RSSI: -81 Ch: 1 Peer MAC: ec:88:92:45:82:e3 SEQ: 33 EID: 0 SSID:  
+
+Count: 1948
+RSSI: -81 Ch: 1 Peer MAC: ec:88:92:45:82:e3 SEQ: 33 EID: 0 SSID:  
+
+Count: 1949
+RSSI: -86 Ch: 6 Peer MAC: d4:63:c6:82:14:fe SEQ: 64 EID: 0 SSID:  
+
+Count: 1950
+RSSI: -84 Ch: 6 Peer MAC: d4:63:c6:82:14:fe SEQ: 64 EID: 0 SSID:  
+
+Count: 1951
+RSSI: -90 Ch: 6 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 6 EID: 0 SSID:  
+
+Count: 1952
+RSSI: -82 Ch: 7 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 21 EID: 0 SSID:  
+
+Count: 1953
+RSSI: -75 Ch: 7 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 22 EID: 0 SSID:  
+
+Count: 1954
+RSSI: -75 Ch: 7 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 22 EID: 0 SSID:  
+
+Count: 1955
+RSSI: -72 Ch: 7 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 22 EID: 0 SSID:  
+
+Count: 1956
+RSSI: -73 Ch: 7 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 22 EID: 0 SSID:  
+
+Count: 1957
+RSSI: -79 Ch: 7 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 22 EID: 0 SSID:  
+
+Count: 1958
+RSSI: -77 Ch: 7 Peer MAC: 2c:fd:a1:65:1f:41 SEQ: 22 EID: 0 SSID:  
+
+Count: 1959
+RSSI: -28 Ch: 12 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 197 EID: 0 SSID: VIVO-3734 
+
+Count: 1960
+RSSI: -34 Ch: 12 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 197 EID: 0 SSID: VIVO-3734 
+
+Count: 1961
+RSSI: -28 Ch: 13 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 197 EID: 0 SSID: VIVO-3734 
+
+Count: 1962
+RSSI: -28 Ch: 13 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 197 EID: 0 SSID: VIVO-3734 
+
+Count: 1963
+RSSI: -63 Ch: 1 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 198 EID: 0 SSID: VIVO-3734 
+
+Count: 1964
+RSSI: -81 Ch: 9 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 8 EID: 0 SSID:  
+
+Count: 1965
+RSSI: -85 Ch: 9 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 8 EID: 0 SSID:  
+
+Count: 1966
+RSSI: -88 Ch: 1 Peer MAC: 8a:58:be:5d:16:95 SEQ: 71 EID: 0 SSID:  
+
+Count: 1967
+RSSI: -86 Ch: 5 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 11 EID: 0 SSID:  
+
+Count: 1968
+RSSI: -87 Ch: 5 Peer MAC: 40:65:a3:84:cd:c4 SEQ: 202 EID: 0 SSID:  
+
+Count: 1969
+RSSI: -83 Ch: 7 Peer MAC: d4:63:c6:82:14:fe SEQ: 70 EID: 0 SSID:  
+
+Count: 1970
+RSSI: -85 Ch: 7 Peer MAC: 18:8b:15:0c:8b:a9 SEQ: 12 EID: 0 SSID:  
+
+Count: 1971
+RSSI: -77 Ch: 10 Peer MAC: ec:88:92:45:82:e3 SEQ: 37 EID: 0 SSID:  
+
+Count: 1972
+RSSI: -77 Ch: 10 Peer MAC: ec:88:92:45:82:e3 SEQ: 37 EID: 0 SSID:  
+
+Count: 1973
+RSSI: -76 Ch: 10 Peer MAC: ec:88:92:45:82:e3 SEQ: 37 EID: 0 SSID:  
+
+Count: 1974
+RSSI: -73 Ch: 10 Peer MAC: ec:88:92:45:82:e3 SEQ: 37 EID: 0 SSID:  
+
+Count: 1975
+RSSI: -78 Ch: 10 Peer MAC: ec:88:92:45:82:e3 SEQ: 37 EID: 0 SSID:  
+
+Count: 1976
+RSSI: -75 Ch: 10 Peer MAC: ec:88:92:45:82:e3 SEQ: 37 EID: 0 SSID:  
+
+Count: 1977
+RSSI: -75 Ch: 10 Peer MAC: ec:88:92:45:82:e3 SEQ: 37 EID: 0 SSID:  
+
+Count: 1978
+RSSI: -76 Ch: 10 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 200 EID: 0 SSID: VIVO-3734 
+
+Count: 1979
+RSSI: -47 Ch: 10 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 200 EID: 0 SSID: VIVO-3734 
+
+Count: 1980
+RSSI: -50 Ch: 10 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 200 EID: 0 SSID: VIVO-3734 
+
+Count: 1981
+RSSI: -53 Ch: 11 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 200 EID: 0 SSID: VIVO-3734 
+
+Count: 1982
+RSSI: -43 Ch: 13 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 202 EID: 0 SSID: VIVO-3734 
+
+Count: 1983
+RSSI: -44 Ch: 13 Peer MAC: 94:39:e5:ef:2d:fb SEQ: 202 EID: 0 SSID: VIVO-3734 
+
+Count: 1984
