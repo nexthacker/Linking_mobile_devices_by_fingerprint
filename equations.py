@@ -18,7 +18,7 @@ def inter(list1, list2):  # recebe dois conjuntos de SSIDs para ver quais estão
 def rarity(inter_list):  # recebe a lista da intersection retornada na funcao INTER
     result = 0
     for item in inter_list:
-        result += (log(frequency(get_all_ssids(), get_all_ssids(item)), 10))*-1
+        result += (log(frequency(get_all_ssids(), search_all_ssid_macs(item)), 10))*-1
     return result
 
 
@@ -27,4 +27,15 @@ def jaccard_similarity(x,y):
     union_cardinality = len(set.union(*[set(x), set(y)]))
     return intersection_cardinality/float(union_cardinality)
 
+def adamic(inter_list):
+    result = 0
+    for item in inter_list:
+        result += 1/(log(frequency(get_all_ssids(), search_all_ssid_macs(item))))
+    return result
 
+def modify_adamic(inter_list):
+    result = 0
+    q = 3
+    for item in inter_list:
+        result += 1/(frequency(get_all_ssids(), search_all_ssid_macs(item))*q)
+    return result
