@@ -33,23 +33,27 @@ def jaccard_similarity(x,y):
     union_cardinality = len(set.union(*[set(x), set(y)]))
     return intersection_cardinality/float(union_cardinality)
 
-def adamic(inter_list):
+def adamic(mac1, mac2):
+    intersect = inter(search_ssid_by_mac(mac1), search_ssid_by_mac(mac2))
     result = 0
-    for item in inter_list:
-        result += 1/(log(frequency(get_all_ssids(), search_all_ssid_macs(item)), 10))
+    if intersect:
+        for item in intersect:
+            result += 1/(log(frequency(get_all_ssids(), search_all_ssid_macs(item)), 10))
     return result
 
-def modify_adamic(inter_list):
+def modify_adamic(mac1, mac2):      # calcula a similaridade usando a constante q
+    intersect = inter(search_ssid_by_mac(mac1), search_ssid_by_mac(mac2))
     result = 0
     q = 3
-    for item in inter_list:
-        result += 1/(frequency(get_all_ssids(), search_all_ssid_macs(item))*q)
+    if intersect:
+        for item in intersect:
+            result += 1/(frequency(get_all_ssids(), search_all_ssid_macs(item))*q)
     return result
 
-def idf(ssd, all_macs):
+def idf(ssd, all_macs):         # calcula o IDF do SSID x
     log(1/(frequency(ssd, all_macs)), 10)
 
-def idf_similarity(mac1, mac2):
+def idf_similarity(mac1, mac2):     # calcula a similaridade baseada do IDF
     intersect = inter(search_ssid_by_mac(mac1), search_ssid_by_mac(mac2))
     union_macs = union(search_ssid_by_mac(mac1), search_ssid_by_mac(mac2))
     top = 0
