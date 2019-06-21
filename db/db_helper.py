@@ -12,7 +12,7 @@ class MacAdress(Base):
     id = Column("id", Integer, primary_key=True)
     mac = Column("mac", String(32), unique=True)
 
-class SsidObj(Base):
+class SsidTable(Base):
     __tablename__ = "ssid"
     id = Column("id", Integer, primary_key=True)
     ssid = Column("ssid", String(32), unique=True)
@@ -20,7 +20,7 @@ class SsidObj(Base):
 class Mac_ssid(Base):
     __tablename__ = "ssid_mac"
     id = Column("id", Integer, primary_key=True)
-    mac_adress = Column("mac_id", String(32))
+    mac_adress = Column("mac_adress", String(32))
     ssid = Column("ssid_id", String(32))
 
 class Link(Base):

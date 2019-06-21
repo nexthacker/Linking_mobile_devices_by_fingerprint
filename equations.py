@@ -17,9 +17,11 @@ def inter(list1, list2):  # recebe dois conjuntos de SSIDs para ver quais estão
 
 def rarity(mac1, mac2):  # recebe a lista da intersection retornada na funcao INTER
     intersect = inter(search_ssid_by_mac(mac1), search_ssid_by_mac(mac2))
+    print(intersect)
     result = 0
-    for item in intersect:
-        result += (log(frequency(search_all_ssid_macs(item), get_all_ssids()), 10))*-1
+    if intersect:
+        for item in intersect:
+            result += (log(frequency(search_all_ssid_macs(item), get_all_ssids()), 10))*-1
     return result
 
 

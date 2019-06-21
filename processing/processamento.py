@@ -11,7 +11,7 @@ def process_entry(num_coleta):
             # print(entrada)
             if entrada not in lista_entradas:
                 lista_entradas.append(entrada)
-                add_mac(entrada[0])
-                add_ssid(entrada[1])
+                # add_mac(entrada[0])
+                # add_ssid(entrada[1])
                 add_line(entrada[0], entrada[1])
-
+        #TODO: solve this
