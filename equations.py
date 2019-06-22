@@ -51,7 +51,7 @@ def modify_adamic(mac1, mac2):      # calcula a similaridade usando a constante 
     return result
 
 def idf(ssd, all_macs):         # calcula o IDF do SSID x
-    log(1/(frequency(ssd, all_macs)), 10)
+    return log(1/(frequency(ssd, all_macs)), 10)
 
 def idf_similarity(mac1, mac2):     # calcula a similaridade baseada do IDF
     intersect = inter(search_ssid_by_mac(mac1), search_ssid_by_mac(mac2))
