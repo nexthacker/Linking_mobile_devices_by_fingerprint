@@ -28,9 +28,9 @@ def rarity(mac1, mac2):  # recebe a lista da intersection retornada na funcao IN
     return result
 
 
-def jaccard_similarity(x,y):
-    intersection_cardinality = len(set.intersection(*[set(x), set(y)]))
-    union_cardinality = len(set.union(*[set(x), set(y)]))
+def jaccard_similarity(mac1, mac2):
+    intersection_cardinality = len(inter(search_ssid_by_mac(mac1), search_ssid_by_mac(mac2)))
+    union_cardinality = len(union(search_ssid_by_mac(mac1), search_ssid_by_mac(mac2)))
     return intersection_cardinality/float(union_cardinality)
 
 def adamic(mac1, mac2):
@@ -51,7 +51,7 @@ def modify_adamic(mac1, mac2):      # calcula a similaridade usando a constante 
     return result
 
 def idf(ssd, all_macs):         # calcula o IDF do SSID x
-    log(1/(frequency(ssd, all_macs)), 10)
+    return log(1/(frequency(ssd, all_macs)), 10)
 
 def idf_similarity(mac1, mac2):     # calcula a similaridade baseada do IDF
     intersect = inter(search_ssid_by_mac(mac1), search_ssid_by_mac(mac2))
