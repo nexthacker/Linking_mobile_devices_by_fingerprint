@@ -8,3 +8,4 @@ import matplotlib.pyplot as plt
 #TODO: rarity between pairs comparison graph
 
 def create_df():
+    pass

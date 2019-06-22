@@ -14,6 +14,15 @@ def add_mac(mac_entry):
     session.close()
     return mac_id
 
+def get_mac(mac_entry):
+    session = get_session()
+    session = session()
+    returning_mac = session.query(MacAdress).filter(MacAdress.mac == mac_entry).all()
+    session.close()
+    if returning_mac:
+        return returning_mac[0].mac
+    else:
+        return None
 
 def add_ssid(ssid_entry):
     session =  get_session()
@@ -23,9 +32,30 @@ def add_ssid(ssid_entry):
     session.add(new_ssid)
     session.commit()
     session.refresh(new_ssid)
-    ssid_id =  new_ssid.id
+    ssid_id = new_ssid.id
     session.close()
     return ssid_id
+
+def get_ssid(ssid_entry):
+    session = get_session()
+    session = session()
+    returning_ssid = session.query(SsidTable).filter(SsidTable.ssid == ssid_entry).all()
+    session.close()
+    if returning_ssid:
+        return returning_ssid[0].ssid
+    else:
+        return None
+
+
+def get_line(line_entry):
+    session = get_session()
+    session = session()
+    returning_line = session.query(Mac_ssid).filter(Mac_ssid.mac_adress == line_entry[0] and Mac_ssid.ssid == line_entry[1]).all()
+    session.close()
+    if returning_line:
+        return returning_line[0].mac_adress, returning_line[0].ssid
+    else:
+        return None
 
 
 def search_mac_by_adress(adress):
