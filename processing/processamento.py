@@ -8,11 +8,14 @@ def process_entry(num_coleta):
         entrada = entrada.split()
         if entrada[1] != "\x00":
             entrada[1] = entrada[1].replace("\x00", "")
-            # print(entrada)
-            if not get_mac(entrada[0]):
-                add_mac(entrada[0])
-            if not get_ssid(entrada[1]):
-                add_ssid(entrada[1])
-            if not get_line((entrada[0], entrada[1])):
-                add_line(entrada[0], entrada[1])
+            if not entrada[1] == "SSID:":
+                if not get_mac(entrada[0]):
+                    add_mac(entrada[0])
+                if not get_ssid(entrada[1]):
+                    add_ssid(entrada[1])
+                if not get_line((entrada[0], entrada[1])):
+                    add_line(entrada[0], entrada[1])
+            else:
+                if not get_mac(entrada[0]):
+                    add_mac(entrada[0])
 

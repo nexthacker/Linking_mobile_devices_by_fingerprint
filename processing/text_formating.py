@@ -14,7 +14,6 @@ def text_processing(num_coletas):
         except:
             print("coleta_{} not default".format(x))
 
-
         if not working:
 
             try:
