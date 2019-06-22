@@ -3,7 +3,7 @@ from processing import processamento as pro
 from db import db_helper as dbh
 from equations import rarity, modify_adamic, idf, idf_similarity
 
-num_colestas = 6
+num_colestas = 19
 if __name__ == "__main__":
     print('Iniciando tabelas...')
     dbh.init(drop_tables=False)

@@ -1,5 +1,4 @@
-Count: 1
-RSSI: -67 Ch: 4 Peer MAC: d4:63:c6:15:f8:59 SEQ: 35 EID: 0 SSID: #NET-CLARO-WIFI 
+RSSI: -67 Ch: 4 Peer MAC: d4:63:c6:15:f8:59 SEQ: 35 EID: 0 SSID: #NET-CLARO-WIFI
 
 Count: 2
 RSSI: -66 Ch: 4 Peer MAC: d4:63:c6:15:f8:59 SEQ: 35 EID: 0 SSID: GVT 

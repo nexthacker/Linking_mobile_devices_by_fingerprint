@@ -1,5 +1,4 @@
-Count: 0 
-RSSI: -85 Ch: 1 Peer MAC: d0:04:01:e4:c8:c2 SEQ: 196 EID: 0 SSID:  
+RSSI: -85 Ch: 1 Peer MAC: d0:04:01:e4:c8:c2 SEQ: 196 EID: 0 SSID:
 
 Count: 1
 RSSI: -82 Ch: 1 Peer MAC: d0:04:01:e4:c8:c2 SEQ: 196 EID: 0 SSID:  
