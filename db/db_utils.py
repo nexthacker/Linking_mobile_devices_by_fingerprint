@@ -24,6 +24,39 @@ def get_mac(mac_entry):
     else:
         return None
 
+
+def add_link(mac1, mac2, jaccard, adamic, m_adamic, idf, idf_similarity):
+    session = get_session()
+    session = session()
+    new_link = Link()
+    new_link.mac_id = mac1
+    new_link.mac2_id = mac2
+    new_link.jaccard_score = jaccard
+    new_link.adamic_score = adamic
+    new_link.mod_adamic_score = m_adamic
+    new_link.idf_score = idf
+    new_link.idf_similarity_score = idf_similarity
+    session.add(new_link)
+    session.commit()
+    session.refresh(new_link)
+    session.close()
+    link_id = new_link.id
+    return link_id if link_id else None
+
+
+def get_link(mac1, mac2):
+    session = get_session()
+    session = session()
+    returning_link = session.query(Link).filter(Link.mac_id == mac1 and Link.mac2_id == mac2).all()
+    session.close()
+    if returning_link:
+        returning_link = returning_link[0]
+        link_obj = LinkOBJ(returning_link[0], returning_link[1], returning_link[2], returning_link[3],
+                           returning_link[4], returning_link[5], returning_link[6])
+        return link_obj
+    else:
+        return None
+
 def add_ssid(ssid_entry):
     session =  get_session()
     session = session()
@@ -75,11 +108,11 @@ def search_mac_by_adress(adress):
         else:
             print("[Warning]: There is no SSid for mac adress {}".format(adress))
             session.close()
-            return None
+            return []
     else:
         print("[Warning]: Mac adress {} doesn't exists".format(adress))
         session.close()
-        return None
+        return []
 
 
 def search_all_ssid_macs(ssid):
@@ -94,7 +127,7 @@ def search_all_ssid_macs(ssid):
         return list_macs
     else:
         session.close()
-        return None
+        return []
 
 
 def get_all_macs():

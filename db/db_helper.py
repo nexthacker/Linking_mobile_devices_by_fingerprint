@@ -6,16 +6,19 @@ from sqlalchemy_utils import database_exists, create_database
 
 Base = declarative_base()
 
+
 class MacAdress(Base):
     __tablename__ = "mac"
 
     id = Column("id", Integer, primary_key=True)
     mac = Column("mac", String(32), unique=True)
 
+
 class SsidTable(Base):
     __tablename__ = "ssid"
     id = Column("id", Integer, primary_key=True)
     ssid = Column("ssid", String(32), unique=True)
+
 
 class Mac_ssid(Base):
     __tablename__ = "ssid_mac"
@@ -23,11 +26,18 @@ class Mac_ssid(Base):
     mac_adress = Column("mac_adress", String(32))
     ssid = Column("ssid_id", String(32))
 
+
 class Link(Base):
     __tablename__ = "links"
     id = Column("id", Integer, primary_key=True)
     mac_id = Column("device1_id", String(32))
     mac2_id = Column("device2_id", String(32))
+    jaccard_score = Column("jaccard_score", float)
+    adamic_score = Column("adamic_score", float)
+    mod_adamic_score = Column("mod_adamic_score", float)
+    idf_score = Column("idf_score", float)
+    idf_similarity_score = Column("idf_similarity_score", float)
+
 
 def get_engine():
     user = "root"
