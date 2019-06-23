@@ -55,7 +55,7 @@ def get_session():
     return sessionmaker(bind=engine,expire_on_commit=False)
 
 
-def init(drop_tables=True):
+def init(drop_tables):
     engine = get_engine()
     if not database_exists(engine.url):
         create_database(engine.url)

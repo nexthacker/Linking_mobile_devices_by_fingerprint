@@ -73,4 +73,7 @@ def idf_similarity(mac1, mac2):     # calcula a similaridade baseada do IDF
         if x in search_ssid_by_mac(mac2):
             bottom2 += math.sqrt(idf(x, get_all_ssids())**2)
 
-    return top/(bottom1*bottom2)
+    if bottom1 == 0 or bottom2 == 0:
+        return 0
+    else:
+        return top/(bottom1*bottom2)
