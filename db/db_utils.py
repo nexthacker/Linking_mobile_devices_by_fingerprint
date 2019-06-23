@@ -134,7 +134,7 @@ def get_all_macs():
     session = get_session()
     session = session()
     list_of_macs = [] 
-    query = session.query(Mac).all()
+    query = session.query(MacAdress).all()
     session.close()
     for mac in query:
         list_of_macs.append(mac.mac)

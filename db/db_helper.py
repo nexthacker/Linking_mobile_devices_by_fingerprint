@@ -1,4 +1,4 @@
-from sqlalchemy import create_engine, Column, Integer, String, Boolean, ForeignKey
+from sqlalchemy import create_engine, Column, Integer, String, Boolean, ForeignKey, Float
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy_utils import database_exists, create_database
@@ -32,11 +32,11 @@ class Link(Base):
     id = Column("id", Integer, primary_key=True)
     mac_id = Column("device1_id", String(32))
     mac2_id = Column("device2_id", String(32))
-    jaccard_score = Column("jaccard_score", float)
-    adamic_score = Column("adamic_score", float)
-    mod_adamic_score = Column("mod_adamic_score", float)
-    idf_score = Column("idf_score", float)
-    idf_similarity_score = Column("idf_similarity_score", float)
+    jaccard_score = Column("jaccard_score", Float)
+    adamic_score = Column("adamic_score", Float)
+    mod_adamic_score = Column("mod_adamic_score", Float)
+    idf_score = Column("idf_score", Float)
+    idf_similarity_score = Column("idf_similarity_score", Float)
 
 
 def get_engine():
