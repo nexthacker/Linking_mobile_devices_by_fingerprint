@@ -1,7 +1,8 @@
 
 def text_processing(num_coletas):
-    values = []
-    for x in range(1,num_coletas):
+
+    for x in range(1, num_coletas+1):
+        values = []
         arquivo = []
         working = False
 

@@ -1,3 +1,5 @@
+from sqlalchemy import and_
+
 from db.db_helper import get_session, MacAdress, SsidTable, Link, Mac_ssid
 from processing.application_objects import *
 
@@ -47,7 +49,7 @@ def add_link(mac1, mac2, jaccard, adamic, m_adamic, idf, idf_similarity):
 def get_link(mac1, mac2):
     session = get_session()
     session = session()
-    returning_link = session.query(Link).filter(Link.mac_id == mac1 and Link.mac2_id == mac2).all()
+    returning_link = session.query(Link).filter(and_(Link.mac_id == mac1,Link.mac2_id == mac2)).all()
     session.close()
     if returning_link:
         returning_link = returning_link[0]
@@ -83,10 +85,10 @@ def get_ssid(ssid_entry):
 def get_line(line_entry):
     session = get_session()
     session = session()
-    returning_line = session.query(Mac_ssid).filter(Mac_ssid.mac_adress == line_entry[0] and Mac_ssid.ssid == line_entry[1]).all()
+    returning_line = session.query(Mac_ssid).filter(and_(Mac_ssid.mac_adress == line_entry[0], Mac_ssid.ssid == line_entry[1])).all()
     session.close()
     if returning_line:
-        return returning_line[0].mac_adress, returning_line[0].ssid
+        return True
     else:
         return None
 

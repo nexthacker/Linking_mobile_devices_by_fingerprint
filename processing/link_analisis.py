@@ -6,14 +6,12 @@ def define_links():
     mac_list = get_all_macs()
     count = 0
     for mac in mac_list:
-        count +=1
-        print(count)
         for new_mac in mac_list:
             print("[Warning] current macs for evaluation {} <<<>>>> {}".format(mac, new_mac))
             if new_mac == mac:
                 pass
             else:
-                if len(search_ssid_by_mac(mac)) == 0:
+                if len(search_ssid_by_mac(mac)) <= 1:
                     print("[WARNING] Jumping to the next mac adress, current one is invalid")
                     break
                 elif len(search_ssid_by_mac(new_mac)) == 0:
@@ -31,5 +29,9 @@ def define_links():
                     print("[RESULT] IDF SIMILARITY: {}".format(idf_similarity_score))
 
                     add_link(mac, new_mac, jaccard, adamic_score, m_adamic, idf_score, idf_similarity_score)
+
+                    count += 1
+                    print("[COUNT] : {}".format(count))
+    print("[COUNT] : {}".format(count))
 
 
