@@ -26,7 +26,7 @@ def rarity(mac1, mac2):  # recebe a lista da intersection retornada na funcao IN
     result = 0
     if intersect:
         for item in intersect:
-            result += (log(frequency(search_all_ssid_macs(item), get_all_ssids()), 10))*-1
+            result += (log(frequency(search_all_ssid_macs(item), get_all_ssid_apearences()), 10))*-1
     return result
 
 
@@ -69,13 +69,16 @@ def idf_similarity(mac1, mac2):     # calcula a similaridade baseada do IDF
     top = 0
     bottom1 = 0
     bottom2 = 0
-    for x in union_macs:
-        if x in intersect:
-            top += idf(x, get_all_ssids())**2
-        if x in search_ssid_by_mac(mac1):
-            bottom1 += math.sqrt(idf(x, get_all_ssids())**2)
-        if x in search_ssid_by_mac(mac2):
-            bottom2 += math.sqrt(idf(x, get_all_ssids())**2)
+    if intersect == 0:
+        return 0
+    else:
+        for x in union_macs:
+            if x in intersect:
+                top += idf(x, get_all_ssids())**2
+            if x in search_ssid_by_mac(mac1):
+                bottom1 += math.sqrt(idf(x, get_all_ssids())**2)
+            if x in search_ssid_by_mac(mac2):
+                bottom2 += math.sqrt(idf(x, get_all_ssids())**2)
 
     if bottom1 == 0 or bottom2 == 0:
         return 0

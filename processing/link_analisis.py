@@ -4,13 +4,20 @@ from equations import jaccard_similarity, adamic, modify_adamic, idf, idf_simila
 
 def define_links():
     mac_list = get_all_macs()
+    count = 0
     for mac in mac_list:
+        count +=1
+        print(count)
         for new_mac in mac_list:
+            print("[Warning] current macs for evaluation {} <<<>>>> {}".format(mac, new_mac))
             if new_mac == mac:
                 pass
             else:
-                if len(search_ssid_by_mac(mac)) <= 1 or len(search_ssid_by_mac(new_mac)) <= 1:
-                    pass
+                if len(search_ssid_by_mac(mac)) == 0:
+                    print("[WARNING] Jumping to the next mac adress, current one is invalid")
+                    break
+                elif len(search_ssid_by_mac(new_mac)) == 0:
+                    print("[WARNING] Jumping to the next secondary mac adress, current one is invalid")
                 else:
                     jaccard = jaccard_similarity(mac, new_mac)
                     print("[RESULT] JACCARD: {}".format(jaccard))
@@ -23,6 +30,6 @@ def define_links():
                     idf_similarity_score = idf_similarity(mac, new_mac)
                     print("[RESULT] IDF SIMILARITY: {}".format(idf_similarity_score))
 
-                    add_link(mac, new_mac, jaccard, adamic, m_adamic, idf, idf_similarity)
+                    add_link(mac, new_mac, jaccard, adamic_score, m_adamic, idf_score, idf_similarity_score)
 
 

@@ -152,6 +152,20 @@ def get_all_ssids():
     return list_of_ssids
 
 
+def get_all_ssid_apearences():
+    session = get_session()
+    session = session()
+    list_of_ssids = []
+    query = session.query(Mac_ssid).all()
+    session.close()
+    if query:
+        for returning_ssid in query:
+            list_of_ssids.append(returning_ssid.ssid)
+        return list_of_ssids
+    else:
+        return []
+
+
 def search_ssid_by_mac(mac):
     list_ssid = []
     session = get_session()
