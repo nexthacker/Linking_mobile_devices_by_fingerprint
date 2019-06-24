@@ -9,19 +9,19 @@ def define_links():
             if new_mac == mac:
                 pass
             else:
-                if not search_ssid_by_mac(mac) or not search_ssid_by_mac(new_mac):
+                if len(search_ssid_by_mac(mac)) <= 1 or len(search_ssid_by_mac(new_mac)) <= 1:
                     pass
                 else:
                     jaccard = jaccard_similarity(mac, new_mac)
                     print("[RESULT] JACCARD: {}".format(jaccard))
-                    adamic = adamic(mac, new_mac)
-                    print("[RESULT] ADAMIC: {}".format(adamic))
+                    adamic_score = adamic(mac, new_mac)
+                    print("[RESULT] ADAMIC: {}".format(adamic_score))
                     m_adamic = modify_adamic(mac, new_mac)
                     print("[RESULT] M_ADAMIC: {}".format(m_adamic))
-                    idf = idf(mac, new_mac)
-                    print("[RESULT] IDF: {}".format(idf))
-                    idf_similarity = idf_similarity(mac, new_mac)
-                    print("[RESULT] IDF SIMILARITY: {}".format(idf_similarity))
+                    idf_score = idf(mac, new_mac)
+                    print("[RESULT] IDF: {}".format(idf_score))
+                    idf_similarity_score = idf_similarity(mac, new_mac)
+                    print("[RESULT] IDF SIMILARITY: {}".format(idf_similarity_score))
 
                     add_link(mac, new_mac, jaccard, adamic, m_adamic, idf, idf_similarity)
 
