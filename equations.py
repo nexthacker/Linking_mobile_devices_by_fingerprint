@@ -31,7 +31,11 @@ def rarity(mac1, mac2):  # recebe a lista da intersection retornada na funcao IN
 
 
 def jaccard_similarity(mac1, mac2):
-    intersection_cardinality = len(inter(search_ssid_by_mac(mac1), search_ssid_by_mac(mac2)))
+    intersect = (inter(search_ssid_by_mac(mac1), search_ssid_by_mac(mac2)))
+    if intersect != 0:
+        intersection_cardinality = len(intersect)
+    else:
+        intersection_cardinality = 0
     union_cardinality = len(union(search_ssid_by_mac(mac1), search_ssid_by_mac(mac2)))
     return intersection_cardinality/float(union_cardinality)
 
