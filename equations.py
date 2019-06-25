@@ -26,7 +26,7 @@ def rarity(mac1, mac2):  # recebe a lista da intersection retornada na funcao IN
     result = 0
     if intersect:
         for item in intersect:
-            result += (log(frequency(search_all_ssid_macs(item), get_all_ssid_apearences()), 10))*-1
+            result += (log(frequency(search_all_ssid_macs(item), get_all_macs()), 10)) * -1
     return result
 
 
