@@ -59,6 +59,18 @@ def get_link(mac1, mac2):
     else:
         return None
 
+
+def get_links():
+    session = get_session()
+    session = session()
+    output = []
+    returning_links = session.query(Link).filter(Link.adamic_score != 0).all()
+    session.close()
+    if returning_links:
+        for link in returning_links:
+            output.append((link.jaccard_score, link.adamic_score, link.mod_adamic_score, link.idf_score, link.idf_similarity_score))
+    return output
+
 def add_ssid(ssid_entry):
     session =  get_session()
     session = session()

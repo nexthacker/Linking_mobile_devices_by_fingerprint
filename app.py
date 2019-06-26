@@ -3,9 +3,9 @@ from processing import processamento as pro
 from db import db_helper as dbh
 from equations import rarity, modify_adamic, idf, idf_similarity, adamic, jaccard_similarity
 from processing.link_analisis import define_links
-from processing.graph_generation import graph_rank_ssid
+from processing.graph_generation import graph_rank_ssid, alg_comparison
 
-num_colestas = 3
+num_colestas = 1
 if __name__ == "__main__":
     print('Iniciando tabelas...')
     dbh.init(drop_tables=False)
@@ -16,4 +16,5 @@ if __name__ == "__main__":
     print("Analizando dados...")
     #define_links()
 
-graph_rank_ssid()
+# graph_rank_ssid()
+alg_comparison()
